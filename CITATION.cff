@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below and link to https://sneakerpicks.nl/data."
+title: "SneakerPicks open sneaker price data (Netherlands)"
+authors:
+  - family-names: "van der Krabben"
+    given-names: "Roel"
+    affiliation: "Taigers.ai / SneakerPicks.nl"
+license: CC-BY-4.0
+repository-code: "https://github.com/roelvdkrabben/sneakerpicks-open-prijsdata"
+url: "https://sneakerpicks.nl/data"
+keywords:
+  - sneakers
+  - retail prices
+  - price index
+  - Netherlands
+  - e-commerce
+  - discounts

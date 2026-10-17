@@ -1,0 +1,9 @@
+{
+  "title": "SneakerPicks open sneaker price data (Netherlands)",
+  "description": "Daily lowest prices and 30-day normal prices for popular sneaker models across Dutch web shops, collected by SneakerPicks.nl from affiliate product feeds. Includes a data dictionary and methodology. Collection started in 2026. Live data: https://sneakerpicks.nl/data.",
+  "upload_type": "dataset",
+  "license": "cc-by-4.0",
+  "creators": [{"name": "van der Krabben, Roel", "affiliation": "Taigers.ai / SneakerPicks.nl"}],
+  "keywords": ["sneakers", "retail prices", "price index", "Netherlands", "e-commerce", "Omnibus", "discounts"],
+  "related_identifiers": [{"identifier": "https://sneakerpicks.nl/data", "relation": "isSupplementTo"}]
+}
