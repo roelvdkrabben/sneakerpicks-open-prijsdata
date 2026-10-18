@@ -1,381 +1,419 @@
 date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,shops,model_url
 2026-07-01,adidas,campus,adidas,Campus,54,54,4,https://sneakerpicks.nl/merken/adidas/campus
 2026-07-01,adidas,campus-00s,adidas,Campus 00s,54,54,5,https://sneakerpicks.nl/merken/adidas/campus-00s
-2026-07-01,adidas,gazelle,adidas,Gazelle,59.98,59.98,8,https://sneakerpicks.nl/merken/adidas/gazelle
-2026-07-01,adidas,gazelle-bold,adidas,Gazelle Bold,56,56,5,https://sneakerpicks.nl/merken/adidas/gazelle-bold
-2026-07-01,adidas,handball-spezial,adidas,Handball Spezial,54.98,54.98,8,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-07-01,adidas,samba,adidas,Samba,50,50,7,https://sneakerpicks.nl/merken/adidas/samba
-2026-07-01,adidas,samba-og,adidas,Samba OG,70,70,8,https://sneakerpicks.nl/merken/adidas/samba-og
-2026-07-01,adidas,sl-72,adidas,SL 72,45,55,4,https://sneakerpicks.nl/merken/adidas/sl-72
-2026-07-01,adidas,stan-smith,adidas,Stan Smith,47.97,47.97,6,https://sneakerpicks.nl/merken/adidas/stan-smith
-2026-07-01,adidas,superstar,adidas,Superstar,59.98,59.99,6,https://sneakerpicks.nl/merken/adidas/superstar
-2026-07-01,adidas-originals,gazelle,adidas,Gazelle,59.98,59.98,8,https://sneakerpicks.nl/merken/adidas/gazelle
-2026-07-01,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,8,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-07-01,adidas-originals,samba-og,adidas,Samba OG,70,70,8,https://sneakerpicks.nl/merken/adidas/samba-og
-2026-07-01,adidas-originals,superstar,adidas,Superstar,59.98,59.99,6,https://sneakerpicks.nl/merken/adidas/superstar
+2026-07-01,adidas,gazelle,adidas,Gazelle,59.98,59.98,9,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-07-01,adidas,gazelle-bold,adidas,Gazelle Bold,56,56,6,https://sneakerpicks.nl/merken/adidas/gazelle-bold
+2026-07-01,adidas,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-07-01,adidas,samba,adidas,Samba,51.98,64.97,9,https://sneakerpicks.nl/merken/adidas/samba
+2026-07-01,adidas,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-07-01,adidas,sl-72,adidas,SL 72,45,50,4,https://sneakerpicks.nl/merken/adidas/sl-72
+2026-07-01,adidas,stan-smith,adidas,Stan Smith,47.97,47.97,7,https://sneakerpicks.nl/merken/adidas/stan-smith
+2026-07-01,adidas,superstar,adidas,Superstar,59.98,59.99,7,https://sneakerpicks.nl/merken/adidas/superstar
+2026-07-01,adidas-originals,gazelle,adidas,Gazelle,59.98,59.98,9,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-07-01,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-07-01,adidas-originals,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-07-01,adidas-originals,superstar,adidas,Superstar,59.98,59.99,7,https://sneakerpicks.nl/merken/adidas/superstar
 2026-07-01,asics,gel-1130,ASICS,GEL-1130,70,70,6,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-07-01,asics,gel-kayano,ASICS,GEL-Kayano,160,160,2,https://sneakerpicks.nl/merken/asics/gel-kayano
-2026-07-01,asics,gel-nyc,ASICS,GEL-NYC,84.98,94.93,8,https://sneakerpicks.nl/merken/asics/gel-nyc
-2026-07-01,converse,chuck-70,Converse,Chuck 70,57.99,71.99,2,https://sneakerpicks.nl/merken/converse/chuck-70
-2026-07-01,new-balance,530,New Balance,530,54,51,2,https://sneakerpicks.nl/merken/new-balance/530
+2026-07-01,asics,gel-nyc,ASICS,GEL-NYC,84.98,94.93,9,https://sneakerpicks.nl/merken/asics/gel-nyc
+2026-07-01,converse,chuck-70,Converse,Chuck 70,45,45,3,https://sneakerpicks.nl/merken/converse/chuck-70
+2026-07-01,new-balance,530,New Balance,530,54,51,3,https://sneakerpicks.nl/merken/new-balance/530
 2026-07-01,new-balance,740,New Balance,740,83.97,83.92,3,https://sneakerpicks.nl/merken/new-balance/740
-2026-07-01,new-balance,9060,New Balance,9060,124,124,3,https://sneakerpicks.nl/merken/new-balance/9060
+2026-07-01,new-balance,9060,New Balance,9060,124,124,4,https://sneakerpicks.nl/merken/new-balance/9060
 2026-07-01,nike,air-force-1,Nike,Air Force 1,75,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
-2026-07-01,nike,air-jordan-1,Nike,Air Jordan 1,96,98,5,https://sneakerpicks.nl/merken/nike/air-jordan-1
+2026-07-01,nike,air-jordan-1,Nike,Air Jordan 1,79,79,7,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-07-01,nike,air-max,Nike,Air Max,43.99,48.5,7,https://sneakerpicks.nl/merken/nike/air-max
-2026-07-01,nike,air-max-1,Nike,Air Max 1,89.99,89.99,7,https://sneakerpicks.nl/merken/nike/air-max-1
+2026-07-01,nike,air-max-1,Nike,Air Max 1,99,99.48,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-01,nike,air-max-270,Nike,Air Max 270,97,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
 2026-07-01,nike,air-max-90,Nike,Air Max 90,59.99,69,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-01,nike,air-max-95,Nike,Air Max 95,79.99,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-01,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
-2026-07-01,nike,cortez,Nike,Cortez,50,50,4,https://sneakerpicks.nl/merken/nike/cortez
+2026-07-01,nike,cortez,Nike,Cortez,40,40,4,https://sneakerpicks.nl/merken/nike/cortez
 2026-07-01,nike,dunk-high,Nike,Dunk High,80,91.5,4,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-07-01,nike,dunk-low,Nike,Dunk Low,54.95,54.97,7,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-07-01,nike,dunk-low,Nike,Dunk Low,54.95,58,7,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-07-01,nike,p-6000,Nike,P-6000,69,59.99,3,https://sneakerpicks.nl/merken/nike/p-6000
-2026-07-01,nike,pegasus,Nike,Pegasus,70,70,4,https://sneakerpicks.nl/merken/nike/pegasus
+2026-07-01,nike,pegasus,Nike,Pegasus,70,70,5,https://sneakerpicks.nl/merken/nike/pegasus
 2026-07-01,puma,palermo,PUMA,Palermo,36.99,36.99,4,https://sneakerpicks.nl/merken/puma/palermo
 2026-07-01,puma,speedcat,PUMA,Speedcat,34.99,42.99,4,https://sneakerpicks.nl/merken/puma/speedcat
-2026-07-01,vans,old-skool,Vans,Old Skool,40.95,40.95,7,https://sneakerpicks.nl/merken/vans/old-skool
+2026-07-01,vans,old-skool,Vans,Old Skool,30,31.9,7,https://sneakerpicks.nl/merken/vans/old-skool
 2026-07-01,vans,sk8-hi,Vans,Sk8-Hi,42,42,2,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-07-02,adidas,campus,adidas,Campus,65,54,4,https://sneakerpicks.nl/merken/adidas/campus
 2026-07-02,adidas,campus-00s,adidas,Campus 00s,54,54,5,https://sneakerpicks.nl/merken/adidas/campus-00s
-2026-07-02,adidas,gazelle,adidas,Gazelle,59.98,59.98,8,https://sneakerpicks.nl/merken/adidas/gazelle
-2026-07-02,adidas,gazelle-bold,adidas,Gazelle Bold,56,56,5,https://sneakerpicks.nl/merken/adidas/gazelle-bold
-2026-07-02,adidas,handball-spezial,adidas,Handball Spezial,54.98,54.98,8,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-07-02,adidas,samba,adidas,Samba,50,50,7,https://sneakerpicks.nl/merken/adidas/samba
-2026-07-02,adidas,samba-og,adidas,Samba OG,70,70,8,https://sneakerpicks.nl/merken/adidas/samba-og
-2026-07-02,adidas,sl-72,adidas,SL 72,45,55,4,https://sneakerpicks.nl/merken/adidas/sl-72
-2026-07-02,adidas,stan-smith,adidas,Stan Smith,47.97,47.97,6,https://sneakerpicks.nl/merken/adidas/stan-smith
-2026-07-02,adidas,superstar,adidas,Superstar,59.98,59.99,6,https://sneakerpicks.nl/merken/adidas/superstar
-2026-07-02,adidas-originals,gazelle,adidas,Gazelle,59.98,59.98,8,https://sneakerpicks.nl/merken/adidas/gazelle
-2026-07-02,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,8,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-07-02,adidas-originals,samba-og,adidas,Samba OG,70,70,8,https://sneakerpicks.nl/merken/adidas/samba-og
-2026-07-02,adidas-originals,superstar,adidas,Superstar,59.98,59.99,6,https://sneakerpicks.nl/merken/adidas/superstar
+2026-07-02,adidas,gazelle,adidas,Gazelle,59.98,59.98,9,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-07-02,adidas,gazelle-bold,adidas,Gazelle Bold,56,56,6,https://sneakerpicks.nl/merken/adidas/gazelle-bold
+2026-07-02,adidas,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-07-02,adidas,samba,adidas,Samba,51.98,58.47,9,https://sneakerpicks.nl/merken/adidas/samba
+2026-07-02,adidas,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-07-02,adidas,sl-72,adidas,SL 72,45,50,4,https://sneakerpicks.nl/merken/adidas/sl-72
+2026-07-02,adidas,stan-smith,adidas,Stan Smith,47.97,47.97,7,https://sneakerpicks.nl/merken/adidas/stan-smith
+2026-07-02,adidas,superstar,adidas,Superstar,59.98,59.99,7,https://sneakerpicks.nl/merken/adidas/superstar
+2026-07-02,adidas-originals,gazelle,adidas,Gazelle,59.98,59.98,9,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-07-02,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-07-02,adidas-originals,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-07-02,adidas-originals,superstar,adidas,Superstar,59.98,59.99,7,https://sneakerpicks.nl/merken/adidas/superstar
 2026-07-02,asics,gel-1130,ASICS,GEL-1130,70,70,6,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-07-02,asics,gel-kayano,ASICS,GEL-Kayano,160,160,2,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-07-02,asics,gel-nyc,ASICS,GEL-NYC,84.98,89.96,9,https://sneakerpicks.nl/merken/asics/gel-nyc
-2026-07-02,converse,chuck-70,Converse,Chuck 70,57.99,71.99,2,https://sneakerpicks.nl/merken/converse/chuck-70
-2026-07-02,new-balance,530,New Balance,530,54,51,2,https://sneakerpicks.nl/merken/new-balance/530
+2026-07-02,converse,chuck-70,Converse,Chuck 70,45,45,3,https://sneakerpicks.nl/merken/converse/chuck-70
+2026-07-02,new-balance,530,New Balance,530,54,51,3,https://sneakerpicks.nl/merken/new-balance/530
 2026-07-02,new-balance,740,New Balance,740,84,83.92,2,https://sneakerpicks.nl/merken/new-balance/740
-2026-07-02,new-balance,9060,New Balance,9060,39.99,124,3,https://sneakerpicks.nl/merken/new-balance/9060
+2026-07-02,new-balance,9060,New Balance,9060,124,124,4,https://sneakerpicks.nl/merken/new-balance/9060
 2026-07-02,nike,air-force-1,Nike,Air Force 1,79,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
-2026-07-02,nike,air-jordan-1,Nike,Air Jordan 1,96,98,5,https://sneakerpicks.nl/merken/nike/air-jordan-1
+2026-07-02,nike,air-jordan-1,Nike,Air Jordan 1,79,79,7,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-07-02,nike,air-max,Nike,Air Max,43.99,47,7,https://sneakerpicks.nl/merken/nike/air-max
-2026-07-02,nike,air-max-1,Nike,Air Max 1,89.99,89.99,7,https://sneakerpicks.nl/merken/nike/air-max-1
-2026-07-02,nike,air-max-270,Nike,Air Max 270,109.99,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
+2026-07-02,nike,air-max-1,Nike,Air Max 1,99,99,7,https://sneakerpicks.nl/merken/nike/air-max-1
+2026-07-02,nike,air-max-270,Nike,Air Max 270,109,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
 2026-07-02,nike,air-max-90,Nike,Air Max 90,69.99,69,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-02,nike,air-max-95,Nike,Air Max 95,79.99,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-02,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
-2026-07-02,nike,cortez,Nike,Cortez,50,50,4,https://sneakerpicks.nl/merken/nike/cortez
+2026-07-02,nike,cortez,Nike,Cortez,40,40,4,https://sneakerpicks.nl/merken/nike/cortez
 2026-07-02,nike,dunk-high,Nike,Dunk High,99.49,95,4,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-07-02,nike,dunk-low,Nike,Dunk Low,53.96,54.95,7,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-07-02,nike,dunk-low,Nike,Dunk Low,54.95,58,7,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-07-02,nike,p-6000,Nike,P-6000,69,59.99,3,https://sneakerpicks.nl/merken/nike/p-6000
-2026-07-02,nike,pegasus,Nike,Pegasus,70,70,4,https://sneakerpicks.nl/merken/nike/pegasus
+2026-07-02,nike,pegasus,Nike,Pegasus,70,70,5,https://sneakerpicks.nl/merken/nike/pegasus
 2026-07-02,puma,palermo,PUMA,Palermo,36.99,36.99,3,https://sneakerpicks.nl/merken/puma/palermo
 2026-07-02,puma,speedcat,PUMA,Speedcat,34.99,42.99,4,https://sneakerpicks.nl/merken/puma/speedcat
-2026-07-02,vans,old-skool,Vans,Old Skool,40.95,40.95,7,https://sneakerpicks.nl/merken/vans/old-skool
+2026-07-02,vans,old-skool,Vans,Old Skool,30,31.9,7,https://sneakerpicks.nl/merken/vans/old-skool
 2026-07-02,vans,sk8-hi,Vans,Sk8-Hi,42,42,2,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-07-03,adidas,campus,adidas,Campus,65,54,4,https://sneakerpicks.nl/merken/adidas/campus
 2026-07-03,adidas,campus-00s,adidas,Campus 00s,54,54,5,https://sneakerpicks.nl/merken/adidas/campus-00s
-2026-07-03,adidas,gazelle,adidas,Gazelle,59.98,59.98,8,https://sneakerpicks.nl/merken/adidas/gazelle
-2026-07-03,adidas,gazelle-bold,adidas,Gazelle Bold,50,56,5,https://sneakerpicks.nl/merken/adidas/gazelle-bold
-2026-07-03,adidas,handball-spezial,adidas,Handball Spezial,54.98,54.98,8,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-07-03,adidas,samba,adidas,Samba,50,50,7,https://sneakerpicks.nl/merken/adidas/samba
-2026-07-03,adidas,samba-og,adidas,Samba OG,70,70,8,https://sneakerpicks.nl/merken/adidas/samba-og
-2026-07-03,adidas,sl-72,adidas,SL 72,45,55,4,https://sneakerpicks.nl/merken/adidas/sl-72
-2026-07-03,adidas,stan-smith,adidas,Stan Smith,47.97,47.97,6,https://sneakerpicks.nl/merken/adidas/stan-smith
-2026-07-03,adidas,superstar,adidas,Superstar,59.98,59.98,6,https://sneakerpicks.nl/merken/adidas/superstar
-2026-07-03,adidas-originals,gazelle,adidas,Gazelle,59.98,59.98,8,https://sneakerpicks.nl/merken/adidas/gazelle
-2026-07-03,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,8,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-07-03,adidas-originals,samba-og,adidas,Samba OG,70,70,8,https://sneakerpicks.nl/merken/adidas/samba-og
-2026-07-03,adidas-originals,superstar,adidas,Superstar,59.98,59.98,6,https://sneakerpicks.nl/merken/adidas/superstar
+2026-07-03,adidas,gazelle,adidas,Gazelle,59.98,59.98,9,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-07-03,adidas,gazelle-bold,adidas,Gazelle Bold,50,56,6,https://sneakerpicks.nl/merken/adidas/gazelle-bold
+2026-07-03,adidas,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-07-03,adidas,samba,adidas,Samba,51.98,51.98,9,https://sneakerpicks.nl/merken/adidas/samba
+2026-07-03,adidas,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-07-03,adidas,sl-72,adidas,SL 72,45,50,4,https://sneakerpicks.nl/merken/adidas/sl-72
+2026-07-03,adidas,stan-smith,adidas,Stan Smith,47.97,47.97,7,https://sneakerpicks.nl/merken/adidas/stan-smith
+2026-07-03,adidas,superstar,adidas,Superstar,59.98,59.98,7,https://sneakerpicks.nl/merken/adidas/superstar
+2026-07-03,adidas-originals,gazelle,adidas,Gazelle,59.98,59.98,9,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-07-03,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-07-03,adidas-originals,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-07-03,adidas-originals,superstar,adidas,Superstar,59.98,59.98,7,https://sneakerpicks.nl/merken/adidas/superstar
 2026-07-03,asics,gel-1130,ASICS,GEL-1130,70,70,6,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-07-03,asics,gel-kayano,ASICS,GEL-Kayano,160,160,2,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-07-03,asics,gel-nyc,ASICS,GEL-NYC,84.98,84.98,9,https://sneakerpicks.nl/merken/asics/gel-nyc
-2026-07-03,converse,chuck-70,Converse,Chuck 70,57.99,71.99,2,https://sneakerpicks.nl/merken/converse/chuck-70
-2026-07-03,new-balance,530,New Balance,530,54,51,2,https://sneakerpicks.nl/merken/new-balance/530
+2026-07-03,converse,chuck-70,Converse,Chuck 70,45,45,3,https://sneakerpicks.nl/merken/converse/chuck-70
+2026-07-03,new-balance,530,New Balance,530,54,51,3,https://sneakerpicks.nl/merken/new-balance/530
 2026-07-03,new-balance,740,New Balance,740,84,83.92,2,https://sneakerpicks.nl/merken/new-balance/740
-2026-07-03,new-balance,9060,New Balance,9060,124,124,3,https://sneakerpicks.nl/merken/new-balance/9060
-2026-07-03,nike,air-force-1,Nike,Air Force 1,75,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
-2026-07-03,nike,air-jordan-1,Nike,Air Jordan 1,99.95,98,5,https://sneakerpicks.nl/merken/nike/air-jordan-1
+2026-07-03,new-balance,9060,New Balance,9060,124,124,4,https://sneakerpicks.nl/merken/new-balance/9060
+2026-07-03,nike,air-force-1,Nike,Air Force 1,75,74.99,10,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-07-03,nike,air-jordan-1,Nike,Air Jordan 1,79,79,7,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-07-03,nike,air-max,Nike,Air Max,43.99,47,7,https://sneakerpicks.nl/merken/nike/air-max
-2026-07-03,nike,air-max-1,Nike,Air Max 1,89.99,89.99,7,https://sneakerpicks.nl/merken/nike/air-max-1
+2026-07-03,nike,air-max-1,Nike,Air Max 1,99,99,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-03,nike,air-max-270,Nike,Air Max 270,97,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
 2026-07-03,nike,air-max-90,Nike,Air Max 90,69,69,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-03,nike,air-max-95,Nike,Air Max 95,79.99,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-03,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
-2026-07-03,nike,cortez,Nike,Cortez,50,50,4,https://sneakerpicks.nl/merken/nike/cortez
+2026-07-03,nike,cortez,Nike,Cortez,40,40,4,https://sneakerpicks.nl/merken/nike/cortez
 2026-07-03,nike,dunk-high,Nike,Dunk High,99.49,95,4,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-07-03,nike,dunk-low,Nike,Dunk Low,54.95,54.95,7,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-07-03,nike,dunk-low,Nike,Dunk Low,54.95,56.5,7,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-07-03,nike,p-6000,Nike,P-6000,69.99,59.99,3,https://sneakerpicks.nl/merken/nike/p-6000
 2026-07-03,nike,pegasus,Nike,Pegasus,70,70,4,https://sneakerpicks.nl/merken/nike/pegasus
 2026-07-03,puma,palermo,PUMA,Palermo,36.99,36.99,4,https://sneakerpicks.nl/merken/puma/palermo
 2026-07-03,puma,speedcat,PUMA,Speedcat,34.99,42.99,4,https://sneakerpicks.nl/merken/puma/speedcat
-2026-07-03,vans,old-skool,Vans,Old Skool,40.95,40.95,7,https://sneakerpicks.nl/merken/vans/old-skool
+2026-07-03,vans,old-skool,Vans,Old Skool,30,31.9,7,https://sneakerpicks.nl/merken/vans/old-skool
 2026-07-03,vans,sk8-hi,Vans,Sk8-Hi,42,42,2,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-07-04,adidas,campus,adidas,Campus,65,54,4,https://sneakerpicks.nl/merken/adidas/campus
 2026-07-04,adidas,campus-00s,adidas,Campus 00s,40.5,54,5,https://sneakerpicks.nl/merken/adidas/campus-00s
-2026-07-04,adidas,gazelle,adidas,Gazelle,59.98,59.98,8,https://sneakerpicks.nl/merken/adidas/gazelle
-2026-07-04,adidas,gazelle-bold,adidas,Gazelle Bold,50,56,5,https://sneakerpicks.nl/merken/adidas/gazelle-bold
-2026-07-04,adidas,handball-spezial,adidas,Handball Spezial,54.98,54.98,8,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-07-04,adidas,samba,adidas,Samba,50,50,7,https://sneakerpicks.nl/merken/adidas/samba
-2026-07-04,adidas,samba-og,adidas,Samba OG,70,70,8,https://sneakerpicks.nl/merken/adidas/samba-og
-2026-07-04,adidas,sl-72,adidas,SL 72,45,55,4,https://sneakerpicks.nl/merken/adidas/sl-72
-2026-07-04,adidas,stan-smith,adidas,Stan Smith,47.97,47.97,6,https://sneakerpicks.nl/merken/adidas/stan-smith
-2026-07-04,adidas,superstar,adidas,Superstar,59.98,59.98,6,https://sneakerpicks.nl/merken/adidas/superstar
-2026-07-04,adidas-originals,gazelle,adidas,Gazelle,59.98,59.98,8,https://sneakerpicks.nl/merken/adidas/gazelle
-2026-07-04,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,8,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-07-04,adidas-originals,samba-og,adidas,Samba OG,70,70,8,https://sneakerpicks.nl/merken/adidas/samba-og
-2026-07-04,adidas-originals,superstar,adidas,Superstar,59.98,59.98,6,https://sneakerpicks.nl/merken/adidas/superstar
+2026-07-04,adidas,gazelle,adidas,Gazelle,59.98,59.98,9,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-07-04,adidas,gazelle-bold,adidas,Gazelle Bold,50,56,6,https://sneakerpicks.nl/merken/adidas/gazelle-bold
+2026-07-04,adidas,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-07-04,adidas,samba,adidas,Samba,51.98,51.98,9,https://sneakerpicks.nl/merken/adidas/samba
+2026-07-04,adidas,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-07-04,adidas,sl-72,adidas,SL 72,45,50,4,https://sneakerpicks.nl/merken/adidas/sl-72
+2026-07-04,adidas,stan-smith,adidas,Stan Smith,47.97,47.97,7,https://sneakerpicks.nl/merken/adidas/stan-smith
+2026-07-04,adidas,superstar,adidas,Superstar,59.98,59.98,7,https://sneakerpicks.nl/merken/adidas/superstar
+2026-07-04,adidas-originals,gazelle,adidas,Gazelle,59.98,59.98,9,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-07-04,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-07-04,adidas-originals,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-07-04,adidas-originals,superstar,adidas,Superstar,59.98,59.98,7,https://sneakerpicks.nl/merken/adidas/superstar
 2026-07-04,asics,gel-1130,ASICS,GEL-1130,70,70,6,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-07-04,asics,gel-kayano,ASICS,GEL-Kayano,160,160,2,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-07-04,asics,gel-nyc,ASICS,GEL-NYC,84.98,84.98,9,https://sneakerpicks.nl/merken/asics/gel-nyc
-2026-07-04,converse,chuck-70,Converse,Chuck 70,57.99,71.99,2,https://sneakerpicks.nl/merken/converse/chuck-70
-2026-07-04,new-balance,530,New Balance,530,54,51,2,https://sneakerpicks.nl/merken/new-balance/530
+2026-07-04,converse,chuck-70,Converse,Chuck 70,45,45,3,https://sneakerpicks.nl/merken/converse/chuck-70
+2026-07-04,new-balance,530,New Balance,530,54,51,3,https://sneakerpicks.nl/merken/new-balance/530
 2026-07-04,new-balance,740,New Balance,740,84,83.92,3,https://sneakerpicks.nl/merken/new-balance/740
-2026-07-04,new-balance,9060,New Balance,9060,124,124,3,https://sneakerpicks.nl/merken/new-balance/9060
-2026-07-04,nike,air-force-1,Nike,Air Force 1,75,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
-2026-07-04,nike,air-jordan-1,Nike,Air Jordan 1,96,98,5,https://sneakerpicks.nl/merken/nike/air-jordan-1
+2026-07-04,new-balance,9060,New Balance,9060,124,124,4,https://sneakerpicks.nl/merken/new-balance/9060
+2026-07-04,nike,air-force-1,Nike,Air Force 1,75,74.99,10,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-07-04,nike,air-jordan-1,Nike,Air Jordan 1,79,79,7,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-07-04,nike,air-max,Nike,Air Max,43.99,47,7,https://sneakerpicks.nl/merken/nike/air-max
-2026-07-04,nike,air-max-1,Nike,Air Max 1,89.99,89.99,7,https://sneakerpicks.nl/merken/nike/air-max-1
-2026-07-04,nike,air-max-270,Nike,Air Max 270,109.95,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
+2026-07-04,nike,air-max-1,Nike,Air Max 1,99,99,7,https://sneakerpicks.nl/merken/nike/air-max-1
+2026-07-04,nike,air-max-270,Nike,Air Max 270,109,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
 2026-07-04,nike,air-max-90,Nike,Air Max 90,69,69,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-04,nike,air-max-95,Nike,Air Max 95,44.99,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-04,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
-2026-07-04,nike,cortez,Nike,Cortez,50,50,4,https://sneakerpicks.nl/merken/nike/cortez
+2026-07-04,nike,cortez,Nike,Cortez,40,40,4,https://sneakerpicks.nl/merken/nike/cortez
 2026-07-04,nike,dunk-high,Nike,Dunk High,80,95,4,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-07-04,nike,dunk-low,Nike,Dunk Low,54.95,54.95,7,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-07-04,nike,dunk-low,Nike,Dunk Low,54.95,54.99,7,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-07-04,nike,p-6000,Nike,P-6000,69.99,59.99,3,https://sneakerpicks.nl/merken/nike/p-6000
 2026-07-04,nike,pegasus,Nike,Pegasus,70,70,4,https://sneakerpicks.nl/merken/nike/pegasus
 2026-07-04,puma,palermo,PUMA,Palermo,36.99,36.99,3,https://sneakerpicks.nl/merken/puma/palermo
 2026-07-04,puma,speedcat,PUMA,Speedcat,34.99,42.99,4,https://sneakerpicks.nl/merken/puma/speedcat
-2026-07-04,vans,old-skool,Vans,Old Skool,40.95,40.95,7,https://sneakerpicks.nl/merken/vans/old-skool
+2026-07-04,vans,old-skool,Vans,Old Skool,30,31.9,7,https://sneakerpicks.nl/merken/vans/old-skool
 2026-07-04,vans,sk8-hi,Vans,Sk8-Hi,42,42,2,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-07-05,adidas,campus,adidas,Campus,65,54,4,https://sneakerpicks.nl/merken/adidas/campus
 2026-07-05,adidas,campus-00s,adidas,Campus 00s,40.5,54,5,https://sneakerpicks.nl/merken/adidas/campus-00s
-2026-07-05,adidas,gazelle,adidas,Gazelle,59.98,59.98,8,https://sneakerpicks.nl/merken/adidas/gazelle
-2026-07-05,adidas,gazelle-bold,adidas,Gazelle Bold,50,56,5,https://sneakerpicks.nl/merken/adidas/gazelle-bold
-2026-07-05,adidas,handball-spezial,adidas,Handball Spezial,54.98,54.98,8,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-07-05,adidas,samba,adidas,Samba,50,50,7,https://sneakerpicks.nl/merken/adidas/samba
-2026-07-05,adidas,samba-og,adidas,Samba OG,70,70,8,https://sneakerpicks.nl/merken/adidas/samba-og
-2026-07-05,adidas,sl-72,adidas,SL 72,45,55,4,https://sneakerpicks.nl/merken/adidas/sl-72
-2026-07-05,adidas,stan-smith,adidas,Stan Smith,47.97,47.97,6,https://sneakerpicks.nl/merken/adidas/stan-smith
-2026-07-05,adidas,superstar,adidas,Superstar,59.98,59.98,6,https://sneakerpicks.nl/merken/adidas/superstar
-2026-07-05,adidas-originals,gazelle,adidas,Gazelle,59.98,59.98,8,https://sneakerpicks.nl/merken/adidas/gazelle
-2026-07-05,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,8,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-07-05,adidas-originals,samba-og,adidas,Samba OG,70,70,8,https://sneakerpicks.nl/merken/adidas/samba-og
-2026-07-05,adidas-originals,superstar,adidas,Superstar,59.98,59.98,6,https://sneakerpicks.nl/merken/adidas/superstar
+2026-07-05,adidas,gazelle,adidas,Gazelle,59.98,59.98,9,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-07-05,adidas,gazelle-bold,adidas,Gazelle Bold,50,56,6,https://sneakerpicks.nl/merken/adidas/gazelle-bold
+2026-07-05,adidas,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-07-05,adidas,samba,adidas,Samba,51.98,51.98,9,https://sneakerpicks.nl/merken/adidas/samba
+2026-07-05,adidas,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-07-05,adidas,sl-72,adidas,SL 72,45,50,4,https://sneakerpicks.nl/merken/adidas/sl-72
+2026-07-05,adidas,stan-smith,adidas,Stan Smith,47.97,47.97,7,https://sneakerpicks.nl/merken/adidas/stan-smith
+2026-07-05,adidas,superstar,adidas,Superstar,59.98,59.98,7,https://sneakerpicks.nl/merken/adidas/superstar
+2026-07-05,adidas-originals,gazelle,adidas,Gazelle,59.98,59.98,9,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-07-05,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-07-05,adidas-originals,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-07-05,adidas-originals,superstar,adidas,Superstar,59.98,59.98,7,https://sneakerpicks.nl/merken/adidas/superstar
 2026-07-05,asics,gel-1130,ASICS,GEL-1130,70,70,5,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-07-05,asics,gel-kayano,ASICS,GEL-Kayano,160,160,2,https://sneakerpicks.nl/merken/asics/gel-kayano
-2026-07-05,asics,gel-nyc,ASICS,GEL-NYC,84.98,84.98,8,https://sneakerpicks.nl/merken/asics/gel-nyc
-2026-07-05,converse,chuck-70,Converse,Chuck 70,57.99,71.99,2,https://sneakerpicks.nl/merken/converse/chuck-70
-2026-07-05,new-balance,530,New Balance,530,50,51,2,https://sneakerpicks.nl/merken/new-balance/530
-2026-07-05,new-balance,740,New Balance,740,84,83.92,2,https://sneakerpicks.nl/merken/new-balance/740
-2026-07-05,new-balance,9060,New Balance,9060,39.99,124,3,https://sneakerpicks.nl/merken/new-balance/9060
-2026-07-05,nike,air-force-1,Nike,Air Force 1,79,74.99,8,https://sneakerpicks.nl/merken/nike/air-force-1
-2026-07-05,nike,air-jordan-1,Nike,Air Jordan 1,96,98,5,https://sneakerpicks.nl/merken/nike/air-jordan-1
+2026-07-05,asics,gel-nyc,ASICS,GEL-NYC,84.98,84.98,9,https://sneakerpicks.nl/merken/asics/gel-nyc
+2026-07-05,converse,chuck-70,Converse,Chuck 70,45,45,3,https://sneakerpicks.nl/merken/converse/chuck-70
+2026-07-05,new-balance,530,New Balance,530,50,51,3,https://sneakerpicks.nl/merken/new-balance/530
+2026-07-05,new-balance,740,New Balance,740,84,83.92,3,https://sneakerpicks.nl/merken/new-balance/740
+2026-07-05,new-balance,9060,New Balance,9060,124,124,4,https://sneakerpicks.nl/merken/new-balance/9060
+2026-07-05,nike,air-force-1,Nike,Air Force 1,79,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-07-05,nike,air-jordan-1,Nike,Air Jordan 1,80,79,7,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-07-05,nike,air-max,Nike,Air Max,43.99,47,6,https://sneakerpicks.nl/merken/nike/air-max
-2026-07-05,nike,air-max-1,Nike,Air Max 1,99,89.99,7,https://sneakerpicks.nl/merken/nike/air-max-1
+2026-07-05,nike,air-max-1,Nike,Air Max 1,99,99,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-05,nike,air-max-270,Nike,Air Max 270,97,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
 2026-07-05,nike,air-max-90,Nike,Air Max 90,59.99,69,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-05,nike,air-max-95,Nike,Air Max 95,79.99,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-05,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
-2026-07-05,nike,cortez,Nike,Cortez,50,50,4,https://sneakerpicks.nl/merken/nike/cortez
+2026-07-05,nike,cortez,Nike,Cortez,40,40,4,https://sneakerpicks.nl/merken/nike/cortez
 2026-07-05,nike,dunk-high,Nike,Dunk High,80,95,4,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-07-05,nike,dunk-low,Nike,Dunk Low,53.96,54.95,7,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-07-05,nike,dunk-low,Nike,Dunk Low,54.95,54.99,7,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-07-05,nike,p-6000,Nike,P-6000,69.99,59.99,3,https://sneakerpicks.nl/merken/nike/p-6000
 2026-07-05,nike,pegasus,Nike,Pegasus,70,70,4,https://sneakerpicks.nl/merken/nike/pegasus
 2026-07-05,puma,palermo,PUMA,Palermo,36.99,36.99,4,https://sneakerpicks.nl/merken/puma/palermo
 2026-07-05,puma,speedcat,PUMA,Speedcat,34.99,42.99,4,https://sneakerpicks.nl/merken/puma/speedcat
-2026-07-05,vans,old-skool,Vans,Old Skool,40.95,40.95,7,https://sneakerpicks.nl/merken/vans/old-skool
+2026-07-05,vans,old-skool,Vans,Old Skool,30,31.9,7,https://sneakerpicks.nl/merken/vans/old-skool
 2026-07-05,vans,sk8-hi,Vans,Sk8-Hi,42,42,2,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-07-06,adidas,campus,adidas,Campus,65,54,4,https://sneakerpicks.nl/merken/adidas/campus
 2026-07-06,adidas,campus-00s,adidas,Campus 00s,40.5,54,5,https://sneakerpicks.nl/merken/adidas/campus-00s
-2026-07-06,adidas,gazelle,adidas,Gazelle,59.98,59.98,8,https://sneakerpicks.nl/merken/adidas/gazelle
-2026-07-06,adidas,gazelle-bold,adidas,Gazelle Bold,50,56,5,https://sneakerpicks.nl/merken/adidas/gazelle-bold
-2026-07-06,adidas,handball-spezial,adidas,Handball Spezial,54.98,54.98,8,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-07-06,adidas,samba,adidas,Samba,50,50,7,https://sneakerpicks.nl/merken/adidas/samba
-2026-07-06,adidas,samba-og,adidas,Samba OG,70,70,8,https://sneakerpicks.nl/merken/adidas/samba-og
-2026-07-06,adidas,sl-72,adidas,SL 72,45,55,4,https://sneakerpicks.nl/merken/adidas/sl-72
-2026-07-06,adidas,stan-smith,adidas,Stan Smith,47.97,47.97,6,https://sneakerpicks.nl/merken/adidas/stan-smith
-2026-07-06,adidas,superstar,adidas,Superstar,59.98,59.98,6,https://sneakerpicks.nl/merken/adidas/superstar
-2026-07-06,adidas-originals,gazelle,adidas,Gazelle,59.98,59.98,8,https://sneakerpicks.nl/merken/adidas/gazelle
-2026-07-06,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,8,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-07-06,adidas-originals,samba-og,adidas,Samba OG,70,70,8,https://sneakerpicks.nl/merken/adidas/samba-og
-2026-07-06,adidas-originals,superstar,adidas,Superstar,59.98,59.98,6,https://sneakerpicks.nl/merken/adidas/superstar
+2026-07-06,adidas,gazelle,adidas,Gazelle,59.98,59.98,9,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-07-06,adidas,gazelle-bold,adidas,Gazelle Bold,50,56,6,https://sneakerpicks.nl/merken/adidas/gazelle-bold
+2026-07-06,adidas,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-07-06,adidas,samba,adidas,Samba,51.98,51.98,9,https://sneakerpicks.nl/merken/adidas/samba
+2026-07-06,adidas,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-07-06,adidas,sl-72,adidas,SL 72,45,50,4,https://sneakerpicks.nl/merken/adidas/sl-72
+2026-07-06,adidas,stan-smith,adidas,Stan Smith,47.97,47.97,7,https://sneakerpicks.nl/merken/adidas/stan-smith
+2026-07-06,adidas,superstar,adidas,Superstar,59.98,59.98,7,https://sneakerpicks.nl/merken/adidas/superstar
+2026-07-06,adidas-originals,gazelle,adidas,Gazelle,59.98,59.98,9,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-07-06,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-07-06,adidas-originals,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-07-06,adidas-originals,superstar,adidas,Superstar,59.98,59.98,7,https://sneakerpicks.nl/merken/adidas/superstar
 2026-07-06,asics,gel-1130,ASICS,GEL-1130,70,70,6,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-07-06,asics,gel-kayano,ASICS,GEL-Kayano,160,160,2,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-07-06,asics,gel-nyc,ASICS,GEL-NYC,84.98,84.98,9,https://sneakerpicks.nl/merken/asics/gel-nyc
-2026-07-06,converse,chuck-70,Converse,Chuck 70,57.99,71.99,2,https://sneakerpicks.nl/merken/converse/chuck-70
-2026-07-06,new-balance,530,New Balance,530,50,51,2,https://sneakerpicks.nl/merken/new-balance/530
+2026-07-06,converse,chuck-70,Converse,Chuck 70,45,45,3,https://sneakerpicks.nl/merken/converse/chuck-70
+2026-07-06,new-balance,530,New Balance,530,50,51,3,https://sneakerpicks.nl/merken/new-balance/530
 2026-07-06,new-balance,740,New Balance,740,84,83.95,3,https://sneakerpicks.nl/merken/new-balance/740
-2026-07-06,new-balance,9060,New Balance,9060,124,124,3,https://sneakerpicks.nl/merken/new-balance/9060
-2026-07-06,nike,air-force-1,Nike,Air Force 1,79,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
-2026-07-06,nike,air-jordan-1,Nike,Air Jordan 1,96,98,5,https://sneakerpicks.nl/merken/nike/air-jordan-1
+2026-07-06,new-balance,9060,New Balance,9060,124,124,4,https://sneakerpicks.nl/merken/new-balance/9060
+2026-07-06,nike,air-force-1,Nike,Air Force 1,79,74.99,10,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-07-06,nike,air-jordan-1,Nike,Air Jordan 1,79,79,7,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-07-06,nike,air-max,Nike,Air Max,43.99,47,7,https://sneakerpicks.nl/merken/nike/air-max
-2026-07-06,nike,air-max-1,Nike,Air Max 1,99,89.99,7,https://sneakerpicks.nl/merken/nike/air-max-1
+2026-07-06,nike,air-max-1,Nike,Air Max 1,99,99,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-06,nike,air-max-270,Nike,Air Max 270,77,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
 2026-07-06,nike,air-max-90,Nike,Air Max 90,69,69,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-06,nike,air-max-95,Nike,Air Max 95,75,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-06,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
-2026-07-06,nike,cortez,Nike,Cortez,50,50,4,https://sneakerpicks.nl/merken/nike/cortez
+2026-07-06,nike,cortez,Nike,Cortez,40,40,4,https://sneakerpicks.nl/merken/nike/cortez
 2026-07-06,nike,dunk-high,Nike,Dunk High,99.49,95,4,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-07-06,nike,dunk-low,Nike,Dunk Low,54.95,54.95,7,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-07-06,nike,dunk-low,Nike,Dunk Low,54.95,54.99,7,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-07-06,nike,p-6000,Nike,P-6000,69.99,59.99,3,https://sneakerpicks.nl/merken/nike/p-6000
 2026-07-06,nike,pegasus,Nike,Pegasus,70,70,4,https://sneakerpicks.nl/merken/nike/pegasus
 2026-07-06,puma,palermo,PUMA,Palermo,36.99,36.99,4,https://sneakerpicks.nl/merken/puma/palermo
 2026-07-06,puma,speedcat,PUMA,Speedcat,34.99,42.99,3,https://sneakerpicks.nl/merken/puma/speedcat
-2026-07-06,vans,old-skool,Vans,Old Skool,41.99,40.95,7,https://sneakerpicks.nl/merken/vans/old-skool
+2026-07-06,vans,old-skool,Vans,Old Skool,30,31.9,7,https://sneakerpicks.nl/merken/vans/old-skool
 2026-07-06,vans,sk8-hi,Vans,Sk8-Hi,42,42,2,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-07-07,adidas,campus,adidas,Campus,65,54,4,https://sneakerpicks.nl/merken/adidas/campus
 2026-07-07,adidas,campus-00s,adidas,Campus 00s,40.5,54,5,https://sneakerpicks.nl/merken/adidas/campus-00s
-2026-07-07,adidas,gazelle,adidas,Gazelle,59.98,59.98,8,https://sneakerpicks.nl/merken/adidas/gazelle
-2026-07-07,adidas,gazelle-bold,adidas,Gazelle Bold,50,56,5,https://sneakerpicks.nl/merken/adidas/gazelle-bold
-2026-07-07,adidas,handball-spezial,adidas,Handball Spezial,48.99,54.98,8,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-07-07,adidas,samba,adidas,Samba,50,50,7,https://sneakerpicks.nl/merken/adidas/samba
-2026-07-07,adidas,samba-og,adidas,Samba OG,70,70,8,https://sneakerpicks.nl/merken/adidas/samba-og
-2026-07-07,adidas,sl-72,adidas,SL 72,45,55,4,https://sneakerpicks.nl/merken/adidas/sl-72
-2026-07-07,adidas,stan-smith,adidas,Stan Smith,47.97,47.97,6,https://sneakerpicks.nl/merken/adidas/stan-smith
-2026-07-07,adidas,superstar,adidas,Superstar,59.98,59.98,6,https://sneakerpicks.nl/merken/adidas/superstar
-2026-07-07,adidas-originals,gazelle,adidas,Gazelle,59.98,59.98,8,https://sneakerpicks.nl/merken/adidas/gazelle
-2026-07-07,adidas-originals,handball-spezial,adidas,Handball Spezial,48.99,54.98,8,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-07-07,adidas-originals,samba-og,adidas,Samba OG,70,70,8,https://sneakerpicks.nl/merken/adidas/samba-og
-2026-07-07,adidas-originals,superstar,adidas,Superstar,59.98,59.98,6,https://sneakerpicks.nl/merken/adidas/superstar
+2026-07-07,adidas,gazelle,adidas,Gazelle,59.98,59.98,9,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-07-07,adidas,gazelle-bold,adidas,Gazelle Bold,50,56,6,https://sneakerpicks.nl/merken/adidas/gazelle-bold
+2026-07-07,adidas,handball-spezial,adidas,Handball Spezial,48.99,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-07-07,adidas,samba,adidas,Samba,51.98,51.98,9,https://sneakerpicks.nl/merken/adidas/samba
+2026-07-07,adidas,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-07-07,adidas,sl-72,adidas,SL 72,45,50,4,https://sneakerpicks.nl/merken/adidas/sl-72
+2026-07-07,adidas,stan-smith,adidas,Stan Smith,47.97,47.97,7,https://sneakerpicks.nl/merken/adidas/stan-smith
+2026-07-07,adidas,superstar,adidas,Superstar,59.98,59.98,7,https://sneakerpicks.nl/merken/adidas/superstar
+2026-07-07,adidas-originals,gazelle,adidas,Gazelle,59.98,59.98,9,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-07-07,adidas-originals,handball-spezial,adidas,Handball Spezial,48.99,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-07-07,adidas-originals,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-07-07,adidas-originals,superstar,adidas,Superstar,59.98,59.98,7,https://sneakerpicks.nl/merken/adidas/superstar
 2026-07-07,asics,gel-1130,ASICS,GEL-1130,70,70,6,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-07-07,asics,gel-kayano,ASICS,GEL-Kayano,160,160,2,https://sneakerpicks.nl/merken/asics/gel-kayano
-2026-07-07,asics,gel-nyc,ASICS,GEL-NYC,84.98,84.98,8,https://sneakerpicks.nl/merken/asics/gel-nyc
-2026-07-07,converse,chuck-70,Converse,Chuck 70,57.99,71.99,2,https://sneakerpicks.nl/merken/converse/chuck-70
-2026-07-07,new-balance,530,New Balance,530,50,51,2,https://sneakerpicks.nl/merken/new-balance/530
-2026-07-07,new-balance,740,New Balance,740,84,83.97,2,https://sneakerpicks.nl/merken/new-balance/740
-2026-07-07,new-balance,9060,New Balance,9060,124,124,3,https://sneakerpicks.nl/merken/new-balance/9060
-2026-07-07,nike,air-force-1,Nike,Air Force 1,79,74.99,8,https://sneakerpicks.nl/merken/nike/air-force-1
-2026-07-07,nike,air-jordan-1,Nike,Air Jordan 1,96,98,5,https://sneakerpicks.nl/merken/nike/air-jordan-1
+2026-07-07,asics,gel-nyc,ASICS,GEL-NYC,84.98,84.98,9,https://sneakerpicks.nl/merken/asics/gel-nyc
+2026-07-07,converse,chuck-70,Converse,Chuck 70,45,45,3,https://sneakerpicks.nl/merken/converse/chuck-70
+2026-07-07,new-balance,530,New Balance,530,50,51,3,https://sneakerpicks.nl/merken/new-balance/530
+2026-07-07,new-balance,740,New Balance,740,84,83.97,3,https://sneakerpicks.nl/merken/new-balance/740
+2026-07-07,new-balance,9060,New Balance,9060,124,124,4,https://sneakerpicks.nl/merken/new-balance/9060
+2026-07-07,nike,air-force-1,Nike,Air Force 1,79,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-07-07,nike,air-jordan-1,Nike,Air Jordan 1,79,79,7,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-07-07,nike,air-max,Nike,Air Max,43.99,45.5,6,https://sneakerpicks.nl/merken/nike/air-max
-2026-07-07,nike,air-max-1,Nike,Air Max 1,99,89.99,7,https://sneakerpicks.nl/merken/nike/air-max-1
+2026-07-07,nike,air-max-1,Nike,Air Max 1,99,99,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-07,nike,air-max-270,Nike,Air Max 270,97,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
 2026-07-07,nike,air-max-90,Nike,Air Max 90,69,69,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-07,nike,air-max-95,Nike,Air Max 95,75,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-07,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
-2026-07-07,nike,cortez,Nike,Cortez,50,50,4,https://sneakerpicks.nl/merken/nike/cortez
+2026-07-07,nike,cortez,Nike,Cortez,40,40,4,https://sneakerpicks.nl/merken/nike/cortez
 2026-07-07,nike,dunk-high,Nike,Dunk High,99.49,95,4,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-07-07,nike,dunk-low,Nike,Dunk Low,54.95,54.95,7,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-07-07,nike,dunk-low,Nike,Dunk Low,54.95,54.99,7,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-07-07,nike,p-6000,Nike,P-6000,69.99,59.99,3,https://sneakerpicks.nl/merken/nike/p-6000
-2026-07-07,nike,pegasus,Nike,Pegasus,70,70,4,https://sneakerpicks.nl/merken/nike/pegasus
+2026-07-07,nike,pegasus,Nike,Pegasus,70,70,5,https://sneakerpicks.nl/merken/nike/pegasus
 2026-07-07,puma,palermo,PUMA,Palermo,36.99,36.99,3,https://sneakerpicks.nl/merken/puma/palermo
 2026-07-07,puma,speedcat,PUMA,Speedcat,34.99,42.99,4,https://sneakerpicks.nl/merken/puma/speedcat
-2026-07-07,vans,old-skool,Vans,Old Skool,40.95,40.95,7,https://sneakerpicks.nl/merken/vans/old-skool
+2026-07-07,vans,old-skool,Vans,Old Skool,30,31.9,7,https://sneakerpicks.nl/merken/vans/old-skool
 2026-07-07,vans,sk8-hi,Vans,Sk8-Hi,42,42,2,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-07-08,adidas,campus,adidas,Campus,65,54,4,https://sneakerpicks.nl/merken/adidas/campus
 2026-07-08,adidas,campus-00s,adidas,Campus 00s,40.5,54,5,https://sneakerpicks.nl/merken/adidas/campus-00s
-2026-07-08,adidas,gazelle,adidas,Gazelle,59.98,59.98,8,https://sneakerpicks.nl/merken/adidas/gazelle
-2026-07-08,adidas,gazelle-bold,adidas,Gazelle Bold,50,56,5,https://sneakerpicks.nl/merken/adidas/gazelle-bold
-2026-07-08,adidas,handball-spezial,adidas,Handball Spezial,48.99,54.98,8,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-07-08,adidas,samba,adidas,Samba,50,50,7,https://sneakerpicks.nl/merken/adidas/samba
-2026-07-08,adidas,samba-og,adidas,Samba OG,70,70,8,https://sneakerpicks.nl/merken/adidas/samba-og
-2026-07-08,adidas,sl-72,adidas,SL 72,40,55,4,https://sneakerpicks.nl/merken/adidas/sl-72
-2026-07-08,adidas,stan-smith,adidas,Stan Smith,47.97,47.97,6,https://sneakerpicks.nl/merken/adidas/stan-smith
-2026-07-08,adidas,superstar,adidas,Superstar,59.98,59.98,6,https://sneakerpicks.nl/merken/adidas/superstar
-2026-07-08,adidas-originals,gazelle,adidas,Gazelle,59.98,59.98,8,https://sneakerpicks.nl/merken/adidas/gazelle
-2026-07-08,adidas-originals,handball-spezial,adidas,Handball Spezial,48.99,54.98,8,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-07-08,adidas-originals,samba-og,adidas,Samba OG,70,70,8,https://sneakerpicks.nl/merken/adidas/samba-og
-2026-07-08,adidas-originals,superstar,adidas,Superstar,59.98,59.98,6,https://sneakerpicks.nl/merken/adidas/superstar
+2026-07-08,adidas,gazelle,adidas,Gazelle,59.98,59.98,9,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-07-08,adidas,gazelle-bold,adidas,Gazelle Bold,50,56,6,https://sneakerpicks.nl/merken/adidas/gazelle-bold
+2026-07-08,adidas,handball-spezial,adidas,Handball Spezial,48.99,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-07-08,adidas,samba,adidas,Samba,51.98,51.98,9,https://sneakerpicks.nl/merken/adidas/samba
+2026-07-08,adidas,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-07-08,adidas,sl-72,adidas,SL 72,40,50,4,https://sneakerpicks.nl/merken/adidas/sl-72
+2026-07-08,adidas,stan-smith,adidas,Stan Smith,47.97,47.97,7,https://sneakerpicks.nl/merken/adidas/stan-smith
+2026-07-08,adidas,superstar,adidas,Superstar,59.98,59.98,7,https://sneakerpicks.nl/merken/adidas/superstar
+2026-07-08,adidas-originals,gazelle,adidas,Gazelle,59.98,59.98,9,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-07-08,adidas-originals,handball-spezial,adidas,Handball Spezial,48.99,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-07-08,adidas-originals,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-07-08,adidas-originals,superstar,adidas,Superstar,59.98,59.98,7,https://sneakerpicks.nl/merken/adidas/superstar
 2026-07-08,asics,gel-1130,ASICS,GEL-1130,70,70,6,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-07-08,asics,gel-kayano,ASICS,GEL-Kayano,160,160,2,https://sneakerpicks.nl/merken/asics/gel-kayano
-2026-07-08,asics,gel-nyc,ASICS,GEL-NYC,84.98,84.98,8,https://sneakerpicks.nl/merken/asics/gel-nyc
-2026-07-08,converse,chuck-70,Converse,Chuck 70,57.99,71.99,2,https://sneakerpicks.nl/merken/converse/chuck-70
-2026-07-08,new-balance,530,New Balance,530,50,51,2,https://sneakerpicks.nl/merken/new-balance/530
-2026-07-08,new-balance,740,New Balance,740,84,83.99,2,https://sneakerpicks.nl/merken/new-balance/740
-2026-07-08,new-balance,9060,New Balance,9060,124,124,3,https://sneakerpicks.nl/merken/new-balance/9060
-2026-07-08,nike,air-force-1,Nike,Air Force 1,79,74.99,8,https://sneakerpicks.nl/merken/nike/air-force-1
-2026-07-08,nike,air-jordan-1,Nike,Air Jordan 1,96,98,5,https://sneakerpicks.nl/merken/nike/air-jordan-1
+2026-07-08,asics,gel-nyc,ASICS,GEL-NYC,84.98,84.98,9,https://sneakerpicks.nl/merken/asics/gel-nyc
+2026-07-08,converse,chuck-70,Converse,Chuck 70,45,45,3,https://sneakerpicks.nl/merken/converse/chuck-70
+2026-07-08,new-balance,530,New Balance,530,50,51,3,https://sneakerpicks.nl/merken/new-balance/530
+2026-07-08,new-balance,740,New Balance,740,84,83.99,3,https://sneakerpicks.nl/merken/new-balance/740
+2026-07-08,new-balance,9060,New Balance,9060,124,124,4,https://sneakerpicks.nl/merken/new-balance/9060
+2026-07-08,nike,air-force-1,Nike,Air Force 1,79,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-07-08,nike,air-jordan-1,Nike,Air Jordan 1,79,79,7,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-07-08,nike,air-max,Nike,Air Max,43.99,43.99,6,https://sneakerpicks.nl/merken/nike/air-max
-2026-07-08,nike,air-max-1,Nike,Air Max 1,99,89.99,7,https://sneakerpicks.nl/merken/nike/air-max-1
+2026-07-08,nike,air-max-1,Nike,Air Max 1,99,99,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-08,nike,air-max-270,Nike,Air Max 270,97,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
 2026-07-08,nike,air-max-90,Nike,Air Max 90,66.99,69,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-08,nike,air-max-95,Nike,Air Max 95,75,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-08,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
-2026-07-08,nike,cortez,Nike,Cortez,50,50,4,https://sneakerpicks.nl/merken/nike/cortez
+2026-07-08,nike,cortez,Nike,Cortez,40,40,4,https://sneakerpicks.nl/merken/nike/cortez
 2026-07-08,nike,dunk-high,Nike,Dunk High,99.49,95,4,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-07-08,nike,dunk-low,Nike,Dunk Low,54.95,54.95,7,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-07-08,nike,dunk-low,Nike,Dunk Low,54.95,54.99,7,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-07-08,nike,p-6000,Nike,P-6000,69.99,64.5,3,https://sneakerpicks.nl/merken/nike/p-6000
-2026-07-08,nike,pegasus,Nike,Pegasus,70,70,4,https://sneakerpicks.nl/merken/nike/pegasus
+2026-07-08,nike,pegasus,Nike,Pegasus,70,70,5,https://sneakerpicks.nl/merken/nike/pegasus
 2026-07-08,puma,palermo,PUMA,Palermo,36.99,36.99,4,https://sneakerpicks.nl/merken/puma/palermo
 2026-07-08,puma,speedcat,PUMA,Speedcat,34.99,42.99,4,https://sneakerpicks.nl/merken/puma/speedcat
-2026-07-08,vans,old-skool,Vans,Old Skool,40.95,40.95,7,https://sneakerpicks.nl/merken/vans/old-skool
+2026-07-08,vans,old-skool,Vans,Old Skool,30,31.9,7,https://sneakerpicks.nl/merken/vans/old-skool
 2026-07-08,vans,sk8-hi,Vans,Sk8-Hi,42,42,2,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-10-16,adidas,campus,adidas,Campus,39.95,,9,https://sneakerpicks.nl/merken/adidas/campus
 2026-10-16,adidas,campus-00s,adidas,Campus 00s,39.95,,13,https://sneakerpicks.nl/merken/adidas/campus-00s
 2026-10-16,adidas,gazelle,adidas,Gazelle,59.95,,13,https://sneakerpicks.nl/merken/adidas/gazelle
 2026-10-16,adidas,gazelle-bold,adidas,Gazelle Bold,43,,12,https://sneakerpicks.nl/merken/adidas/gazelle-bold
-2026-10-16,adidas,handball-spezial,adidas,Handball Spezial,40.6,,15,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-10-16,adidas,samba,adidas,Samba,50,,14,https://sneakerpicks.nl/merken/adidas/samba
-2026-10-16,adidas,samba-og,adidas,Samba OG,68,,15,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-10-16,adidas,handball-spezial,adidas,Handball Spezial,40.6,,16,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-10-16,adidas,samba,adidas,Samba,59,,14,https://sneakerpicks.nl/merken/adidas/samba
+2026-10-16,adidas,samba-og,adidas,Samba OG,68,,16,https://sneakerpicks.nl/merken/adidas/samba-og
 2026-10-16,adidas,sl-72,adidas,SL 72,50,,11,https://sneakerpicks.nl/merken/adidas/sl-72
 2026-10-16,adidas,stan-smith,adidas,Stan Smith,47.5,,11,https://sneakerpicks.nl/merken/adidas/stan-smith
 2026-10-16,adidas,superstar,adidas,Superstar,55,,11,https://sneakerpicks.nl/merken/adidas/superstar
 2026-10-16,adidas-originals,gazelle,adidas,Gazelle,59.95,,13,https://sneakerpicks.nl/merken/adidas/gazelle
-2026-10-16,adidas-originals,handball-spezial,adidas,Handball Spezial,40.6,,15,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-10-16,adidas-originals,samba-og,adidas,Samba OG,68,,15,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-10-16,adidas-originals,handball-spezial,adidas,Handball Spezial,40.6,,16,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-10-16,adidas-originals,samba-og,adidas,Samba OG,68,,16,https://sneakerpicks.nl/merken/adidas/samba-og
 2026-10-16,adidas-originals,superstar,adidas,Superstar,55,,11,https://sneakerpicks.nl/merken/adidas/superstar
-2026-10-16,asics,gel-1130,ASICS,GEL-1130,60,,11,https://sneakerpicks.nl/merken/asics/gel-1130
-2026-10-16,asics,gel-kayano,ASICS,GEL-Kayano,169,,4,https://sneakerpicks.nl/merken/asics/gel-kayano
-2026-10-16,asics,gel-nyc,ASICS,GEL-NYC,84.98,,15,https://sneakerpicks.nl/merken/asics/gel-nyc
-2026-10-16,converse,chuck-70,Converse,Chuck 70,68.99,,4,https://sneakerpicks.nl/merken/converse/chuck-70
-2026-10-16,new-balance,530,New Balance,530,53.99,,7,https://sneakerpicks.nl/merken/new-balance/530
-2026-10-16,new-balance,740,New Balance,740,45,,8,https://sneakerpicks.nl/merken/new-balance/740
-2026-10-16,new-balance,9060,New Balance,9060,41.41,,8,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-16,nike,air-force-1,Nike,Air Force 1,76.95,,17,https://sneakerpicks.nl/merken/nike/air-force-1
-2026-10-16,nike,air-jordan-1,Nike,Air Jordan 1,99.99,,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-10-16,nike,air-max,Nike,Air Max,45,,15,https://sneakerpicks.nl/merken/nike/air-max
-2026-10-16,nike,air-max-1,Nike,Air Max 1,79.95,,12,https://sneakerpicks.nl/merken/nike/air-max-1
+2026-10-16,asics,gel-1130,ASICS,GEL-1130,60,,12,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-16,asics,gel-kayano,ASICS,GEL-Kayano,169,,3,https://sneakerpicks.nl/merken/asics/gel-kayano
+2026-10-16,asics,gel-nyc,ASICS,GEL-NYC,84.98,,16,https://sneakerpicks.nl/merken/asics/gel-nyc
+2026-10-16,converse,chuck-70,Converse,Chuck 70,45,,5,https://sneakerpicks.nl/merken/converse/chuck-70
+2026-10-16,new-balance,530,New Balance,530,67.06,,9,https://sneakerpicks.nl/merken/new-balance/530
+2026-10-16,new-balance,740,New Balance,740,45,,9,https://sneakerpicks.nl/merken/new-balance/740
+2026-10-16,new-balance,9060,New Balance,9060,110,,9,https://sneakerpicks.nl/merken/new-balance/9060
+2026-10-16,nike,air-force-1,Nike,Air Force 1,76.95,,16,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-16,nike,air-jordan-1,Nike,Air Jordan 1,79.95,,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
+2026-10-16,nike,air-max,Nike,Air Max,45,,14,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-16,nike,air-max-1,Nike,Air Max 1,94.95,,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-16,nike,air-max-270,Nike,Air Max 270,79.95,,6,https://sneakerpicks.nl/merken/nike/air-max-270
 2026-10-16,nike,air-max-90,Nike,Air Max 90,63,,15,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-16,nike,air-max-95,Nike,Air Max 95,69.99,,10,https://sneakerpicks.nl/merken/nike/air-max-95
-2026-10-16,nike,air-max-plus,Nike,Air Max Plus,89.99,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
+2026-10-16,nike,air-max-plus,Nike,Air Max Plus,75,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-16,nike,cortez,Nike,Cortez,55,,8,https://sneakerpicks.nl/merken/nike/cortez
 2026-10-16,nike,dunk-high,Nike,Dunk High,49.95,,8,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-10-16,nike,dunk-low,Nike,Dunk Low,39.95,,11,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-16,nike,dunk-low,Nike,Dunk Low,59.95,,11,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-10-16,nike,p-6000,Nike,P-6000,65,,11,https://sneakerpicks.nl/merken/nike/p-6000
 2026-10-16,nike,pegasus,Nike,Pegasus,55,,11,https://sneakerpicks.nl/merken/nike/pegasus
 2026-10-16,puma,palermo,PUMA,Palermo,32.95,,4,https://sneakerpicks.nl/merken/puma/palermo
 2026-10-16,puma,speedcat,PUMA,Speedcat,50,,5,https://sneakerpicks.nl/merken/puma/speedcat
-2026-10-16,vans,old-skool,Vans,Old Skool,49.99,,12,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-16,vans,old-skool,Vans,Old Skool,36.99,,12,https://sneakerpicks.nl/merken/vans/old-skool
 2026-10-16,vans,sk8-hi,Vans,Sk8-Hi,55.99,,5,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-10-17,adidas,campus,adidas,Campus,39.95,,9,https://sneakerpicks.nl/merken/adidas/campus
 2026-10-17,adidas,campus-00s,adidas,Campus 00s,39.95,,13,https://sneakerpicks.nl/merken/adidas/campus-00s
 2026-10-17,adidas,gazelle,adidas,Gazelle,59.95,,13,https://sneakerpicks.nl/merken/adidas/gazelle
 2026-10-17,adidas,gazelle-bold,adidas,Gazelle Bold,43,,12,https://sneakerpicks.nl/merken/adidas/gazelle-bold
-2026-10-17,adidas,handball-spezial,adidas,Handball Spezial,40.6,,15,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-10-17,adidas,samba,adidas,Samba,48.99,,14,https://sneakerpicks.nl/merken/adidas/samba
-2026-10-17,adidas,samba-og,adidas,Samba OG,68,,15,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-10-17,adidas,handball-spezial,adidas,Handball Spezial,40.6,,16,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-10-17,adidas,samba,adidas,Samba,59,,14,https://sneakerpicks.nl/merken/adidas/samba
+2026-10-17,adidas,samba-og,adidas,Samba OG,68,,16,https://sneakerpicks.nl/merken/adidas/samba-og
 2026-10-17,adidas,sl-72,adidas,SL 72,50,,11,https://sneakerpicks.nl/merken/adidas/sl-72
 2026-10-17,adidas,stan-smith,adidas,Stan Smith,47.5,,11,https://sneakerpicks.nl/merken/adidas/stan-smith
 2026-10-17,adidas,superstar,adidas,Superstar,55,,11,https://sneakerpicks.nl/merken/adidas/superstar
 2026-10-17,adidas-originals,gazelle,adidas,Gazelle,59.95,,13,https://sneakerpicks.nl/merken/adidas/gazelle
-2026-10-17,adidas-originals,handball-spezial,adidas,Handball Spezial,40.6,,15,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-10-17,adidas-originals,samba-og,adidas,Samba OG,68,,15,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-10-17,adidas-originals,handball-spezial,adidas,Handball Spezial,40.6,,16,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-10-17,adidas-originals,samba-og,adidas,Samba OG,68,,16,https://sneakerpicks.nl/merken/adidas/samba-og
 2026-10-17,adidas-originals,superstar,adidas,Superstar,55,,11,https://sneakerpicks.nl/merken/adidas/superstar
-2026-10-17,asics,gel-1130,ASICS,GEL-1130,60,,11,https://sneakerpicks.nl/merken/asics/gel-1130
-2026-10-17,asics,gel-kayano,ASICS,GEL-Kayano,169,,4,https://sneakerpicks.nl/merken/asics/gel-kayano
-2026-10-17,asics,gel-nyc,ASICS,GEL-NYC,84.98,,15,https://sneakerpicks.nl/merken/asics/gel-nyc
-2026-10-17,converse,chuck-70,Converse,Chuck 70,70,,3,https://sneakerpicks.nl/merken/converse/chuck-70
-2026-10-17,new-balance,530,New Balance,530,40.01,,8,https://sneakerpicks.nl/merken/new-balance/530
-2026-10-17,new-balance,740,New Balance,740,45,,8,https://sneakerpicks.nl/merken/new-balance/740
-2026-10-17,new-balance,9060,New Balance,9060,100,,8,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-17,nike,air-force-1,Nike,Air Force 1,74.99,,17,https://sneakerpicks.nl/merken/nike/air-force-1
-2026-10-17,nike,air-jordan-1,Nike,Air Jordan 1,99.99,,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-10-17,nike,air-max,Nike,Air Max,45,,15,https://sneakerpicks.nl/merken/nike/air-max
-2026-10-17,nike,air-max-1,Nike,Air Max 1,79.95,,12,https://sneakerpicks.nl/merken/nike/air-max-1
+2026-10-17,asics,gel-1130,ASICS,GEL-1130,60,,12,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-17,asics,gel-kayano,ASICS,GEL-Kayano,169,,3,https://sneakerpicks.nl/merken/asics/gel-kayano
+2026-10-17,asics,gel-nyc,ASICS,GEL-NYC,84.98,,16,https://sneakerpicks.nl/merken/asics/gel-nyc
+2026-10-17,converse,chuck-70,Converse,Chuck 70,45,,5,https://sneakerpicks.nl/merken/converse/chuck-70
+2026-10-17,new-balance,530,New Balance,530,40.01,,9,https://sneakerpicks.nl/merken/new-balance/530
+2026-10-17,new-balance,740,New Balance,740,45,,9,https://sneakerpicks.nl/merken/new-balance/740
+2026-10-17,new-balance,9060,New Balance,9060,110,,9,https://sneakerpicks.nl/merken/new-balance/9060
+2026-10-17,nike,air-force-1,Nike,Air Force 1,74.99,,16,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-17,nike,air-jordan-1,Nike,Air Jordan 1,79.95,,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
+2026-10-17,nike,air-max,Nike,Air Max,45,,14,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-17,nike,air-max-1,Nike,Air Max 1,94.95,,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-17,nike,air-max-270,Nike,Air Max 270,79.95,,6,https://sneakerpicks.nl/merken/nike/air-max-270
 2026-10-17,nike,air-max-90,Nike,Air Max 90,59.99,,15,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-17,nike,air-max-95,Nike,Air Max 95,69.99,,10,https://sneakerpicks.nl/merken/nike/air-max-95
-2026-10-17,nike,air-max-plus,Nike,Air Max Plus,89.99,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
+2026-10-17,nike,air-max-plus,Nike,Air Max Plus,75,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-17,nike,cortez,Nike,Cortez,58,,8,https://sneakerpicks.nl/merken/nike/cortez
 2026-10-17,nike,dunk-high,Nike,Dunk High,49.95,,8,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-10-17,nike,dunk-low,Nike,Dunk Low,39.95,,11,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-17,nike,dunk-low,Nike,Dunk Low,59.95,,11,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-10-17,nike,p-6000,Nike,P-6000,59.99,,11,https://sneakerpicks.nl/merken/nike/p-6000
-2026-10-17,nike,pegasus,Nike,Pegasus,55,,10,https://sneakerpicks.nl/merken/nike/pegasus
+2026-10-17,nike,pegasus,Nike,Pegasus,50,,10,https://sneakerpicks.nl/merken/nike/pegasus
 2026-10-17,puma,palermo,PUMA,Palermo,32.95,,4,https://sneakerpicks.nl/merken/puma/palermo
 2026-10-17,puma,speedcat,PUMA,Speedcat,50,,5,https://sneakerpicks.nl/merken/puma/speedcat
-2026-10-17,vans,old-skool,Vans,Old Skool,47.99,,12,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-17,vans,old-skool,Vans,Old Skool,36.99,,12,https://sneakerpicks.nl/merken/vans/old-skool
 2026-10-17,vans,sk8-hi,Vans,Sk8-Hi,55.99,,4,https://sneakerpicks.nl/merken/vans/sk8-hi
+2026-10-18,adidas,campus,adidas,Campus,44.99,,9,https://sneakerpicks.nl/merken/adidas/campus
+2026-10-18,adidas,campus-00s,adidas,Campus 00s,39.95,,13,https://sneakerpicks.nl/merken/adidas/campus-00s
+2026-10-18,adidas,gazelle,adidas,Gazelle,59.95,,13,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-10-18,adidas,gazelle-bold,adidas,Gazelle Bold,43,,12,https://sneakerpicks.nl/merken/adidas/gazelle-bold
+2026-10-18,adidas,handball-spezial,adidas,Handball Spezial,40.6,,16,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-10-18,adidas,samba,adidas,Samba,59,,14,https://sneakerpicks.nl/merken/adidas/samba
+2026-10-18,adidas,samba-og,adidas,Samba OG,68,,16,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-10-18,adidas,sl-72,adidas,SL 72,50,,10,https://sneakerpicks.nl/merken/adidas/sl-72
+2026-10-18,adidas,stan-smith,adidas,Stan Smith,47.5,,11,https://sneakerpicks.nl/merken/adidas/stan-smith
+2026-10-18,adidas,superstar,adidas,Superstar,55,,11,https://sneakerpicks.nl/merken/adidas/superstar
+2026-10-18,adidas-originals,gazelle,adidas,Gazelle,59.95,,13,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-10-18,adidas-originals,handball-spezial,adidas,Handball Spezial,40.6,,16,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-10-18,adidas-originals,samba-og,adidas,Samba OG,68,,16,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-10-18,adidas-originals,superstar,adidas,Superstar,55,,11,https://sneakerpicks.nl/merken/adidas/superstar
+2026-10-18,asics,gel-1130,ASICS,GEL-1130,60,,12,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-18,asics,gel-kayano,ASICS,GEL-Kayano,169,,3,https://sneakerpicks.nl/merken/asics/gel-kayano
+2026-10-18,asics,gel-nyc,ASICS,GEL-NYC,84.98,,16,https://sneakerpicks.nl/merken/asics/gel-nyc
+2026-10-18,converse,chuck-70,Converse,Chuck 70,49.99,,4,https://sneakerpicks.nl/merken/converse/chuck-70
+2026-10-18,new-balance,530,New Balance,530,67.06,,9,https://sneakerpicks.nl/merken/new-balance/530
+2026-10-18,new-balance,740,New Balance,740,45,,8,https://sneakerpicks.nl/merken/new-balance/740
+2026-10-18,new-balance,9060,New Balance,9060,110,,9,https://sneakerpicks.nl/merken/new-balance/9060
+2026-10-18,nike,air-force-1,Nike,Air Force 1,75,,16,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-18,nike,air-jordan-1,Nike,Air Jordan 1,79.95,,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
+2026-10-18,nike,air-max,Nike,Air Max,45,,14,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-18,nike,air-max-1,Nike,Air Max 1,94.95,,11,https://sneakerpicks.nl/merken/nike/air-max-1
+2026-10-18,nike,air-max-270,Nike,Air Max 270,77,,6,https://sneakerpicks.nl/merken/nike/air-max-270
+2026-10-18,nike,air-max-90,Nike,Air Max 90,63,,15,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-18,nike,air-max-95,Nike,Air Max 95,88,,10,https://sneakerpicks.nl/merken/nike/air-max-95
+2026-10-18,nike,air-max-plus,Nike,Air Max Plus,75,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
+2026-10-18,nike,cortez,Nike,Cortez,55,,8,https://sneakerpicks.nl/merken/nike/cortez
+2026-10-18,nike,dunk-high,Nike,Dunk High,49.95,,8,https://sneakerpicks.nl/merken/nike/dunk-high
+2026-10-18,nike,dunk-low,Nike,Dunk Low,59.95,,11,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-18,nike,p-6000,Nike,P-6000,65,,11,https://sneakerpicks.nl/merken/nike/p-6000
+2026-10-18,nike,pegasus,Nike,Pegasus,50,,11,https://sneakerpicks.nl/merken/nike/pegasus
+2026-10-18,puma,palermo,PUMA,Palermo,32.95,,4,https://sneakerpicks.nl/merken/puma/palermo
+2026-10-18,puma,speedcat,PUMA,Speedcat,50,,5,https://sneakerpicks.nl/merken/puma/speedcat
+2026-10-18,vans,old-skool,Vans,Old Skool,39.9,,11,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-18,vans,sk8-hi,Vans,Sk8-Hi,55.99,,4,https://sneakerpicks.nl/merken/vans/sk8-hi
