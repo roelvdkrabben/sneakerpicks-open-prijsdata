@@ -41,7 +41,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-01,puma,speedcat,PUMA,Speedcat,34.99,42.99,5,https://sneakerpicks.nl/merken/puma/speedcat
 2026-07-01,puma,suede,PUMA,Suede,36.99,39.48,3,https://sneakerpicks.nl/merken/puma/suede
 2026-07-01,vans,knu-skool,Vans,Knu Skool,36.99,36.99,4,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-07-01,vans,old-skool,Vans,Old Skool,30,31.9,7,https://sneakerpicks.nl/merken/vans/old-skool
+2026-07-01,vans,old-skool,Vans,Old Skool,46,46,7,https://sneakerpicks.nl/merken/vans/old-skool
 2026-07-01,vans,sk8-hi,Vans,Sk8-Hi,42,42,2,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-07-02,adidas,campus,adidas,Campus,65,65,4,https://sneakerpicks.nl/merken/adidas/campus
 2026-07-02,adidas,campus-00s,adidas,Campus 00s,54,54,5,https://sneakerpicks.nl/merken/adidas/campus-00s
@@ -74,7 +74,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-02,nike,air-max-270,Nike,Air Max 270,109,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
 2026-07-02,nike,air-max-90,Nike,Air Max 90,128.62,128,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-02,nike,air-max-95,Nike,Air Max 95,79.99,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
-2026-07-02,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
+2026-07-02,nike,air-max-plus,Nike,Air Max Plus,69,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-02,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
 2026-07-02,nike,dunk-high,Nike,Dunk High,99.49,74,4,https://sneakerpicks.nl/merken/nike/dunk-high
 2026-07-02,nike,dunk-low,Nike,Dunk Low,53.96,53.96,6,https://sneakerpicks.nl/merken/nike/dunk-low
@@ -85,7 +85,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-02,puma,speedcat,PUMA,Speedcat,34.99,42.99,5,https://sneakerpicks.nl/merken/puma/speedcat
 2026-07-02,puma,suede,PUMA,Suede,36.99,36.99,3,https://sneakerpicks.nl/merken/puma/suede
 2026-07-02,vans,knu-skool,Vans,Knu Skool,36.99,36.99,4,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-07-02,vans,old-skool,Vans,Old Skool,30,31.9,7,https://sneakerpicks.nl/merken/vans/old-skool
+2026-07-02,vans,old-skool,Vans,Old Skool,46,46,7,https://sneakerpicks.nl/merken/vans/old-skool
 2026-07-02,vans,sk8-hi,Vans,Sk8-Hi,42,42,2,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-07-03,adidas,campus,adidas,Campus,65,65,4,https://sneakerpicks.nl/merken/adidas/campus
 2026-07-03,adidas,campus-00s,adidas,Campus 00s,54,54,5,https://sneakerpicks.nl/merken/adidas/campus-00s
@@ -129,7 +129,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-03,puma,speedcat,PUMA,Speedcat,34.99,42.99,5,https://sneakerpicks.nl/merken/puma/speedcat
 2026-07-03,puma,suede,PUMA,Suede,36.99,36.99,3,https://sneakerpicks.nl/merken/puma/suede
 2026-07-03,vans,knu-skool,Vans,Knu Skool,36.99,36.99,4,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-07-03,vans,old-skool,Vans,Old Skool,30,31.9,7,https://sneakerpicks.nl/merken/vans/old-skool
+2026-07-03,vans,old-skool,Vans,Old Skool,46,46,7,https://sneakerpicks.nl/merken/vans/old-skool
 2026-07-03,vans,sk8-hi,Vans,Sk8-Hi,42,42,2,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-07-04,adidas,campus,adidas,Campus,65,65,4,https://sneakerpicks.nl/merken/adidas/campus
 2026-07-04,adidas,campus-00s,adidas,Campus 00s,40.5,54,5,https://sneakerpicks.nl/merken/adidas/campus-00s
@@ -173,7 +173,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-04,puma,speedcat,PUMA,Speedcat,34.99,42.99,5,https://sneakerpicks.nl/merken/puma/speedcat
 2026-07-04,puma,suede,PUMA,Suede,36.99,36.99,3,https://sneakerpicks.nl/merken/puma/suede
 2026-07-04,vans,knu-skool,Vans,Knu Skool,36.99,36.99,4,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-07-04,vans,old-skool,Vans,Old Skool,30,31.9,7,https://sneakerpicks.nl/merken/vans/old-skool
+2026-07-04,vans,old-skool,Vans,Old Skool,46,46,7,https://sneakerpicks.nl/merken/vans/old-skool
 2026-07-04,vans,sk8-hi,Vans,Sk8-Hi,42,42,2,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-07-05,adidas,campus,adidas,Campus,65,65,4,https://sneakerpicks.nl/merken/adidas/campus
 2026-07-05,adidas,campus-00s,adidas,Campus 00s,40.5,54,5,https://sneakerpicks.nl/merken/adidas/campus-00s
@@ -217,7 +217,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-05,puma,speedcat,PUMA,Speedcat,34.99,42.99,5,https://sneakerpicks.nl/merken/puma/speedcat
 2026-07-05,puma,suede,PUMA,Suede,36.99,36.99,3,https://sneakerpicks.nl/merken/puma/suede
 2026-07-05,vans,knu-skool,Vans,Knu Skool,36.99,36.99,4,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-07-05,vans,old-skool,Vans,Old Skool,30,31.9,7,https://sneakerpicks.nl/merken/vans/old-skool
+2026-07-05,vans,old-skool,Vans,Old Skool,46,46,7,https://sneakerpicks.nl/merken/vans/old-skool
 2026-07-05,vans,sk8-hi,Vans,Sk8-Hi,42,42,2,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-07-06,adidas,campus,adidas,Campus,65,65,4,https://sneakerpicks.nl/merken/adidas/campus
 2026-07-06,adidas,campus-00s,adidas,Campus 00s,40.5,54,5,https://sneakerpicks.nl/merken/adidas/campus-00s
@@ -261,7 +261,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-06,puma,speedcat,PUMA,Speedcat,34.99,42.99,5,https://sneakerpicks.nl/merken/puma/speedcat
 2026-07-06,puma,suede,PUMA,Suede,36.99,36.99,3,https://sneakerpicks.nl/merken/puma/suede
 2026-07-06,vans,knu-skool,Vans,Knu Skool,36.99,36.99,4,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-07-06,vans,old-skool,Vans,Old Skool,30,31.9,7,https://sneakerpicks.nl/merken/vans/old-skool
+2026-07-06,vans,old-skool,Vans,Old Skool,46,46,7,https://sneakerpicks.nl/merken/vans/old-skool
 2026-07-06,vans,sk8-hi,Vans,Sk8-Hi,42,42,2,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-07-07,adidas,campus,adidas,Campus,65,65,4,https://sneakerpicks.nl/merken/adidas/campus
 2026-07-07,adidas,campus-00s,adidas,Campus 00s,40.5,54,5,https://sneakerpicks.nl/merken/adidas/campus-00s
@@ -305,7 +305,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-07,puma,speedcat,PUMA,Speedcat,34.99,42.99,5,https://sneakerpicks.nl/merken/puma/speedcat
 2026-07-07,puma,suede,PUMA,Suede,36.99,36.99,3,https://sneakerpicks.nl/merken/puma/suede
 2026-07-07,vans,knu-skool,Vans,Knu Skool,36.99,36.99,4,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-07-07,vans,old-skool,Vans,Old Skool,30,31.9,7,https://sneakerpicks.nl/merken/vans/old-skool
+2026-07-07,vans,old-skool,Vans,Old Skool,46,46,7,https://sneakerpicks.nl/merken/vans/old-skool
 2026-07-07,vans,sk8-hi,Vans,Sk8-Hi,42,42,2,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-07-08,adidas,campus,adidas,Campus,65,65,4,https://sneakerpicks.nl/merken/adidas/campus
 2026-07-08,adidas,campus-00s,adidas,Campus 00s,40.5,54,5,https://sneakerpicks.nl/merken/adidas/campus-00s
@@ -349,7 +349,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-08,puma,speedcat,PUMA,Speedcat,34.99,42.99,5,https://sneakerpicks.nl/merken/puma/speedcat
 2026-07-08,puma,suede,PUMA,Suede,36.99,36.99,3,https://sneakerpicks.nl/merken/puma/suede
 2026-07-08,vans,knu-skool,Vans,Knu Skool,36.99,36.99,4,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-07-08,vans,old-skool,Vans,Old Skool,30,31.9,7,https://sneakerpicks.nl/merken/vans/old-skool
+2026-07-08,vans,old-skool,Vans,Old Skool,46,46,7,https://sneakerpicks.nl/merken/vans/old-skool
 2026-07-08,vans,sk8-hi,Vans,Sk8-Hi,42,42,2,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-10-16,adidas,campus,adidas,Campus,44.99,,10,https://sneakerpicks.nl/merken/adidas/campus
 2026-10-16,adidas,campus-00s,adidas,Campus 00s,39.95,,13,https://sneakerpicks.nl/merken/adidas/campus-00s
@@ -375,7 +375,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-16,new-balance,574,New Balance,574,36,,10,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-16,new-balance,740,New Balance,740,45,,12,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-16,new-balance,9060,New Balance,9060,41.41,,15,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-16,nike,air-force-1,Nike,Air Force 1,78,,15,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-16,nike,air-force-1,Nike,Air Force 1,75,,15,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-16,nike,air-jordan-1,Nike,Air Jordan 1,85,,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-16,nike,air-max,Nike,Air Max,45,,12,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-16,nike,air-max-1,Nike,Air Max 1,79.95,,12,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -393,7 +393,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-16,puma,speedcat,PUMA,Speedcat,45,,7,https://sneakerpicks.nl/merken/puma/speedcat
 2026-10-16,puma,suede,PUMA,Suede,36.99,,9,https://sneakerpicks.nl/merken/puma/suede
 2026-10-16,vans,knu-skool,Vans,Knu Skool,36.99,,6,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-10-16,vans,old-skool,Vans,Old Skool,30.95,,12,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-16,vans,old-skool,Vans,Old Skool,49.99,,12,https://sneakerpicks.nl/merken/vans/old-skool
 2026-10-16,vans,sk8-hi,Vans,Sk8-Hi,55.99,,5,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-10-17,adidas,campus,adidas,Campus,44.99,,10,https://sneakerpicks.nl/merken/adidas/campus
 2026-10-17,adidas,campus-00s,adidas,Campus 00s,39.95,,13,https://sneakerpicks.nl/merken/adidas/campus-00s
@@ -437,7 +437,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-17,puma,speedcat,PUMA,Speedcat,45,,7,https://sneakerpicks.nl/merken/puma/speedcat
 2026-10-17,puma,suede,PUMA,Suede,36.99,,9,https://sneakerpicks.nl/merken/puma/suede
 2026-10-17,vans,knu-skool,Vans,Knu Skool,36.99,,6,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-10-17,vans,old-skool,Vans,Old Skool,30.95,,12,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-17,vans,old-skool,Vans,Old Skool,47.99,,12,https://sneakerpicks.nl/merken/vans/old-skool
 2026-10-17,vans,sk8-hi,Vans,Sk8-Hi,55.99,,5,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-10-18,adidas,campus,adidas,Campus,44.99,,9,https://sneakerpicks.nl/merken/adidas/campus
 2026-10-18,adidas,campus-00s,adidas,Campus 00s,39.95,,13,https://sneakerpicks.nl/merken/adidas/campus-00s
@@ -482,7 +482,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-18,puma,speedcat,PUMA,Speedcat,45,,8,https://sneakerpicks.nl/merken/puma/speedcat
 2026-10-18,puma,suede,PUMA,Suede,45,,10,https://sneakerpicks.nl/merken/puma/suede
 2026-10-18,vans,knu-skool,Vans,Knu Skool,36.99,,6,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-10-18,vans,old-skool,Vans,Old Skool,30.95,,12,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-18,vans,old-skool,Vans,Old Skool,47.99,,12,https://sneakerpicks.nl/merken/vans/old-skool
 2026-10-18,vans,sk8-hi,Vans,Sk8-Hi,55.99,,5,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-10-19,adidas,campus,adidas,Campus,44.99,,10,https://sneakerpicks.nl/merken/adidas/campus
 2026-10-19,adidas,campus-00s,adidas,Campus 00s,39.95,,13,https://sneakerpicks.nl/merken/adidas/campus-00s
@@ -506,7 +506,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-19,new-balance,574,New Balance,574,38.87,,11,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-19,new-balance,740,New Balance,740,45,,11,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-19,new-balance,9060,New Balance,9060,99.99,,15,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-19,nike,air-force-1,Nike,Air Force 1,78,,15,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-19,nike,air-force-1,Nike,Air Force 1,75,,15,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-19,nike,air-jordan-1,Nike,Air Jordan 1,89.39,,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-19,nike,air-max,Nike,Air Max,45,,12,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-19,nike,air-max-1,Nike,Air Max 1,79.95,,11,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -523,7 +523,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-19,puma,speedcat,PUMA,Speedcat,45,,8,https://sneakerpicks.nl/merken/puma/speedcat
 2026-10-19,puma,suede,PUMA,Suede,45,,9,https://sneakerpicks.nl/merken/puma/suede
 2026-10-19,vans,knu-skool,Vans,Knu Skool,40,,6,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-10-19,vans,old-skool,Vans,Old Skool,30.95,,12,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-19,vans,old-skool,Vans,Old Skool,45,,12,https://sneakerpicks.nl/merken/vans/old-skool
 2026-10-19,vans,sk8-hi,Vans,Sk8-Hi,49.49,,5,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-10-20,adidas,campus,adidas,Campus,44.99,,10,https://sneakerpicks.nl/merken/adidas/campus
 2026-10-20,adidas,campus-00s,adidas,Campus 00s,39.95,,13,https://sneakerpicks.nl/merken/adidas/campus-00s
@@ -547,7 +547,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-20,new-balance,574,New Balance,574,52.99,,12,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-20,new-balance,740,New Balance,740,45,,11,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-20,new-balance,9060,New Balance,9060,99.99,,15,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-20,nike,air-force-1,Nike,Air Force 1,78,,15,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-20,nike,air-force-1,Nike,Air Force 1,75,,15,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-20,nike,air-jordan-1,Nike,Air Jordan 1,89.39,,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-20,nike,air-max,Nike,Air Max,45,,12,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-20,nike,air-max-1,Nike,Air Max 1,79.95,,11,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -564,7 +564,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-20,puma,speedcat,PUMA,Speedcat,45,,7,https://sneakerpicks.nl/merken/puma/speedcat
 2026-10-20,puma,suede,PUMA,Suede,45,,9,https://sneakerpicks.nl/merken/puma/suede
 2026-10-20,vans,knu-skool,Vans,Knu Skool,40,,7,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-10-20,vans,old-skool,Vans,Old Skool,30.95,,12,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-20,vans,old-skool,Vans,Old Skool,46.74,,12,https://sneakerpicks.nl/merken/vans/old-skool
 2026-10-20,vans,sk8-hi,Vans,Sk8-Hi,49.49,,5,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-10-21,adidas,campus-00s,adidas,Campus 00s,39.95,,15,https://sneakerpicks.nl/merken/adidas/campus-00s
 2026-10-21,adidas,gazelle,adidas,Gazelle,59,,18,https://sneakerpicks.nl/merken/adidas/gazelle
@@ -604,7 +604,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-21,puma,speedcat,PUMA,Speedcat,42.95,,10,https://sneakerpicks.nl/merken/puma/speedcat
 2026-10-21,puma,suede,PUMA,Suede,31.95,,12,https://sneakerpicks.nl/merken/puma/suede
 2026-10-21,vans,knu-skool,Vans,Knu Skool,40,,7,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-10-21,vans,old-skool,Vans,Old Skool,40,,16,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-21,vans,old-skool,Vans,Old Skool,46.74,,16,https://sneakerpicks.nl/merken/vans/old-skool
 2026-10-21,vans,sk8-hi,Vans,Sk8-Hi,49.49,,5,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-10-22,adidas,campus-00s,adidas,Campus 00s,39.95,39.95,15,https://sneakerpicks.nl/merken/adidas/campus-00s
 2026-10-22,adidas,gazelle,adidas,Gazelle,59,59.95,18,https://sneakerpicks.nl/merken/adidas/gazelle
@@ -644,7 +644,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-22,puma,speedcat,PUMA,Speedcat,42.95,45,11,https://sneakerpicks.nl/merken/puma/speedcat
 2026-10-22,puma,suede,PUMA,Suede,31.95,36.99,12,https://sneakerpicks.nl/merken/puma/suede
 2026-10-22,vans,knu-skool,Vans,Knu Skool,40,40,7,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-10-22,vans,old-skool,Vans,Old Skool,40,30.95,17,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-22,vans,old-skool,Vans,Old Skool,46.74,46.74,17,https://sneakerpicks.nl/merken/vans/old-skool
 2026-10-22,vans,sk8-hi,Vans,Sk8-Hi,49.49,49.49,4,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-10-23,adidas,campus-00s,adidas,Campus 00s,39.95,39.95,16,https://sneakerpicks.nl/merken/adidas/campus-00s
 2026-10-23,adidas,gazelle,adidas,Gazelle,59,59.48,18,https://sneakerpicks.nl/merken/adidas/gazelle
@@ -684,7 +684,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-23,puma,speedcat,PUMA,Speedcat,40,45,11,https://sneakerpicks.nl/merken/puma/speedcat
 2026-10-23,puma,suede,PUMA,Suede,31.95,36.99,12,https://sneakerpicks.nl/merken/puma/suede
 2026-10-23,vans,knu-skool,Vans,Knu Skool,40,40,8,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-10-23,vans,old-skool,Vans,Old Skool,36.99,30.95,17,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-23,vans,old-skool,Vans,Old Skool,46.74,46.74,17,https://sneakerpicks.nl/merken/vans/old-skool
 2026-10-23,vans,sk8-hi,Vans,Sk8-Hi,49.49,49.49,5,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-10-24,adidas,campus-00s,adidas,Campus 00s,39.95,39.95,16,https://sneakerpicks.nl/merken/adidas/campus-00s
 2026-10-24,adidas,gazelle,adidas,Gazelle,59,59,18,https://sneakerpicks.nl/merken/adidas/gazelle
@@ -724,7 +724,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-24,puma,speedcat,PUMA,Speedcat,40,45,11,https://sneakerpicks.nl/merken/puma/speedcat
 2026-10-24,puma,suede,PUMA,Suede,31.95,36.99,12,https://sneakerpicks.nl/merken/puma/suede
 2026-10-24,vans,knu-skool,Vans,Knu Skool,40,40,8,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-10-24,vans,old-skool,Vans,Old Skool,36.99,30.95,18,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-24,vans,old-skool,Vans,Old Skool,46.74,46.74,18,https://sneakerpicks.nl/merken/vans/old-skool
 2026-10-24,vans,sk8-hi,Vans,Sk8-Hi,49.49,49.49,5,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-10-25,adidas,campus-00s,adidas,Campus 00s,39.95,39.95,16,https://sneakerpicks.nl/merken/adidas/campus-00s
 2026-10-25,adidas,gazelle,adidas,Gazelle,59,59,18,https://sneakerpicks.nl/merken/adidas/gazelle
@@ -764,7 +764,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-25,puma,speedcat,PUMA,Speedcat,40,43.98,11,https://sneakerpicks.nl/merken/puma/speedcat
 2026-10-25,puma,suede,PUMA,Suede,31.95,34.47,12,https://sneakerpicks.nl/merken/puma/suede
 2026-10-25,vans,knu-skool,Vans,Knu Skool,40,40,8,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-10-25,vans,old-skool,Vans,Old Skool,36.99,33.97,18,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-25,vans,old-skool,Vans,Old Skool,45,46.74,18,https://sneakerpicks.nl/merken/vans/old-skool
 2026-10-25,vans,sk8-hi,Vans,Sk8-Hi,49.49,49.49,5,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-10-26,adidas,campus-00s,adidas,Campus 00s,39.95,39.95,16,https://sneakerpicks.nl/merken/adidas/campus-00s
 2026-10-26,adidas,gazelle,adidas,Gazelle,59,59,18,https://sneakerpicks.nl/merken/adidas/gazelle
@@ -804,7 +804,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-26,puma,speedcat,PUMA,Speedcat,42.95,42.95,11,https://sneakerpicks.nl/merken/puma/speedcat
 2026-10-26,puma,suede,PUMA,Suede,31.95,31.95,12,https://sneakerpicks.nl/merken/puma/suede
 2026-10-26,vans,knu-skool,Vans,Knu Skool,40,40,8,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-10-26,vans,old-skool,Vans,Old Skool,36.99,36.99,18,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-26,vans,old-skool,Vans,Old Skool,46.74,46.74,18,https://sneakerpicks.nl/merken/vans/old-skool
 2026-10-26,vans,sk8-hi,Vans,Sk8-Hi,49.49,49.49,5,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-10-27,adidas,campus-00s,adidas,Campus 00s,39.95,39.95,16,https://sneakerpicks.nl/merken/adidas/campus-00s
 2026-10-27,adidas,gazelle,adidas,Gazelle,59,59,18,https://sneakerpicks.nl/merken/adidas/gazelle
@@ -844,7 +844,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-27,puma,speedcat,PUMA,Speedcat,42.95,42.95,11,https://sneakerpicks.nl/merken/puma/speedcat
 2026-10-27,puma,suede,PUMA,Suede,31.95,31.95,13,https://sneakerpicks.nl/merken/puma/suede
 2026-10-27,vans,knu-skool,Vans,Knu Skool,40,40,8,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-10-27,vans,old-skool,Vans,Old Skool,36.99,36.99,18,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-27,vans,old-skool,Vans,Old Skool,49.49,46.74,18,https://sneakerpicks.nl/merken/vans/old-skool
 2026-10-27,vans,sk8-hi,Vans,Sk8-Hi,49.49,49.49,6,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-10-28,adidas,campus-00s,adidas,Campus 00s,39.95,39.95,16,https://sneakerpicks.nl/merken/adidas/campus-00s
 2026-10-28,adidas,gazelle,adidas,Gazelle,59,59,18,https://sneakerpicks.nl/merken/adidas/gazelle
@@ -884,7 +884,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-28,puma,speedcat,PUMA,Speedcat,40,42.95,10,https://sneakerpicks.nl/merken/puma/speedcat
 2026-10-28,puma,suede,PUMA,Suede,31.95,31.95,12,https://sneakerpicks.nl/merken/puma/suede
 2026-10-28,vans,knu-skool,Vans,Knu Skool,40,40,8,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-10-28,vans,old-skool,Vans,Old Skool,36.99,36.99,18,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-28,vans,old-skool,Vans,Old Skool,50,46.74,18,https://sneakerpicks.nl/merken/vans/old-skool
 2026-10-28,vans,sk8-hi,Vans,Sk8-Hi,50,49.49,6,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-10-29,adidas,campus-00s,adidas,Campus 00s,39.95,39.95,16,https://sneakerpicks.nl/merken/adidas/campus-00s
 2026-10-29,adidas,gazelle,adidas,Gazelle,59,59,18,https://sneakerpicks.nl/merken/adidas/gazelle
@@ -923,7 +923,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-29,puma,speedcat,PUMA,Speedcat,25,42.95,11,https://sneakerpicks.nl/merken/puma/speedcat
 2026-10-29,puma,suede,PUMA,Suede,30.95,31.95,12,https://sneakerpicks.nl/merken/puma/suede
 2026-10-29,vans,knu-skool,Vans,Knu Skool,40,40,7,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-10-29,vans,old-skool,Vans,Old Skool,36.99,36.99,18,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-29,vans,old-skool,Vans,Old Skool,47.99,46.74,18,https://sneakerpicks.nl/merken/vans/old-skool
 2026-10-29,vans,sk8-hi,Vans,Sk8-Hi,49.99,49.49,6,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-10-30,adidas,campus-00s,adidas,Campus 00s,39.95,39.95,16,https://sneakerpicks.nl/merken/adidas/campus-00s
 2026-10-30,adidas,gazelle,adidas,Gazelle,59,59,18,https://sneakerpicks.nl/merken/adidas/gazelle
@@ -961,5 +961,43 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-30,puma,speedcat,PUMA,Speedcat,25,42.95,11,https://sneakerpicks.nl/merken/puma/speedcat
 2026-10-30,puma,suede,PUMA,Suede,30.95,31.95,13,https://sneakerpicks.nl/merken/puma/suede
 2026-10-30,vans,knu-skool,Vans,Knu Skool,40,40,7,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-10-30,vans,old-skool,Vans,Old Skool,36.99,36.99,18,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-30,vans,old-skool,Vans,Old Skool,46.74,46.74,18,https://sneakerpicks.nl/merken/vans/old-skool
 2026-10-30,vans,sk8-hi,Vans,Sk8-Hi,49.49,49.49,5,https://sneakerpicks.nl/merken/vans/sk8-hi
+2026-10-31,adidas,campus-00s,adidas,Campus 00s,39.95,39.95,16,https://sneakerpicks.nl/merken/adidas/campus-00s
+2026-10-31,adidas,gazelle,adidas,Gazelle,59,59,18,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-10-31,adidas,handball-spezial,adidas,Handball Spezial,49.95,49.95,19,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-10-31,adidas,samba,adidas,Samba,55,55,18,https://sneakerpicks.nl/merken/adidas/samba
+2026-10-31,adidas,samba-og,adidas,Samba OG,68,68,19,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-10-31,adidas,sl-72,adidas,SL 72,44.95,44.95,13,https://sneakerpicks.nl/merken/adidas/sl-72
+2026-10-31,adidas,stan-smith,adidas,Stan Smith,84.99,84.99,12,https://sneakerpicks.nl/merken/adidas/stan-smith
+2026-10-31,adidas,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
+2026-10-31,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,19,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-10-31,adidas-originals,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
+2026-10-31,asics,gel-1130,ASICS,GEL-1130,60,60,15,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-31,asics,gel-kayano,ASICS,GEL-Kayano,172,169,4,https://sneakerpicks.nl/merken/asics/gel-kayano
+2026-10-31,asics,gel-nyc,ASICS,GEL-NYC,75.99,75.99,17,https://sneakerpicks.nl/merken/asics/gel-nyc
+2026-10-31,asics,gel-quantum,ASICS,GEL-Quantum,152.99,112.49,3,https://sneakerpicks.nl/merken/asics/gel-quantum
+2026-10-31,converse,chuck-70,Converse,Chuck 70,44.99,42.99,8,https://sneakerpicks.nl/merken/converse/chuck-70
+2026-10-31,gabor,rollingsoft,Gabor,Rollingsoft,86.34,84.53,3,https://sneakerpicks.nl/merken/gabor/rollingsoft
+2026-10-31,new-balance,327,New Balance,327,79.99,79.99,6,https://sneakerpicks.nl/merken/new-balance/327
+2026-10-31,new-balance,530,New Balance,530,59.99,59.5,13,https://sneakerpicks.nl/merken/new-balance/530
+2026-10-31,new-balance,574,New Balance,574,64.62,59.5,12,https://sneakerpicks.nl/merken/new-balance/574
+2026-10-31,new-balance,740,New Balance,740,45,45,13,https://sneakerpicks.nl/merken/new-balance/740
+2026-10-31,new-balance,9060,New Balance,9060,70,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
+2026-10-31,nike,air-force-1,Nike,Air Force 1,72.99,72.99,18,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-31,nike,air-jordan-1,Nike,Air Jordan 1,89.39,89.39,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
+2026-10-31,nike,air-max,Nike,Air Max,38.99,38.99,16,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-31,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
+2026-10-31,nike,air-max-90,Nike,Air Max 90,129.5,128,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-31,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
+2026-10-31,nike,air-max-plus,Nike,Air Max Plus,90,65,13,https://sneakerpicks.nl/merken/nike/air-max-plus
+2026-10-31,nike,dunk-low,Nike,Dunk Low,39.95,39.95,14,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-31,nike,p-6000,Nike,P-6000,43.99,43.99,18,https://sneakerpicks.nl/merken/nike/p-6000
+2026-10-31,nike,pegasus,Nike,Pegasus,67.99,62,16,https://sneakerpicks.nl/merken/nike/pegasus
+2026-10-31,nike,vomero-5,Nike,Vomero 5,63.99,63.99,10,https://sneakerpicks.nl/merken/nike/vomero-5
+2026-10-31,puma,palermo,PUMA,Palermo,32.95,32.95,10,https://sneakerpicks.nl/merken/puma/palermo
+2026-10-31,puma,speedcat,PUMA,Speedcat,25,42.95,10,https://sneakerpicks.nl/merken/puma/speedcat
+2026-10-31,puma,suede,PUMA,Suede,42.95,31.95,13,https://sneakerpicks.nl/merken/puma/suede
+2026-10-31,vans,knu-skool,Vans,Knu Skool,40,40,8,https://sneakerpicks.nl/merken/vans/knu-skool
+2026-10-31,vans,old-skool,Vans,Old Skool,46.74,46.74,18,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-31,vans,sk8-hi,Vans,Sk8-Hi,49.49,49.49,5,https://sneakerpicks.nl/merken/vans/sk8-hi
