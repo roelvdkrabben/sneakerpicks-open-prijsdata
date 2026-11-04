@@ -4,6 +4,8 @@ Daily lowest prices and the 30-day normal price for popular sneaker models acros
 
 SneakerPicks launched in October 2026, so the history is short. A GitHub Action fetches the live data every day and appends it to [`data/prices.csv`](data/prices.csv), so this file grows into a full history.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23945461.svg)](https://doi.org/10.5281/zenodo.23945461) · Also on [Kaggle](https://www.kaggle.com/datasets/sneakerpicks/dutch-sneaker-prices-daily)
+
 *Nederlands: zie [onderaan](#nederlands).*
 
 ## Files
