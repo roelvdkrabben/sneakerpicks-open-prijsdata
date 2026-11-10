@@ -24,7 +24,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-01,new-balance,574,New Balance,574,42,42,5,https://sneakerpicks.nl/merken/new-balance/574
 2026-07-01,new-balance,740,New Balance,740,60,60,7,https://sneakerpicks.nl/merken/new-balance/740
 2026-07-01,new-balance,9060,New Balance,9060,33.99,50.74,7,https://sneakerpicks.nl/merken/new-balance/9060
-2026-07-01,nike,air-force-1,Nike,Air Force 1,75,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-07-01,nike,air-force-1,Nike,Air Force 1,75,68,9,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-07-01,nike,air-jordan-1,Nike,Air Jordan 1,92.06,93.01,6,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-07-01,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-01,nike,air-max-1,Nike,Air Max 1,89.99,89,7,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -34,7 +34,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-01,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-01,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
 2026-07-01,nike,dunk-high,Nike,Dunk High,80,74,4,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-07-01,nike,dunk-low,Nike,Dunk Low,53.96,53.96,6,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-07-01,nike,dunk-low,Nike,Dunk Low,83.9,83.9,6,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-07-01,nike,p-6000,Nike,P-6000,69,59.99,4,https://sneakerpicks.nl/merken/nike/p-6000
 2026-07-01,nike,pegasus,Nike,Pegasus,100,100,5,https://sneakerpicks.nl/merken/nike/pegasus
 2026-07-01,nike,vomero-5,Nike,Vomero 5,69.99,69,3,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -69,7 +69,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-02,new-balance,574,New Balance,574,42,42,5,https://sneakerpicks.nl/merken/new-balance/574
 2026-07-02,new-balance,740,New Balance,740,60,60,7,https://sneakerpicks.nl/merken/new-balance/740
 2026-07-02,new-balance,9060,New Balance,9060,39.99,50.72,7,https://sneakerpicks.nl/merken/new-balance/9060
-2026-07-02,nike,air-force-1,Nike,Air Force 1,79,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-07-02,nike,air-force-1,Nike,Air Force 1,79,68,9,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-07-02,nike,air-jordan-1,Nike,Air Jordan 1,93.95,93.01,6,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-07-02,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-02,nike,air-max-1,Nike,Air Max 1,89.99,89,7,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -79,7 +79,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-02,nike,air-max-plus,Nike,Air Max Plus,69,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-02,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
 2026-07-02,nike,dunk-high,Nike,Dunk High,99.49,74,4,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-07-02,nike,dunk-low,Nike,Dunk Low,53.96,53.96,6,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-07-02,nike,dunk-low,Nike,Dunk Low,83.9,83.9,6,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-07-02,nike,p-6000,Nike,P-6000,69,59.99,4,https://sneakerpicks.nl/merken/nike/p-6000
 2026-07-02,nike,pegasus,Nike,Pegasus,100,100,5,https://sneakerpicks.nl/merken/nike/pegasus
 2026-07-02,nike,vomero-5,Nike,Vomero 5,68,69,3,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -114,7 +114,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-03,new-balance,574,New Balance,574,42,42,5,https://sneakerpicks.nl/merken/new-balance/574
 2026-07-03,new-balance,740,New Balance,740,60,60,7,https://sneakerpicks.nl/merken/new-balance/740
 2026-07-03,new-balance,9060,New Balance,9060,120,50.72,7,https://sneakerpicks.nl/merken/new-balance/9060
-2026-07-03,nike,air-force-1,Nike,Air Force 1,75,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-07-03,nike,air-force-1,Nike,Air Force 1,75,68,9,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-07-03,nike,air-jordan-1,Nike,Air Jordan 1,92.06,92.06,6,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-07-03,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-03,nike,air-max-1,Nike,Air Max 1,89.99,89,7,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -124,7 +124,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-03,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-03,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
 2026-07-03,nike,dunk-high,Nike,Dunk High,74,74,4,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-07-03,nike,dunk-low,Nike,Dunk Low,53.96,53.96,6,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-07-03,nike,dunk-low,Nike,Dunk Low,83.9,83.9,6,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-07-03,nike,p-6000,Nike,P-6000,69.99,59.99,4,https://sneakerpicks.nl/merken/nike/p-6000
 2026-07-03,nike,pegasus,Nike,Pegasus,100,100,5,https://sneakerpicks.nl/merken/nike/pegasus
 2026-07-03,nike,vomero-5,Nike,Vomero 5,68,69,3,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -159,7 +159,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-04,new-balance,574,New Balance,574,42,42,5,https://sneakerpicks.nl/merken/new-balance/574
 2026-07-04,new-balance,740,New Balance,740,60,60,7,https://sneakerpicks.nl/merken/new-balance/740
 2026-07-04,new-balance,9060,New Balance,9060,120,50.72,7,https://sneakerpicks.nl/merken/new-balance/9060
-2026-07-04,nike,air-force-1,Nike,Air Force 1,75,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-07-04,nike,air-force-1,Nike,Air Force 1,75,68,9,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-07-04,nike,air-jordan-1,Nike,Air Jordan 1,94,92.06,6,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-07-04,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-04,nike,air-max-1,Nike,Air Max 1,89.99,89,7,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -169,7 +169,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-04,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-04,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
 2026-07-04,nike,dunk-high,Nike,Dunk High,74,74,4,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-07-04,nike,dunk-low,Nike,Dunk Low,53.96,53.96,6,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-07-04,nike,dunk-low,Nike,Dunk Low,83.9,83.9,6,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-07-04,nike,p-6000,Nike,P-6000,69.99,59.99,4,https://sneakerpicks.nl/merken/nike/p-6000
 2026-07-04,nike,pegasus,Nike,Pegasus,100,100,5,https://sneakerpicks.nl/merken/nike/pegasus
 2026-07-04,nike,vomero-5,Nike,Vomero 5,90,69,3,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -204,7 +204,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-05,new-balance,574,New Balance,574,42,42,5,https://sneakerpicks.nl/merken/new-balance/574
 2026-07-05,new-balance,740,New Balance,740,60,60,7,https://sneakerpicks.nl/merken/new-balance/740
 2026-07-05,new-balance,9060,New Balance,9060,39.99,50.71,7,https://sneakerpicks.nl/merken/new-balance/9060
-2026-07-05,nike,air-force-1,Nike,Air Force 1,79,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-07-05,nike,air-force-1,Nike,Air Force 1,69.99,68,9,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-07-05,nike,air-jordan-1,Nike,Air Jordan 1,92.06,92.06,6,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-07-05,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-05,nike,air-max-1,Nike,Air Max 1,99,89,7,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -214,7 +214,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-05,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-05,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
 2026-07-05,nike,dunk-high,Nike,Dunk High,74,74,4,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-07-05,nike,dunk-low,Nike,Dunk Low,53.96,53.96,6,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-07-05,nike,dunk-low,Nike,Dunk Low,83.9,83.9,6,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-07-05,nike,p-6000,Nike,P-6000,69.99,59.99,4,https://sneakerpicks.nl/merken/nike/p-6000
 2026-07-05,nike,pegasus,Nike,Pegasus,100,100,5,https://sneakerpicks.nl/merken/nike/pegasus
 2026-07-05,nike,vomero-5,Nike,Vomero 5,69,69,3,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -249,7 +249,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-06,new-balance,574,New Balance,574,42,42,5,https://sneakerpicks.nl/merken/new-balance/574
 2026-07-06,new-balance,740,New Balance,740,60,60,7,https://sneakerpicks.nl/merken/new-balance/740
 2026-07-06,new-balance,9060,New Balance,9060,120,50.71,7,https://sneakerpicks.nl/merken/new-balance/9060
-2026-07-06,nike,air-force-1,Nike,Air Force 1,79,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-07-06,nike,air-force-1,Nike,Air Force 1,79,68,9,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-07-06,nike,air-jordan-1,Nike,Air Jordan 1,96,92.06,6,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-07-06,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-06,nike,air-max-1,Nike,Air Max 1,99,89.5,7,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -259,7 +259,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-06,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-06,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
 2026-07-06,nike,dunk-high,Nike,Dunk High,99.49,74,4,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-07-06,nike,dunk-low,Nike,Dunk Low,53.96,53.96,6,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-07-06,nike,dunk-low,Nike,Dunk Low,83.9,83.9,6,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-07-06,nike,p-6000,Nike,P-6000,69.99,59.99,4,https://sneakerpicks.nl/merken/nike/p-6000
 2026-07-06,nike,pegasus,Nike,Pegasus,100,100,5,https://sneakerpicks.nl/merken/nike/pegasus
 2026-07-06,nike,vomero-5,Nike,Vomero 5,69,69,3,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -294,7 +294,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-07,new-balance,574,New Balance,574,42,42,5,https://sneakerpicks.nl/merken/new-balance/574
 2026-07-07,new-balance,740,New Balance,740,60,60,7,https://sneakerpicks.nl/merken/new-balance/740
 2026-07-07,new-balance,9060,New Balance,9060,120,50.71,7,https://sneakerpicks.nl/merken/new-balance/9060
-2026-07-07,nike,air-force-1,Nike,Air Force 1,79,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-07-07,nike,air-force-1,Nike,Air Force 1,79,68,9,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-07-07,nike,air-jordan-1,Nike,Air Jordan 1,92.06,92.06,6,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-07-07,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-07,nike,air-max-1,Nike,Air Max 1,99,89.5,7,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -304,7 +304,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-07,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-07,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
 2026-07-07,nike,dunk-high,Nike,Dunk High,74,74,4,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-07-07,nike,dunk-low,Nike,Dunk Low,53.96,53.96,6,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-07-07,nike,dunk-low,Nike,Dunk Low,83.9,83.9,6,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-07-07,nike,p-6000,Nike,P-6000,69.99,59.99,4,https://sneakerpicks.nl/merken/nike/p-6000
 2026-07-07,nike,pegasus,Nike,Pegasus,100,100,5,https://sneakerpicks.nl/merken/nike/pegasus
 2026-07-07,nike,vomero-5,Nike,Vomero 5,69,69,3,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -339,7 +339,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-08,new-balance,574,New Balance,574,42,42,5,https://sneakerpicks.nl/merken/new-balance/574
 2026-07-08,new-balance,740,New Balance,740,60,60,7,https://sneakerpicks.nl/merken/new-balance/740
 2026-07-08,new-balance,9060,New Balance,9060,120,50.72,7,https://sneakerpicks.nl/merken/new-balance/9060
-2026-07-08,nike,air-force-1,Nike,Air Force 1,79,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-07-08,nike,air-force-1,Nike,Air Force 1,79,68,9,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-07-08,nike,air-jordan-1,Nike,Air Jordan 1,92.06,92.06,6,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-07-08,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-08,nike,air-max-1,Nike,Air Max 1,99,89.99,7,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -349,7 +349,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-08,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-08,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
 2026-07-08,nike,dunk-high,Nike,Dunk High,74,74,4,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-07-08,nike,dunk-low,Nike,Dunk Low,53.96,53.96,6,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-07-08,nike,dunk-low,Nike,Dunk Low,83.9,83.9,6,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-07-08,nike,p-6000,Nike,P-6000,69.99,60,4,https://sneakerpicks.nl/merken/nike/p-6000
 2026-07-08,nike,pegasus,Nike,Pegasus,100,100,5,https://sneakerpicks.nl/merken/nike/pegasus
 2026-07-08,nike,vomero-5,Nike,Vomero 5,69,69,3,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -384,7 +384,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-16,new-balance,574,New Balance,574,36,,10,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-16,new-balance,740,New Balance,740,45,,12,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-16,new-balance,9060,New Balance,9060,41.41,,15,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-16,nike,air-force-1,Nike,Air Force 1,75,,15,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-16,nike,air-force-1,Nike,Air Force 1,66,,15,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-16,nike,air-jordan-1,Nike,Air Jordan 1,93.95,,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-16,nike,air-max,Nike,Air Max,77.95,,12,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-16,nike,air-max-1,Nike,Air Max 1,79.95,,12,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -394,7 +394,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-16,nike,air-max-plus,Nike,Air Max Plus,65,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-16,nike,cortez,Nike,Cortez,55,,7,https://sneakerpicks.nl/merken/nike/cortez
 2026-10-16,nike,dunk-high,Nike,Dunk High,49.95,,8,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-10-16,nike,dunk-low,Nike,Dunk Low,39.95,,11,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-16,nike,dunk-low,Nike,Dunk Low,83.99,,10,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-10-16,nike,p-6000,Nike,P-6000,65,,14,https://sneakerpicks.nl/merken/nike/p-6000
 2026-10-16,nike,pegasus,Nike,Pegasus,96,,11,https://sneakerpicks.nl/merken/nike/pegasus
 2026-10-16,nike,vomero-5,Nike,Vomero 5,59.99,,6,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -429,7 +429,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-17,new-balance,574,New Balance,574,52.99,,9,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-17,new-balance,740,New Balance,740,45,,12,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-17,new-balance,9060,New Balance,9060,41.41,,15,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-17,nike,air-force-1,Nike,Air Force 1,74.01,,15,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-17,nike,air-force-1,Nike,Air Force 1,66,,15,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-17,nike,air-jordan-1,Nike,Air Jordan 1,99.99,,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-17,nike,air-max,Nike,Air Max,77.95,,12,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-17,nike,air-max-1,Nike,Air Max 1,79.95,,12,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -439,7 +439,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-17,nike,air-max-plus,Nike,Air Max Plus,65,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-17,nike,cortez,Nike,Cortez,58,,7,https://sneakerpicks.nl/merken/nike/cortez
 2026-10-17,nike,dunk-high,Nike,Dunk High,49.95,,8,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-10-17,nike,dunk-low,Nike,Dunk Low,39.95,,11,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-17,nike,dunk-low,Nike,Dunk Low,83.99,,11,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-10-17,nike,p-6000,Nike,P-6000,59.99,,14,https://sneakerpicks.nl/merken/nike/p-6000
 2026-10-17,nike,pegasus,Nike,Pegasus,97,,10,https://sneakerpicks.nl/merken/nike/pegasus
 2026-10-17,nike,vomero-5,Nike,Vomero 5,69.99,,6,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -475,7 +475,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-18,new-balance,574,New Balance,574,38.87,,11,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-18,new-balance,740,New Balance,740,45,,11,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-18,new-balance,9060,New Balance,9060,99.99,,15,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-18,nike,air-force-1,Nike,Air Force 1,75,,15,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-18,nike,air-force-1,Nike,Air Force 1,66,,15,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-18,nike,air-jordan-1,Nike,Air Jordan 1,93.79,,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-18,nike,air-max,Nike,Air Max,77.95,,12,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-18,nike,air-max-1,Nike,Air Max 1,79.95,,11,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -485,7 +485,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-18,nike,air-max-plus,Nike,Air Max Plus,65,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-18,nike,cortez,Nike,Cortez,55,,7,https://sneakerpicks.nl/merken/nike/cortez
 2026-10-18,nike,dunk-high,Nike,Dunk High,49.95,,8,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-10-18,nike,dunk-low,Nike,Dunk Low,39.95,,11,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-18,nike,dunk-low,Nike,Dunk Low,83.99,,11,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-10-18,nike,p-6000,Nike,P-6000,47,,15,https://sneakerpicks.nl/merken/nike/p-6000
 2026-10-18,nike,pegasus,Nike,Pegasus,97,,12,https://sneakerpicks.nl/merken/nike/pegasus
 2026-10-18,nike,vomero-5,Nike,Vomero 5,59.99,,6,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -518,7 +518,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-19,new-balance,574,New Balance,574,38.87,,11,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-19,new-balance,740,New Balance,740,45,,11,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-19,new-balance,9060,New Balance,9060,99.99,,15,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-19,nike,air-force-1,Nike,Air Force 1,75,,15,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-19,nike,air-force-1,Nike,Air Force 1,69.95,,15,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-19,nike,air-jordan-1,Nike,Air Jordan 1,92,,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-19,nike,air-max,Nike,Air Max,77.95,,12,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-19,nike,air-max-1,Nike,Air Max 1,79.95,,11,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -528,7 +528,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-19,nike,air-max-plus,Nike,Air Max Plus,59.99,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-19,nike,cortez,Nike,Cortez,58,,7,https://sneakerpicks.nl/merken/nike/cortez
 2026-10-19,nike,dunk-high,Nike,Dunk High,49.95,,8,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-10-19,nike,dunk-low,Nike,Dunk Low,39.95,,11,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-19,nike,dunk-low,Nike,Dunk Low,83.99,,11,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-10-19,nike,p-6000,Nike,P-6000,65,,15,https://sneakerpicks.nl/merken/nike/p-6000
 2026-10-19,nike,pegasus,Nike,Pegasus,97,,11,https://sneakerpicks.nl/merken/nike/pegasus
 2026-10-19,nike,vomero-5,Nike,Vomero 5,79.95,,7,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -561,7 +561,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-20,new-balance,574,New Balance,574,52.99,,11,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-20,new-balance,740,New Balance,740,45,,11,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-20,new-balance,9060,New Balance,9060,99.99,,15,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-20,nike,air-force-1,Nike,Air Force 1,75,,15,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-20,nike,air-force-1,Nike,Air Force 1,69.95,,15,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-20,nike,air-jordan-1,Nike,Air Jordan 1,92,,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-20,nike,air-max,Nike,Air Max,77.95,,12,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-20,nike,air-max-1,Nike,Air Max 1,79.95,,11,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -571,7 +571,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-20,nike,air-max-plus,Nike,Air Max Plus,65,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-20,nike,cortez,Nike,Cortez,58,,8,https://sneakerpicks.nl/merken/nike/cortez
 2026-10-20,nike,dunk-high,Nike,Dunk High,49.95,,8,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-10-20,nike,dunk-low,Nike,Dunk Low,39.95,,11,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-20,nike,dunk-low,Nike,Dunk Low,83.99,,11,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-10-20,nike,p-6000,Nike,P-6000,65,,15,https://sneakerpicks.nl/merken/nike/p-6000
 2026-10-20,nike,pegasus,Nike,Pegasus,96,,11,https://sneakerpicks.nl/merken/nike/pegasus
 2026-10-20,nike,vomero-5,Nike,Vomero 5,79.95,,7,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -604,7 +604,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-21,new-balance,574,New Balance,574,59.5,,12,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-21,new-balance,740,New Balance,740,65,,13,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-21,new-balance,9060,New Balance,9060,99.99,,18,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-21,nike,air-force-1,Nike,Air Force 1,72.99,,19,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-21,nike,air-force-1,Nike,Air Force 1,66.99,,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-21,nike,air-jordan-1,Nike,Air Jordan 1,92,,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-21,nike,air-max,Nike,Air Max,77.95,,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-21,nike,air-max-1,Nike,Air Max 1,79.95,,13,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -614,7 +614,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-21,nike,air-max-plus,Nike,Air Max Plus,65,,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-21,nike,cortez,Nike,Cortez,35.99,,12,https://sneakerpicks.nl/merken/nike/cortez
 2026-10-21,nike,dunk-high,Nike,Dunk High,49.95,,9,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-10-21,nike,dunk-low,Nike,Dunk Low,39.95,,15,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-21,nike,dunk-low,Nike,Dunk Low,83.99,,15,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-10-21,nike,p-6000,Nike,P-6000,43.99,,19,https://sneakerpicks.nl/merken/nike/p-6000
 2026-10-21,nike,pegasus,Nike,Pegasus,98,,15,https://sneakerpicks.nl/merken/nike/pegasus
 2026-10-21,nike,vomero-5,Nike,Vomero 5,63.99,,12,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -647,7 +647,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-22,new-balance,574,New Balance,574,59.5,52.99,12,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-22,new-balance,740,New Balance,740,45,45,13,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-22,new-balance,9060,New Balance,9060,99.99,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-22,nike,air-force-1,Nike,Air Force 1,72.99,75,19,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-22,nike,air-force-1,Nike,Air Force 1,66.99,66.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-22,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-22,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-22,nike,air-max-1,Nike,Air Max 1,79.95,79.95,13,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -657,7 +657,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-22,nike,air-max-plus,Nike,Air Max Plus,65,65,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-22,nike,cortez,Nike,Cortez,35.99,55,12,https://sneakerpicks.nl/merken/nike/cortez
 2026-10-22,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-10-22,nike,dunk-low,Nike,Dunk Low,39.95,39.95,15,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-22,nike,dunk-low,Nike,Dunk Low,83.99,83.99,15,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-10-22,nike,p-6000,Nike,P-6000,43.99,59.99,19,https://sneakerpicks.nl/merken/nike/p-6000
 2026-10-22,nike,pegasus,Nike,Pegasus,97,97,15,https://sneakerpicks.nl/merken/nike/pegasus
 2026-10-22,nike,vomero-5,Nike,Vomero 5,63.99,63.99,12,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -690,7 +690,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-23,new-balance,574,New Balance,574,59.5,52.99,12,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-23,new-balance,740,New Balance,740,60,45,13,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-23,new-balance,9060,New Balance,9060,90,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-23,nike,air-force-1,Nike,Air Force 1,72.99,74.51,19,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-23,nike,air-force-1,Nike,Air Force 1,66.99,66.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-23,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-23,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-23,nike,air-max-1,Nike,Air Max 1,74.99,79.95,14,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -700,7 +700,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-23,nike,air-max-plus,Nike,Air Max Plus,65,65,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-23,nike,cortez,Nike,Cortez,35.99,55,13,https://sneakerpicks.nl/merken/nike/cortez
 2026-10-23,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-10-23,nike,dunk-low,Nike,Dunk Low,39.95,39.95,16,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-23,nike,dunk-low,Nike,Dunk Low,83.99,83.99,15,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-10-23,nike,p-6000,Nike,P-6000,43.99,53.5,19,https://sneakerpicks.nl/merken/nike/p-6000
 2026-10-23,nike,pegasus,Nike,Pegasus,96,97,15,https://sneakerpicks.nl/merken/nike/pegasus
 2026-10-23,nike,vomero-5,Nike,Vomero 5,63.99,63.99,12,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -733,7 +733,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-24,new-balance,574,New Balance,574,59.5,52.99,11,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-24,new-balance,740,New Balance,740,60,45,12,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-24,new-balance,9060,New Balance,9060,99.99,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-24,nike,air-force-1,Nike,Air Force 1,72.99,74.01,19,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-24,nike,air-force-1,Nike,Air Force 1,66.99,66.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-24,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-24,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-24,nike,air-max-1,Nike,Air Max 1,79.95,79.95,14,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -743,7 +743,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-24,nike,air-max-plus,Nike,Air Max Plus,90,65,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-24,nike,cortez,Nike,Cortez,35.99,55,12,https://sneakerpicks.nl/merken/nike/cortez
 2026-10-24,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-10-24,nike,dunk-low,Nike,Dunk Low,39.95,39.95,16,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-24,nike,dunk-low,Nike,Dunk Low,83.99,83.99,15,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-10-24,nike,p-6000,Nike,P-6000,43.99,47,19,https://sneakerpicks.nl/merken/nike/p-6000
 2026-10-24,nike,pegasus,Nike,Pegasus,96,97,16,https://sneakerpicks.nl/merken/nike/pegasus
 2026-10-24,nike,vomero-5,Nike,Vomero 5,63.99,63.99,12,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -776,7 +776,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-25,new-balance,574,New Balance,574,64.68,56.25,11,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-25,new-balance,740,New Balance,740,60,45,13,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-25,new-balance,9060,New Balance,9060,99.99,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-25,nike,air-force-1,Nike,Air Force 1,72.99,73.5,19,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-25,nike,air-force-1,Nike,Air Force 1,66.99,66.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-25,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-25,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-25,nike,air-max-1,Nike,Air Max 1,79.95,79.95,14,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -786,7 +786,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-25,nike,air-max-plus,Nike,Air Max Plus,90,65,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-25,nike,cortez,Nike,Cortez,35.99,45.5,13,https://sneakerpicks.nl/merken/nike/cortez
 2026-10-25,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-10-25,nike,dunk-low,Nike,Dunk Low,39.95,39.95,16,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-25,nike,dunk-low,Nike,Dunk Low,83.99,83.99,15,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-10-25,nike,p-6000,Nike,P-6000,43.99,45.5,19,https://sneakerpicks.nl/merken/nike/p-6000
 2026-10-25,nike,pegasus,Nike,Pegasus,98.95,97,15,https://sneakerpicks.nl/merken/nike/pegasus
 2026-10-25,nike,vomero-5,Nike,Vomero 5,63.99,63.99,12,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -819,7 +819,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-26,new-balance,574,New Balance,574,52.99,52.99,12,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-26,new-balance,740,New Balance,740,60,45,12,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-26,new-balance,9060,New Balance,9060,99.99,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-26,nike,air-force-1,Nike,Air Force 1,72.99,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-26,nike,air-force-1,Nike,Air Force 1,66.99,66.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-26,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-26,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-26,nike,air-max-1,Nike,Air Max 1,79.95,79.95,14,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -829,7 +829,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-26,nike,air-max-plus,Nike,Air Max Plus,90,65,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-26,nike,cortez,Nike,Cortez,35.99,35.99,12,https://sneakerpicks.nl/merken/nike/cortez
 2026-10-26,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-10-26,nike,dunk-low,Nike,Dunk Low,39.95,39.95,15,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-26,nike,dunk-low,Nike,Dunk Low,83.99,83.99,15,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-10-26,nike,p-6000,Nike,P-6000,43.99,43.99,19,https://sneakerpicks.nl/merken/nike/p-6000
 2026-10-26,nike,pegasus,Nike,Pegasus,96,97,14,https://sneakerpicks.nl/merken/nike/pegasus
 2026-10-26,nike,vomero-5,Nike,Vomero 5,63.99,63.99,11,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -862,7 +862,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-27,new-balance,574,New Balance,574,64.47,56.25,12,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-27,new-balance,740,New Balance,740,45,45,13,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-27,new-balance,9060,New Balance,9060,99.99,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-27,nike,air-force-1,Nike,Air Force 1,72.99,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-27,nike,air-force-1,Nike,Air Force 1,66.99,66.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-27,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-27,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-27,nike,air-max-1,Nike,Air Max 1,79.95,79.95,14,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -872,7 +872,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-27,nike,air-max-plus,Nike,Air Max Plus,89.99,65,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-27,nike,cortez,Nike,Cortez,35.99,35.99,13,https://sneakerpicks.nl/merken/nike/cortez
 2026-10-27,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-10-27,nike,dunk-low,Nike,Dunk Low,39.95,39.95,15,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-27,nike,dunk-low,Nike,Dunk Low,83.99,83.99,15,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-10-27,nike,p-6000,Nike,P-6000,43.99,43.99,19,https://sneakerpicks.nl/merken/nike/p-6000
 2026-10-27,nike,pegasus,Nike,Pegasus,96,96.5,14,https://sneakerpicks.nl/merken/nike/pegasus
 2026-10-27,nike,vomero-5,Nike,Vomero 5,63.99,63.99,12,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -905,7 +905,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-28,new-balance,574,New Balance,574,64.43,59.5,11,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-28,new-balance,740,New Balance,740,45,45,13,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-28,new-balance,9060,New Balance,9060,99.99,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-28,nike,air-force-1,Nike,Air Force 1,72.99,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-28,nike,air-force-1,Nike,Air Force 1,66.99,66.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-28,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-28,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-28,nike,air-max-1,Nike,Air Max 1,79.95,79.95,13,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -915,7 +915,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-28,nike,air-max-plus,Nike,Air Max Plus,90,65,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-28,nike,cortez,Nike,Cortez,35.99,35.99,13,https://sneakerpicks.nl/merken/nike/cortez
 2026-10-28,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-10-28,nike,dunk-low,Nike,Dunk Low,39.95,39.95,15,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-28,nike,dunk-low,Nike,Dunk Low,83.99,83.99,15,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-10-28,nike,p-6000,Nike,P-6000,43.99,43.99,19,https://sneakerpicks.nl/merken/nike/p-6000
 2026-10-28,nike,pegasus,Nike,Pegasus,96,96,14,https://sneakerpicks.nl/merken/nike/pegasus
 2026-10-28,nike,vomero-5,Nike,Vomero 5,63.99,63.99,11,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -948,7 +948,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-29,new-balance,574,New Balance,574,64.43,59.5,13,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-29,new-balance,740,New Balance,740,45,45,13,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-29,new-balance,9060,New Balance,9060,90,99.99,17,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-29,nike,air-force-1,Nike,Air Force 1,72.99,72.99,18,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-29,nike,air-force-1,Nike,Air Force 1,66.99,66.99,18,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-29,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,8,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-29,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-29,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -957,7 +957,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-29,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-29,nike,air-max-plus,Nike,Air Max Plus,90,65,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-29,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-10-29,nike,dunk-low,Nike,Dunk Low,39.95,39.95,14,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-29,nike,dunk-low,Nike,Dunk Low,83.99,83.99,14,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-10-29,nike,p-6000,Nike,P-6000,43.99,43.99,18,https://sneakerpicks.nl/merken/nike/p-6000
 2026-10-29,nike,pegasus,Nike,Pegasus,97,96.5,16,https://sneakerpicks.nl/merken/nike/pegasus
 2026-10-29,nike,vomero-5,Nike,Vomero 5,63.99,63.99,9,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -990,7 +990,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-30,new-balance,574,New Balance,574,64.63,59.5,13,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-30,new-balance,740,New Balance,740,45,45,13,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-30,new-balance,9060,New Balance,9060,70,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-30,nike,air-force-1,Nike,Air Force 1,72.99,72.99,18,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-30,nike,air-force-1,Nike,Air Force 1,66.99,66.99,18,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-30,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,8,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-30,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-30,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -999,7 +999,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-30,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-30,nike,air-max-plus,Nike,Air Max Plus,65,65,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-30,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-10-30,nike,dunk-low,Nike,Dunk Low,39.95,39.95,14,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-30,nike,dunk-low,Nike,Dunk Low,83.99,83.99,14,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-10-30,nike,p-6000,Nike,P-6000,43.99,43.99,18,https://sneakerpicks.nl/merken/nike/p-6000
 2026-10-30,nike,pegasus,Nike,Pegasus,98.95,97,15,https://sneakerpicks.nl/merken/nike/pegasus
 2026-10-30,nike,vomero-5,Nike,Vomero 5,63.99,63.99,9,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -1032,7 +1032,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-31,new-balance,574,New Balance,574,64.62,59.5,12,https://sneakerpicks.nl/merken/new-balance/574
 2026-10-31,new-balance,740,New Balance,740,45,45,13,https://sneakerpicks.nl/merken/new-balance/740
 2026-10-31,new-balance,9060,New Balance,9060,70,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
-2026-10-31,nike,air-force-1,Nike,Air Force 1,72.99,72.99,18,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-10-31,nike,air-force-1,Nike,Air Force 1,66.99,66.99,18,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-31,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,8,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-10-31,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-31,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -1041,7 +1041,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-31,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-31,nike,air-max-plus,Nike,Air Max Plus,90,65,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-31,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-10-31,nike,dunk-low,Nike,Dunk Low,39.95,39.95,14,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-10-31,nike,dunk-low,Nike,Dunk Low,83.99,83.99,14,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-10-31,nike,p-6000,Nike,P-6000,43.99,43.99,18,https://sneakerpicks.nl/merken/nike/p-6000
 2026-10-31,nike,pegasus,Nike,Pegasus,96,96.5,16,https://sneakerpicks.nl/merken/nike/pegasus
 2026-10-31,nike,vomero-5,Nike,Vomero 5,63.99,63.99,10,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -1074,7 +1074,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-01,new-balance,574,New Balance,574,45.51,59.5,13,https://sneakerpicks.nl/merken/new-balance/574
 2026-11-01,new-balance,740,New Balance,740,65,45,12,https://sneakerpicks.nl/merken/new-balance/740
 2026-11-01,new-balance,9060,New Balance,9060,70,99.99,17,https://sneakerpicks.nl/merken/new-balance/9060
-2026-11-01,nike,air-force-1,Nike,Air Force 1,72.99,72.99,18,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-11-01,nike,air-force-1,Nike,Air Force 1,66.99,66.99,18,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-01,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-11-01,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-01,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -1083,7 +1083,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-01,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-01,nike,air-max-plus,Nike,Air Max Plus,90,65,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-01,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-11-01,nike,dunk-low,Nike,Dunk Low,39.95,39.95,14,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-11-01,nike,dunk-low,Nike,Dunk Low,83.99,83.99,14,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-11-01,nike,p-6000,Nike,P-6000,43.99,43.99,17,https://sneakerpicks.nl/merken/nike/p-6000
 2026-11-01,nike,pegasus,Nike,Pegasus,96,96,16,https://sneakerpicks.nl/merken/nike/pegasus
 2026-11-01,nike,vomero-5,Nike,Vomero 5,63.99,63.99,10,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -1116,7 +1116,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-02,new-balance,574,New Balance,574,59.5,59.5,12,https://sneakerpicks.nl/merken/new-balance/574
 2026-11-02,new-balance,740,New Balance,740,65,45,13,https://sneakerpicks.nl/merken/new-balance/740
 2026-11-02,new-balance,9060,New Balance,9060,99.99,99.99,17,https://sneakerpicks.nl/merken/new-balance/9060
-2026-11-02,nike,air-force-1,Nike,Air Force 1,72.99,72.99,18,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-11-02,nike,air-force-1,Nike,Air Force 1,66.99,66.99,18,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-02,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-11-02,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-02,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -1125,7 +1125,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-02,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-02,nike,air-max-plus,Nike,Air Max Plus,90,77.5,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-02,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-11-02,nike,dunk-low,Nike,Dunk Low,39.95,39.95,14,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-11-02,nike,dunk-low,Nike,Dunk Low,83.99,83.99,14,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-11-02,nike,p-6000,Nike,P-6000,43.99,43.99,17,https://sneakerpicks.nl/merken/nike/p-6000
 2026-11-02,nike,pegasus,Nike,Pegasus,96,96,14,https://sneakerpicks.nl/merken/nike/pegasus
 2026-11-02,nike,vomero-5,Nike,Vomero 5,63.99,63.99,10,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -1158,7 +1158,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-03,new-balance,574,New Balance,574,59.5,59.5,13,https://sneakerpicks.nl/merken/new-balance/574
 2026-11-03,new-balance,740,New Balance,740,60,45,14,https://sneakerpicks.nl/merken/new-balance/740
 2026-11-03,new-balance,9060,New Balance,9060,99.99,99.99,20,https://sneakerpicks.nl/merken/new-balance/9060
-2026-11-03,nike,air-force-1,Nike,Air Force 1,72.99,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-11-03,nike,air-force-1,Nike,Air Force 1,66.99,66.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-03,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-11-03,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-03,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -1167,7 +1167,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-03,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-03,nike,air-max-plus,Nike,Air Max Plus,84.99,84.99,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-03,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-11-03,nike,dunk-low,Nike,Dunk Low,39.95,39.95,15,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-11-03,nike,dunk-low,Nike,Dunk Low,83.99,83.99,15,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-11-03,nike,p-6000,Nike,P-6000,43.99,43.99,18,https://sneakerpicks.nl/merken/nike/p-6000
 2026-11-03,nike,pegasus,Nike,Pegasus,96,96,13,https://sneakerpicks.nl/merken/nike/pegasus
 2026-11-03,nike,vomero-5,Nike,Vomero 5,63.99,63.99,9,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -1198,7 +1198,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-04,new-balance,574,New Balance,574,59.5,59.5,12,https://sneakerpicks.nl/merken/new-balance/574
 2026-11-04,new-balance,740,New Balance,740,55,45,14,https://sneakerpicks.nl/merken/new-balance/740
 2026-11-04,new-balance,9060,New Balance,9060,99.99,99.99,21,https://sneakerpicks.nl/merken/new-balance/9060
-2026-11-04,nike,air-force-1,Nike,Air Force 1,72.01,72.99,20,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-11-04,nike,air-force-1,Nike,Air Force 1,66.99,66.99,20,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-04,nike,air-jordan-1,Nike,Air Jordan 1,92,93.79,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-11-04,nike,air-max,Nike,Air Max,77.95,77.95,17,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-04,nike,air-max-1,Nike,Air Max 1,79.95,79.95,13,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -1207,7 +1207,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-04,nike,air-max-95,Nike,Air Max 95,61.99,61.99,13,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-04,nike,air-max-plus,Nike,Air Max Plus,90.95,87.49,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-04,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-11-04,nike,dunk-low,Nike,Dunk Low,39.95,39.95,16,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-11-04,nike,dunk-low,Nike,Dunk Low,83.99,83.99,16,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-11-04,nike,p-6000,Nike,P-6000,43.99,43.99,19,https://sneakerpicks.nl/merken/nike/p-6000
 2026-11-04,nike,pegasus,Nike,Pegasus,97,96,14,https://sneakerpicks.nl/merken/nike/pegasus
 2026-11-04,nike,vomero-5,Nike,Vomero 5,63.99,63.99,11,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -1238,7 +1238,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-05,new-balance,574,New Balance,574,59.5,59.5,13,https://sneakerpicks.nl/merken/new-balance/574
 2026-11-05,new-balance,740,New Balance,740,55,45,14,https://sneakerpicks.nl/merken/new-balance/740
 2026-11-05,new-balance,9060,New Balance,9060,90,99.99,20,https://sneakerpicks.nl/merken/new-balance/9060
-2026-11-05,nike,air-force-1,Nike,Air Force 1,72.01,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-11-05,nike,air-force-1,Nike,Air Force 1,66.99,66.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-05,nike,air-jordan-1,Nike,Air Jordan 1,92,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-11-05,nike,air-max,Nike,Air Max,77.95,77.95,17,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-05,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -1247,7 +1247,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-05,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-05,nike,air-max-plus,Nike,Air Max Plus,98,89.99,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-05,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-11-05,nike,dunk-low,Nike,Dunk Low,39.95,39.95,16,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-11-05,nike,dunk-low,Nike,Dunk Low,83.99,83.99,16,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-11-05,nike,p-6000,Nike,P-6000,43.99,43.99,20,https://sneakerpicks.nl/merken/nike/p-6000
 2026-11-05,nike,pegasus,Nike,Pegasus,98.95,96,14,https://sneakerpicks.nl/merken/nike/pegasus
 2026-11-05,nike,vomero-5,Nike,Vomero 5,63.99,63.99,10,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -1277,7 +1277,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-06,new-balance,574,New Balance,574,59.5,59.5,13,https://sneakerpicks.nl/merken/new-balance/574
 2026-11-06,new-balance,740,New Balance,740,65,50,13,https://sneakerpicks.nl/merken/new-balance/740
 2026-11-06,new-balance,9060,New Balance,9060,60,99.99,19,https://sneakerpicks.nl/merken/new-balance/9060
-2026-11-06,nike,air-force-1,Nike,Air Force 1,72.99,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-11-06,nike,air-force-1,Nike,Air Force 1,66.99,66.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-06,nike,air-jordan-1,Nike,Air Jordan 1,92,93.79,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-11-06,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-06,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -1286,7 +1286,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-06,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-06,nike,air-max-plus,Nike,Air Max Plus,90,90,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-06,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-11-06,nike,dunk-low,Nike,Dunk Low,39.95,39.95,16,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-11-06,nike,dunk-low,Nike,Dunk Low,83.99,83.99,16,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-11-06,nike,p-6000,Nike,P-6000,40,43.99,20,https://sneakerpicks.nl/merken/nike/p-6000
 2026-11-06,nike,pegasus,Nike,Pegasus,99.95,96.5,14,https://sneakerpicks.nl/merken/nike/pegasus
 2026-11-06,nike,vomero-5,Nike,Vomero 5,63.99,63.99,10,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -1316,7 +1316,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-07,new-balance,574,New Balance,574,59.5,59.5,14,https://sneakerpicks.nl/merken/new-balance/574
 2026-11-07,new-balance,740,New Balance,740,65,55,14,https://sneakerpicks.nl/merken/new-balance/740
 2026-11-07,new-balance,9060,New Balance,9060,60,99.99,20,https://sneakerpicks.nl/merken/new-balance/9060
-2026-11-07,nike,air-force-1,Nike,Air Force 1,72,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-11-07,nike,air-force-1,Nike,Air Force 1,66.99,66.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-07,nike,air-jordan-1,Nike,Air Jordan 1,92,93.79,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-11-07,nike,air-max,Nike,Air Max,77.95,77.95,17,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-07,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -1325,7 +1325,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-07,nike,air-max-95,Nike,Air Max 95,69.95,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-07,nike,air-max-plus,Nike,Air Max Plus,84.95,89.99,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-07,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-11-07,nike,dunk-low,Nike,Dunk Low,39.95,39.95,16,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-11-07,nike,dunk-low,Nike,Dunk Low,83.99,83.99,15,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-11-07,nike,p-6000,Nike,P-6000,40,43.99,20,https://sneakerpicks.nl/merken/nike/p-6000
 2026-11-07,nike,pegasus,Nike,Pegasus,99.95,97,14,https://sneakerpicks.nl/merken/nike/pegasus
 2026-11-07,nike,vomero-5,Nike,Vomero 5,63.99,63.99,11,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -1350,11 +1350,12 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-08,asics,gel-nyc,ASICS,GEL-NYC,75,75.99,19,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-11-08,asics,gel-quantum,ASICS,GEL-Quantum,152.99,152.99,2,https://sneakerpicks.nl/merken/asics/gel-quantum
 2026-11-08,converse,chuck-70,Converse,Chuck 70,44.99,44.99,9,https://sneakerpicks.nl/merken/converse/chuck-70
+2026-11-08,new-balance,327,New Balance,327,79.99,79.99,6,https://sneakerpicks.nl/merken/new-balance/327
 2026-11-08,new-balance,530,New Balance,530,47.99,59.5,15,https://sneakerpicks.nl/merken/new-balance/530
 2026-11-08,new-balance,574,New Balance,574,42,59.5,14,https://sneakerpicks.nl/merken/new-balance/574
 2026-11-08,new-balance,740,New Balance,740,65,55,14,https://sneakerpicks.nl/merken/new-balance/740
 2026-11-08,new-balance,9060,New Balance,9060,60,99.99,20,https://sneakerpicks.nl/merken/new-balance/9060
-2026-11-08,nike,air-force-1,Nike,Air Force 1,72,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-11-08,nike,air-force-1,Nike,Air Force 1,66.99,66.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-08,nike,air-jordan-1,Nike,Air Jordan 1,92,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-11-08,nike,air-max,Nike,Air Max,77.95,77.95,17,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-08,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -1363,7 +1364,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-08,nike,air-max-95,Nike,Air Max 95,69.95,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-08,nike,air-max-plus,Nike,Air Max Plus,84.95,87.49,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-08,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-11-08,nike,dunk-low,Nike,Dunk Low,39.95,39.95,16,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-11-08,nike,dunk-low,Nike,Dunk Low,83.99,83.99,15,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-11-08,nike,p-6000,Nike,P-6000,40,43.99,20,https://sneakerpicks.nl/merken/nike/p-6000
 2026-11-08,nike,pegasus,Nike,Pegasus,99.95,97,13,https://sneakerpicks.nl/merken/nike/pegasus
 2026-11-08,nike,vomero-5,Nike,Vomero 5,63.99,63.99,10,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -1388,11 +1389,12 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-09,asics,gel-nyc,ASICS,GEL-NYC,75,75.99,19,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-11-09,asics,gel-quantum,ASICS,GEL-Quantum,152.99,152.99,3,https://sneakerpicks.nl/merken/asics/gel-quantum
 2026-11-09,converse,chuck-70,Converse,Chuck 70,44.99,44.99,9,https://sneakerpicks.nl/merken/converse/chuck-70
+2026-11-09,new-balance,327,New Balance,327,79.99,79.99,6,https://sneakerpicks.nl/merken/new-balance/327
 2026-11-09,new-balance,530,New Balance,530,47.99,59.5,15,https://sneakerpicks.nl/merken/new-balance/530
 2026-11-09,new-balance,574,New Balance,574,59.5,59.5,13,https://sneakerpicks.nl/merken/new-balance/574
 2026-11-09,new-balance,740,New Balance,740,65,55,13,https://sneakerpicks.nl/merken/new-balance/740
 2026-11-09,new-balance,9060,New Balance,9060,60,99.99,20,https://sneakerpicks.nl/merken/new-balance/9060
-2026-11-09,nike,air-force-1,Nike,Air Force 1,72,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-11-09,nike,air-force-1,Nike,Air Force 1,66.99,66.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-09,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-11-09,nike,air-max,Nike,Air Max,77.95,77.95,17,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-09,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
@@ -1401,7 +1403,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-09,nike,air-max-95,Nike,Air Max 95,89.95,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-09,nike,air-max-plus,Nike,Air Max Plus,84.95,84.99,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-09,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
-2026-11-09,nike,dunk-low,Nike,Dunk Low,39.95,39.95,16,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-11-09,nike,dunk-low,Nike,Dunk Low,83.99,83.99,15,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-11-09,nike,p-6000,Nike,P-6000,59.95,43.99,19,https://sneakerpicks.nl/merken/nike/p-6000
 2026-11-09,nike,pegasus,Nike,Pegasus,99.95,97,16,https://sneakerpicks.nl/merken/nike/pegasus
 2026-11-09,nike,vomero-5,Nike,Vomero 5,63.99,63.99,11,https://sneakerpicks.nl/merken/nike/vomero-5
@@ -1411,3 +1413,41 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-09,vans,knu-skool,Vans,Knu Skool,45.99,40,8,https://sneakerpicks.nl/merken/vans/knu-skool
 2026-11-09,vans,old-skool,Vans,Old Skool,40,36.99,19,https://sneakerpicks.nl/merken/vans/old-skool
 2026-11-09,vans,sk8-hi,Vans,Sk8-Hi,42.99,49.49,7,https://sneakerpicks.nl/merken/vans/sk8-hi
+2026-11-10,adidas,campus,adidas,Campus,44.99,44.99,11,https://sneakerpicks.nl/merken/adidas/campus
+2026-11-10,adidas,campus-00s,adidas,Campus 00s,30,39.95,17,https://sneakerpicks.nl/merken/adidas/campus-00s
+2026-11-10,adidas,gazelle,adidas,Gazelle,59,59,18,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-11-10,adidas,handball-spezial,adidas,Handball Spezial,49.95,49.95,22,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-11-10,adidas,samba,adidas,Samba,55,55,19,https://sneakerpicks.nl/merken/adidas/samba
+2026-11-10,adidas,samba-og,adidas,Samba OG,68,68,20,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-11-10,adidas,sl-72,adidas,SL 72,39.95,44.95,14,https://sneakerpicks.nl/merken/adidas/sl-72
+2026-11-10,adidas,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
+2026-11-10,adidas,ultraboost,adidas,Ultraboost,52.99,83,8,https://sneakerpicks.nl/merken/adidas/ultraboost
+2026-11-10,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,22,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-11-10,asics,gel-1130,ASICS,GEL-1130,63.03,60,19,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-11-10,asics,gel-kayano,ASICS,GEL-Kayano,127,169,6,https://sneakerpicks.nl/merken/asics/gel-kayano
+2026-11-10,asics,gel-nyc,ASICS,GEL-NYC,98,75.99,19,https://sneakerpicks.nl/merken/asics/gel-nyc
+2026-11-10,asics,gel-quantum,ASICS,GEL-Quantum,152.99,152.99,3,https://sneakerpicks.nl/merken/asics/gel-quantum
+2026-11-10,converse,chuck-70,Converse,Chuck 70,44.99,44.99,9,https://sneakerpicks.nl/merken/converse/chuck-70
+2026-11-10,new-balance,327,New Balance,327,79.99,79.99,6,https://sneakerpicks.nl/merken/new-balance/327
+2026-11-10,new-balance,530,New Balance,530,47.99,59.5,14,https://sneakerpicks.nl/merken/new-balance/530
+2026-11-10,new-balance,574,New Balance,574,59.5,59.5,14,https://sneakerpicks.nl/merken/new-balance/574
+2026-11-10,new-balance,740,New Balance,740,60,57.5,14,https://sneakerpicks.nl/merken/new-balance/740
+2026-11-10,new-balance,9060,New Balance,9060,99.99,99.99,20,https://sneakerpicks.nl/merken/new-balance/9060
+2026-11-10,nike,air-force-1,Nike,Air Force 1,66.99,66.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-11-10,nike,air-jordan-1,Nike,Air Jordan 1,92,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
+2026-11-10,nike,air-max,Nike,Air Max,77.95,77.95,17,https://sneakerpicks.nl/merken/nike/air-max
+2026-11-10,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
+2026-11-10,nike,air-max-90,Nike,Air Max 90,127.99,128,19,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-10,nike,air-max-95,Nike,Air Max 95,69.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
+2026-11-10,nike,air-max-plus,Nike,Air Max Plus,84.95,84.97,14,https://sneakerpicks.nl/merken/nike/air-max-plus
+2026-11-10,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
+2026-11-10,nike,dunk-low,Nike,Dunk Low,83.99,83.99,15,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-11-10,nike,p-6000,Nike,P-6000,56,43.99,19,https://sneakerpicks.nl/merken/nike/p-6000
+2026-11-10,nike,pegasus,Nike,Pegasus,99.95,97,15,https://sneakerpicks.nl/merken/nike/pegasus
+2026-11-10,nike,vomero-5,Nike,Vomero 5,63.99,63.99,10,https://sneakerpicks.nl/merken/nike/vomero-5
+2026-11-10,puma,palermo,PUMA,Palermo,35.49,32.95,12,https://sneakerpicks.nl/merken/puma/palermo
+2026-11-10,puma,speedcat,PUMA,Speedcat,40,40,11,https://sneakerpicks.nl/merken/puma/speedcat
+2026-11-10,puma,suede,PUMA,Suede,30.95,31.95,14,https://sneakerpicks.nl/merken/puma/suede
+2026-11-10,vans,knu-skool,Vans,Knu Skool,45.99,40,8,https://sneakerpicks.nl/merken/vans/knu-skool
+2026-11-10,vans,old-skool,Vans,Old Skool,40,36.99,19,https://sneakerpicks.nl/merken/vans/old-skool
+2026-11-10,vans,sk8-hi,Vans,Sk8-Hi,42.99,49.49,7,https://sneakerpicks.nl/merken/vans/sk8-hi
