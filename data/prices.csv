@@ -29,7 +29,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-01,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-01,nike,air-max-1,Nike,Air Max 1,89.99,89,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-01,nike,air-max-270,Nike,Air Max 270,97,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-07-01,nike,air-max-90,Nike,Air Max 90,128,128,6,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-07-01,nike,air-max-90,Nike,Air Max 90,129.95,129,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-01,nike,air-max-95,Nike,Air Max 95,79.99,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-01,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-01,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
@@ -74,7 +74,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-02,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-02,nike,air-max-1,Nike,Air Max 1,89.99,89,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-02,nike,air-max-270,Nike,Air Max 270,109,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-07-02,nike,air-max-90,Nike,Air Max 90,128.62,128,6,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-07-02,nike,air-max-90,Nike,Air Max 90,129,129,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-02,nike,air-max-95,Nike,Air Max 95,79.99,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-02,nike,air-max-plus,Nike,Air Max Plus,69,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-02,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
@@ -119,7 +119,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-03,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-03,nike,air-max-1,Nike,Air Max 1,89.99,89,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-03,nike,air-max-270,Nike,Air Max 270,97,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-07-03,nike,air-max-90,Nike,Air Max 90,128.62,128,6,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-07-03,nike,air-max-90,Nike,Air Max 90,129,129,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-03,nike,air-max-95,Nike,Air Max 95,79.99,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-03,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-03,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
@@ -164,7 +164,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-04,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-04,nike,air-max-1,Nike,Air Max 1,89.99,89,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-04,nike,air-max-270,Nike,Air Max 270,109,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-07-04,nike,air-max-90,Nike,Air Max 90,128.62,128,6,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-07-04,nike,air-max-90,Nike,Air Max 90,129,129,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-04,nike,air-max-95,Nike,Air Max 95,44.99,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-04,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-04,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
@@ -209,7 +209,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-05,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-05,nike,air-max-1,Nike,Air Max 1,99,89,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-05,nike,air-max-270,Nike,Air Max 270,97,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-07-05,nike,air-max-90,Nike,Air Max 90,128,128,6,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-07-05,nike,air-max-90,Nike,Air Max 90,129,129,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-05,nike,air-max-95,Nike,Air Max 95,79.99,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-05,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-05,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
@@ -254,7 +254,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-06,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-06,nike,air-max-1,Nike,Air Max 1,99,89.5,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-06,nike,air-max-270,Nike,Air Max 270,77,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-07-06,nike,air-max-90,Nike,Air Max 90,128.62,128,6,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-07-06,nike,air-max-90,Nike,Air Max 90,129,129,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-06,nike,air-max-95,Nike,Air Max 95,75,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-06,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-06,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
@@ -299,7 +299,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-07,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-07,nike,air-max-1,Nike,Air Max 1,99,89.5,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-07,nike,air-max-270,Nike,Air Max 270,97,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-07-07,nike,air-max-90,Nike,Air Max 90,128.62,128,6,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-07-07,nike,air-max-90,Nike,Air Max 90,129,129,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-07,nike,air-max-95,Nike,Air Max 95,75,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-07,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-07,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
@@ -344,7 +344,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-08,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-08,nike,air-max-1,Nike,Air Max 1,99,89.99,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-08,nike,air-max-270,Nike,Air Max 270,97,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-07-08,nike,air-max-90,Nike,Air Max 90,128.62,128,6,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-07-08,nike,air-max-90,Nike,Air Max 90,129,129,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-08,nike,air-max-95,Nike,Air Max 95,75,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-08,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-08,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
@@ -389,7 +389,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-16,nike,air-max,Nike,Air Max,77.95,,12,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-16,nike,air-max-1,Nike,Air Max 1,79.95,,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-16,nike,air-max-270,Nike,Air Max 270,79.95,,6,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-16,nike,air-max-90,Nike,Air Max 90,128,,15,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-16,nike,air-max-90,Nike,Air Max 90,129,,15,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-16,nike,air-max-95,Nike,Air Max 95,69.99,,10,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-16,nike,air-max-plus,Nike,Air Max Plus,65,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-16,nike,cortez,Nike,Cortez,55,,7,https://sneakerpicks.nl/merken/nike/cortez
@@ -434,7 +434,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-17,nike,air-max,Nike,Air Max,77.95,,12,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-17,nike,air-max-1,Nike,Air Max 1,79.95,,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-17,nike,air-max-270,Nike,Air Max 270,79.95,,6,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-17,nike,air-max-90,Nike,Air Max 90,128,,15,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-17,nike,air-max-90,Nike,Air Max 90,129,,15,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-17,nike,air-max-95,Nike,Air Max 95,69.99,,10,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-17,nike,air-max-plus,Nike,Air Max Plus,65,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-17,nike,cortez,Nike,Cortez,58,,7,https://sneakerpicks.nl/merken/nike/cortez
@@ -447,7 +447,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-17,puma,speedcat,PUMA,Speedcat,45,,7,https://sneakerpicks.nl/merken/puma/speedcat
 2026-10-17,puma,suede,PUMA,Suede,36.99,,9,https://sneakerpicks.nl/merken/puma/suede
 2026-10-17,vans,knu-skool,Vans,Knu Skool,36.99,,6,https://sneakerpicks.nl/merken/vans/knu-skool
-2026-10-17,vans,old-skool,Vans,Old Skool,36.99,,12,https://sneakerpicks.nl/merken/vans/old-skool
+2026-10-17,vans,old-skool,Vans,Old Skool,36.99,,11,https://sneakerpicks.nl/merken/vans/old-skool
 2026-10-17,vans,sk8-hi,Vans,Sk8-Hi,55.99,,5,https://sneakerpicks.nl/merken/vans/sk8-hi
 2026-10-18,adidas,campus,adidas,Campus,44.99,,9,https://sneakerpicks.nl/merken/adidas/campus
 2026-10-18,adidas,campus-00s,adidas,Campus 00s,39.95,,13,https://sneakerpicks.nl/merken/adidas/campus-00s
@@ -480,7 +480,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-18,nike,air-max,Nike,Air Max,77.95,,12,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-18,nike,air-max-1,Nike,Air Max 1,79.95,,11,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-18,nike,air-max-270,Nike,Air Max 270,77,,6,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-18,nike,air-max-90,Nike,Air Max 90,128,,15,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-18,nike,air-max-90,Nike,Air Max 90,129,,15,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-18,nike,air-max-95,Nike,Air Max 95,88,,10,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-18,nike,air-max-plus,Nike,Air Max Plus,65,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-18,nike,cortez,Nike,Cortez,55,,7,https://sneakerpicks.nl/merken/nike/cortez
@@ -523,7 +523,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-19,nike,air-max,Nike,Air Max,77.95,,12,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-19,nike,air-max-1,Nike,Air Max 1,79.95,,11,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-19,nike,air-max-270,Nike,Air Max 270,79.95,,7,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-19,nike,air-max-90,Nike,Air Max 90,128,,15,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-19,nike,air-max-90,Nike,Air Max 90,129,,15,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-19,nike,air-max-95,Nike,Air Max 95,89.99,,10,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-19,nike,air-max-plus,Nike,Air Max Plus,59.99,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-19,nike,cortez,Nike,Cortez,58,,7,https://sneakerpicks.nl/merken/nike/cortez
@@ -652,7 +652,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-22,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-22,nike,air-max-1,Nike,Air Max 1,79.95,79.95,13,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-22,nike,air-max-270,Nike,Air Max 270,79.95,79.95,7,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-22,nike,air-max-90,Nike,Air Max 90,129.5,128,18,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-22,nike,air-max-90,Nike,Air Max 90,129.5,129,18,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-22,nike,air-max-95,Nike,Air Max 95,61.99,69.99,14,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-22,nike,air-max-plus,Nike,Air Max Plus,65,65,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-22,nike,cortez,Nike,Cortez,35.99,55,12,https://sneakerpicks.nl/merken/nike/cortez
@@ -695,7 +695,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-23,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-23,nike,air-max-1,Nike,Air Max 1,74.99,79.95,14,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-23,nike,air-max-270,Nike,Air Max 270,79.95,79.95,7,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-23,nike,air-max-90,Nike,Air Max 90,126.95,128,18,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-23,nike,air-max-90,Nike,Air Max 90,129.5,129,18,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-23,nike,air-max-95,Nike,Air Max 95,61.99,69.99,14,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-23,nike,air-max-plus,Nike,Air Max Plus,65,65,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-23,nike,cortez,Nike,Cortez,35.99,55,13,https://sneakerpicks.nl/merken/nike/cortez
@@ -738,7 +738,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-24,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-24,nike,air-max-1,Nike,Air Max 1,79.95,79.95,14,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-24,nike,air-max-270,Nike,Air Max 270,79.95,79.95,7,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-24,nike,air-max-90,Nike,Air Max 90,126,128,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-24,nike,air-max-90,Nike,Air Max 90,129.5,129,17,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-24,nike,air-max-95,Nike,Air Max 95,61.99,69.99,14,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-24,nike,air-max-plus,Nike,Air Max Plus,90,65,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-24,nike,cortez,Nike,Cortez,35.99,55,12,https://sneakerpicks.nl/merken/nike/cortez
@@ -781,7 +781,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-25,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-25,nike,air-max-1,Nike,Air Max 1,79.95,79.95,14,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-25,nike,air-max-270,Nike,Air Max 270,79.95,79.95,7,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-25,nike,air-max-90,Nike,Air Max 90,127,128,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-25,nike,air-max-90,Nike,Air Max 90,129.5,129.25,17,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-25,nike,air-max-95,Nike,Air Max 95,61.99,65.99,14,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-25,nike,air-max-plus,Nike,Air Max Plus,90,65,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-25,nike,cortez,Nike,Cortez,35.99,45.5,13,https://sneakerpicks.nl/merken/nike/cortez
@@ -824,7 +824,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-26,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-26,nike,air-max-1,Nike,Air Max 1,79.95,79.95,14,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-26,nike,air-max-270,Nike,Air Max 270,79.95,79.95,7,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-26,nike,air-max-90,Nike,Air Max 90,127.88,128,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-26,nike,air-max-90,Nike,Air Max 90,129.5,129.5,17,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-26,nike,air-max-95,Nike,Air Max 95,61.99,61.99,14,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-26,nike,air-max-plus,Nike,Air Max Plus,90,65,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-26,nike,cortez,Nike,Cortez,35.99,35.99,12,https://sneakerpicks.nl/merken/nike/cortez
@@ -867,7 +867,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-27,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-27,nike,air-max-1,Nike,Air Max 1,79.95,79.95,14,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-27,nike,air-max-270,Nike,Air Max 270,79.95,79.95,7,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-27,nike,air-max-90,Nike,Air Max 90,129.5,128,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-27,nike,air-max-90,Nike,Air Max 90,129.5,129.5,17,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-27,nike,air-max-95,Nike,Air Max 95,61.99,61.99,14,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-27,nike,air-max-plus,Nike,Air Max Plus,89.99,65,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-27,nike,cortez,Nike,Cortez,35.99,35.99,13,https://sneakerpicks.nl/merken/nike/cortez
@@ -910,7 +910,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-28,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-28,nike,air-max-1,Nike,Air Max 1,79.95,79.95,13,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-28,nike,air-max-270,Nike,Air Max 270,79.95,79.95,7,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-28,nike,air-max-90,Nike,Air Max 90,129.5,128,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-28,nike,air-max-90,Nike,Air Max 90,129.5,129.5,17,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-28,nike,air-max-95,Nike,Air Max 95,61.99,61.99,14,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-28,nike,air-max-plus,Nike,Air Max Plus,90,65,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-28,nike,cortez,Nike,Cortez,35.99,35.99,13,https://sneakerpicks.nl/merken/nike/cortez
@@ -953,7 +953,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-29,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-29,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-29,nike,air-max-270,Nike,Air Max 270,77,79.95,6,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-29,nike,air-max-90,Nike,Air Max 90,127.95,128,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-29,nike,air-max-90,Nike,Air Max 90,129.5,129.5,17,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-29,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-29,nike,air-max-plus,Nike,Air Max Plus,90,65,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-29,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -995,7 +995,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-30,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-30,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-30,nike,air-max-270,Nike,Air Max 270,79.95,79.95,6,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-30,nike,air-max-90,Nike,Air Max 90,127,128,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-30,nike,air-max-90,Nike,Air Max 90,129.5,129.5,17,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-30,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-30,nike,air-max-plus,Nike,Air Max Plus,65,65,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-30,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1037,7 +1037,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-31,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-31,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-31,nike,air-max-270,Nike,Air Max 270,79.95,79.95,5,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-31,nike,air-max-90,Nike,Air Max 90,129.5,128,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-31,nike,air-max-90,Nike,Air Max 90,129.5,129.5,17,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-31,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-31,nike,air-max-plus,Nike,Air Max Plus,90,65,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-31,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1079,7 +1079,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-01,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-01,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-11-01,nike,air-max-270,Nike,Air Max 270,79.95,79.95,6,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-11-01,nike,air-max-90,Nike,Air Max 90,129.5,128,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-01,nike,air-max-90,Nike,Air Max 90,129.5,129.5,17,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-01,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-01,nike,air-max-plus,Nike,Air Max Plus,90,65,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-01,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1121,7 +1121,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-02,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-02,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-11-02,nike,air-max-270,Nike,Air Max 270,79.95,79.95,5,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-11-02,nike,air-max-90,Nike,Air Max 90,129.5,128,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-02,nike,air-max-90,Nike,Air Max 90,129.5,129.5,17,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-02,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-02,nike,air-max-plus,Nike,Air Max Plus,90,77.5,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-02,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1163,7 +1163,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-03,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-03,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-11-03,nike,air-max-270,Nike,Air Max 270,79.95,79.95,6,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-11-03,nike,air-max-90,Nike,Air Max 90,129.5,128,19,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-03,nike,air-max-90,Nike,Air Max 90,129.5,129.5,19,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-03,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-03,nike,air-max-plus,Nike,Air Max Plus,84.99,84.99,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-03,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1203,7 +1203,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-04,nike,air-max,Nike,Air Max,77.95,77.95,17,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-04,nike,air-max-1,Nike,Air Max 1,79.95,79.95,13,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-11-04,nike,air-max-270,Nike,Air Max 270,79.95,79.95,6,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-11-04,nike,air-max-90,Nike,Air Max 90,129.5,128.5,20,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-04,nike,air-max-90,Nike,Air Max 90,129.5,129.5,20,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-04,nike,air-max-95,Nike,Air Max 95,61.99,61.99,13,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-04,nike,air-max-plus,Nike,Air Max Plus,90.95,87.49,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-04,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1243,7 +1243,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-05,nike,air-max,Nike,Air Max,77.95,77.95,17,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-05,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-11-05,nike,air-max-270,Nike,Air Max 270,79.95,79.95,8,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-11-05,nike,air-max-90,Nike,Air Max 90,129.5,129,19,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-05,nike,air-max-90,Nike,Air Max 90,129.5,129.5,19,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-05,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-05,nike,air-max-plus,Nike,Air Max Plus,98,89.99,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-05,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1282,7 +1282,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-06,nike,air-max,Nike,Air Max,77.95,77.95,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-06,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-11-06,nike,air-max-270,Nike,Air Max 270,79.95,79.95,8,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-11-06,nike,air-max-90,Nike,Air Max 90,129.5,129.25,19,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-06,nike,air-max-90,Nike,Air Max 90,129.5,129.5,19,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-06,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-06,nike,air-max-plus,Nike,Air Max Plus,90,90,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-06,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1321,7 +1321,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-07,nike,air-max,Nike,Air Max,77.95,77.95,17,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-07,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-11-07,nike,air-max-270,Nike,Air Max 270,79.95,79.95,8,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-11-07,nike,air-max-90,Nike,Air Max 90,127.99,129,19,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-07,nike,air-max-90,Nike,Air Max 90,129.5,129.5,19,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-07,nike,air-max-95,Nike,Air Max 95,69.95,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-07,nike,air-max-plus,Nike,Air Max Plus,84.95,89.99,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-07,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1360,7 +1360,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-08,nike,air-max,Nike,Air Max,77.95,77.95,17,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-08,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-11-08,nike,air-max-270,Nike,Air Max 270,79.95,79.95,8,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-11-08,nike,air-max-90,Nike,Air Max 90,127.99,128.5,19,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-08,nike,air-max-90,Nike,Air Max 90,129.5,129.5,18,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-08,nike,air-max-95,Nike,Air Max 95,69.95,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-08,nike,air-max-plus,Nike,Air Max Plus,84.95,87.49,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-08,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1399,7 +1399,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-09,nike,air-max,Nike,Air Max,77.95,77.95,17,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-09,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-11-09,nike,air-max-270,Nike,Air Max 270,79.95,79.95,9,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-11-09,nike,air-max-90,Nike,Air Max 90,127.99,128,19,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-09,nike,air-max-90,Nike,Air Max 90,129.5,129.5,18,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-09,nike,air-max-95,Nike,Air Max 95,89.95,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-09,nike,air-max-plus,Nike,Air Max Plus,84.95,84.99,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-09,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1437,13 +1437,13 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-10,nike,air-jordan-1,Nike,Air Jordan 1,92,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
 2026-11-10,nike,air-max,Nike,Air Max,77.95,77.95,17,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-10,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
-2026-11-10,nike,air-max-90,Nike,Air Max 90,127.99,128,19,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-10,nike,air-max-90,Nike,Air Max 90,129.5,129.5,18,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-10,nike,air-max-95,Nike,Air Max 95,69.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-10,nike,air-max-plus,Nike,Air Max Plus,84.95,84.97,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-10,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
 2026-11-10,nike,dunk-low,Nike,Dunk Low,83.99,83.99,15,https://sneakerpicks.nl/merken/nike/dunk-low
 2026-11-10,nike,p-6000,Nike,P-6000,56,43.99,19,https://sneakerpicks.nl/merken/nike/p-6000
-2026-11-10,nike,pegasus,Nike,Pegasus,99.95,97,15,https://sneakerpicks.nl/merken/nike/pegasus
+2026-11-10,nike,pegasus,Nike,Pegasus,98,97,15,https://sneakerpicks.nl/merken/nike/pegasus
 2026-11-10,nike,vomero-5,Nike,Vomero 5,63.99,63.99,10,https://sneakerpicks.nl/merken/nike/vomero-5
 2026-11-10,puma,palermo,PUMA,Palermo,35.49,32.95,12,https://sneakerpicks.nl/merken/puma/palermo
 2026-11-10,puma,speedcat,PUMA,Speedcat,40,40,11,https://sneakerpicks.nl/merken/puma/speedcat
@@ -1451,3 +1451,41 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-10,vans,knu-skool,Vans,Knu Skool,45.99,40,8,https://sneakerpicks.nl/merken/vans/knu-skool
 2026-11-10,vans,old-skool,Vans,Old Skool,40,36.99,19,https://sneakerpicks.nl/merken/vans/old-skool
 2026-11-10,vans,sk8-hi,Vans,Sk8-Hi,42.99,49.49,7,https://sneakerpicks.nl/merken/vans/sk8-hi
+2026-11-11,adidas,campus,adidas,Campus,44.99,44.99,11,https://sneakerpicks.nl/merken/adidas/campus
+2026-11-11,adidas,campus-00s,adidas,Campus 00s,30,39.95,17,https://sneakerpicks.nl/merken/adidas/campus-00s
+2026-11-11,adidas,gazelle,adidas,Gazelle,59,59,19,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-11-11,adidas,handball-spezial,adidas,Handball Spezial,49.95,49.95,22,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-11-11,adidas,samba,adidas,Samba,55,55,19,https://sneakerpicks.nl/merken/adidas/samba
+2026-11-11,adidas,samba-og,adidas,Samba OG,69.99,68,20,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-11-11,adidas,sl-72,adidas,SL 72,39.95,44.95,14,https://sneakerpicks.nl/merken/adidas/sl-72
+2026-11-11,adidas,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
+2026-11-11,adidas,ultraboost,adidas,Ultraboost,83.3,83,7,https://sneakerpicks.nl/merken/adidas/ultraboost
+2026-11-11,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,22,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-11-11,asics,gel-1130,ASICS,GEL-1130,63.03,60,18,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-11-11,asics,gel-kayano,ASICS,GEL-Kayano,127,169,6,https://sneakerpicks.nl/merken/asics/gel-kayano
+2026-11-11,asics,gel-nyc,ASICS,GEL-NYC,75.99,75.99,18,https://sneakerpicks.nl/merken/asics/gel-nyc
+2026-11-11,asics,gel-quantum,ASICS,GEL-Quantum,152.99,152.99,3,https://sneakerpicks.nl/merken/asics/gel-quantum
+2026-11-11,converse,chuck-70,Converse,Chuck 70,44.99,44.99,9,https://sneakerpicks.nl/merken/converse/chuck-70
+2026-11-11,new-balance,327,New Balance,327,79.99,79.99,6,https://sneakerpicks.nl/merken/new-balance/327
+2026-11-11,new-balance,530,New Balance,530,47.99,59.5,15,https://sneakerpicks.nl/merken/new-balance/530
+2026-11-11,new-balance,574,New Balance,574,37,59.5,13,https://sneakerpicks.nl/merken/new-balance/574
+2026-11-11,new-balance,740,New Balance,740,59.99,59.99,14,https://sneakerpicks.nl/merken/new-balance/740
+2026-11-11,new-balance,9060,New Balance,9060,80,99.99,20,https://sneakerpicks.nl/merken/new-balance/9060
+2026-11-11,nike,air-force-1,Nike,Air Force 1,66.99,66.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-11-11,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
+2026-11-11,nike,air-max,Nike,Air Max,77.95,77.95,18,https://sneakerpicks.nl/merken/nike/air-max
+2026-11-11,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
+2026-11-11,nike,air-max-90,Nike,Air Max 90,129.5,129.5,18,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-11,nike,air-max-95,Nike,Air Max 95,89.95,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
+2026-11-11,nike,air-max-plus,Nike,Air Max Plus,84.95,84.95,14,https://sneakerpicks.nl/merken/nike/air-max-plus
+2026-11-11,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
+2026-11-11,nike,dunk-low,Nike,Dunk Low,83.99,83.99,15,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-11-11,nike,p-6000,Nike,P-6000,56,43.99,19,https://sneakerpicks.nl/merken/nike/p-6000
+2026-11-11,nike,pegasus,Nike,Pegasus,98,97,14,https://sneakerpicks.nl/merken/nike/pegasus
+2026-11-11,nike,vomero-5,Nike,Vomero 5,60,63.99,12,https://sneakerpicks.nl/merken/nike/vomero-5
+2026-11-11,puma,palermo,PUMA,Palermo,35.49,32.95,11,https://sneakerpicks.nl/merken/puma/palermo
+2026-11-11,puma,speedcat,PUMA,Speedcat,40,40,11,https://sneakerpicks.nl/merken/puma/speedcat
+2026-11-11,puma,suede,PUMA,Suede,30.95,31.95,14,https://sneakerpicks.nl/merken/puma/suede
+2026-11-11,vans,knu-skool,Vans,Knu Skool,45.99,40,8,https://sneakerpicks.nl/merken/vans/knu-skool
+2026-11-11,vans,old-skool,Vans,Old Skool,40,36.99,19,https://sneakerpicks.nl/merken/vans/old-skool
+2026-11-11,vans,sk8-hi,Vans,Sk8-Hi,42.99,49.49,7,https://sneakerpicks.nl/merken/vans/sk8-hi
