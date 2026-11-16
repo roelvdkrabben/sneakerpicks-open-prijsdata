@@ -14,7 +14,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-01,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-07-01,adidas-originals,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
 2026-07-01,adidas-originals,superstar,adidas,Superstar,59.98,59.99,7,https://sneakerpicks.nl/merken/adidas/superstar
-2026-07-01,asics,gel-1130,ASICS,GEL-1130,79.99,79.99,5,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-07-01,asics,gel-1130,ASICS,GEL-1130,99.95,99.95,5,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-07-01,asics,gel-kayano,ASICS,GEL-Kayano,160,160,2,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-07-01,asics,gel-nyc,ASICS,GEL-NYC,84.98,84.98,9,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-07-01,asics,gel-quantum,ASICS,GEL-Quantum,89.97,89.97,2,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -26,10 +26,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-01,new-balance,9060,New Balance,9060,33.99,50.74,7,https://sneakerpicks.nl/merken/new-balance/9060
 2026-07-01,nike,air-force-1,Nike,Air Force 1,75,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-07-01,nike,air-jordan-1,Nike,Air Jordan 1,92.06,93.01,6,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-07-01,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
+2026-07-01,nike,air-max,Nike,Air Max,79.99,79.99,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-01,nike,air-max-1,Nike,Air Max 1,89.99,89,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-01,nike,air-max-270,Nike,Air Max 270,97,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-07-01,nike,air-max-90,Nike,Air Max 90,129.95,129,6,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-07-01,nike,air-max-90,Nike,Air Max 90,85,79.95,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-01,nike,air-max-95,Nike,Air Max 95,79.99,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-01,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-01,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
@@ -59,7 +59,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-02,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-07-02,adidas-originals,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
 2026-07-02,adidas-originals,superstar,adidas,Superstar,59.98,59.99,7,https://sneakerpicks.nl/merken/adidas/superstar
-2026-07-02,asics,gel-1130,ASICS,GEL-1130,59.99,79.99,5,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-07-02,asics,gel-1130,ASICS,GEL-1130,99.95,99.95,5,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-07-02,asics,gel-kayano,ASICS,GEL-Kayano,160,160,2,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-07-02,asics,gel-nyc,ASICS,GEL-NYC,84.98,84.98,9,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-07-02,asics,gel-quantum,ASICS,GEL-Quantum,89.97,89.97,2,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -71,10 +71,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-02,new-balance,9060,New Balance,9060,39.99,50.72,7,https://sneakerpicks.nl/merken/new-balance/9060
 2026-07-02,nike,air-force-1,Nike,Air Force 1,79,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-07-02,nike,air-jordan-1,Nike,Air Jordan 1,93.95,93.01,6,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-07-02,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
+2026-07-02,nike,air-max,Nike,Air Max,79.99,79.99,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-02,nike,air-max-1,Nike,Air Max 1,89.99,89,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-02,nike,air-max-270,Nike,Air Max 270,109,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-07-02,nike,air-max-90,Nike,Air Max 90,129,129,6,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-07-02,nike,air-max-90,Nike,Air Max 90,74.99,79.95,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-02,nike,air-max-95,Nike,Air Max 95,79.99,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-02,nike,air-max-plus,Nike,Air Max Plus,69,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-02,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
@@ -104,7 +104,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-03,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-07-03,adidas-originals,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
 2026-07-03,adidas-originals,superstar,adidas,Superstar,59.98,59.98,7,https://sneakerpicks.nl/merken/adidas/superstar
-2026-07-03,asics,gel-1130,ASICS,GEL-1130,79.99,79.99,5,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-07-03,asics,gel-1130,ASICS,GEL-1130,99.95,99.95,5,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-07-03,asics,gel-kayano,ASICS,GEL-Kayano,160,160,2,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-07-03,asics,gel-nyc,ASICS,GEL-NYC,84.98,84.98,9,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-07-03,asics,gel-quantum,ASICS,GEL-Quantum,89.97,89.97,2,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -116,10 +116,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-03,new-balance,9060,New Balance,9060,120,50.72,7,https://sneakerpicks.nl/merken/new-balance/9060
 2026-07-03,nike,air-force-1,Nike,Air Force 1,75,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-07-03,nike,air-jordan-1,Nike,Air Jordan 1,92.06,92.06,6,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-07-03,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
+2026-07-03,nike,air-max,Nike,Air Max,79.99,79.99,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-03,nike,air-max-1,Nike,Air Max 1,89.99,89,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-03,nike,air-max-270,Nike,Air Max 270,97,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-07-03,nike,air-max-90,Nike,Air Max 90,129,129,6,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-07-03,nike,air-max-90,Nike,Air Max 90,79.95,79.95,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-03,nike,air-max-95,Nike,Air Max 95,79.99,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-03,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-03,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
@@ -149,7 +149,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-04,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-07-04,adidas-originals,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
 2026-07-04,adidas-originals,superstar,adidas,Superstar,59.98,59.98,7,https://sneakerpicks.nl/merken/adidas/superstar
-2026-07-04,asics,gel-1130,ASICS,GEL-1130,79.99,79.99,5,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-07-04,asics,gel-1130,ASICS,GEL-1130,99.95,99.95,5,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-07-04,asics,gel-kayano,ASICS,GEL-Kayano,160,160,2,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-07-04,asics,gel-nyc,ASICS,GEL-NYC,84.98,84.98,9,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-07-04,asics,gel-quantum,ASICS,GEL-Quantum,89.97,89.97,2,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -161,10 +161,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-04,new-balance,9060,New Balance,9060,120,50.72,7,https://sneakerpicks.nl/merken/new-balance/9060
 2026-07-04,nike,air-force-1,Nike,Air Force 1,75,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-07-04,nike,air-jordan-1,Nike,Air Jordan 1,94,92.06,6,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-07-04,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
+2026-07-04,nike,air-max,Nike,Air Max,79.99,79.99,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-04,nike,air-max-1,Nike,Air Max 1,89.99,89,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-04,nike,air-max-270,Nike,Air Max 270,109,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-07-04,nike,air-max-90,Nike,Air Max 90,129,129,6,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-07-04,nike,air-max-90,Nike,Air Max 90,74.99,79.95,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-04,nike,air-max-95,Nike,Air Max 95,44.99,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-04,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-04,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
@@ -194,7 +194,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-05,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-07-05,adidas-originals,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
 2026-07-05,adidas-originals,superstar,adidas,Superstar,59.98,59.98,7,https://sneakerpicks.nl/merken/adidas/superstar
-2026-07-05,asics,gel-1130,ASICS,GEL-1130,59.99,79.99,5,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-07-05,asics,gel-1130,ASICS,GEL-1130,99.95,99.95,5,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-07-05,asics,gel-kayano,ASICS,GEL-Kayano,160,160,2,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-07-05,asics,gel-nyc,ASICS,GEL-NYC,70,84.98,9,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-07-05,asics,gel-quantum,ASICS,GEL-Quantum,89.97,89.97,2,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -206,10 +206,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-05,new-balance,9060,New Balance,9060,39.99,50.71,7,https://sneakerpicks.nl/merken/new-balance/9060
 2026-07-05,nike,air-force-1,Nike,Air Force 1,79,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-07-05,nike,air-jordan-1,Nike,Air Jordan 1,92.06,92.06,6,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-07-05,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
+2026-07-05,nike,air-max,Nike,Air Max,79.99,79.99,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-05,nike,air-max-1,Nike,Air Max 1,99,89,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-05,nike,air-max-270,Nike,Air Max 270,97,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-07-05,nike,air-max-90,Nike,Air Max 90,129,129,6,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-07-05,nike,air-max-90,Nike,Air Max 90,75,79.95,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-05,nike,air-max-95,Nike,Air Max 95,79.99,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-05,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-05,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
@@ -239,7 +239,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-06,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-07-06,adidas-originals,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
 2026-07-06,adidas-originals,superstar,adidas,Superstar,59.98,59.98,7,https://sneakerpicks.nl/merken/adidas/superstar
-2026-07-06,asics,gel-1130,ASICS,GEL-1130,70,79.99,5,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-07-06,asics,gel-1130,ASICS,GEL-1130,99.95,99.95,5,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-07-06,asics,gel-kayano,ASICS,GEL-Kayano,160,160,2,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-07-06,asics,gel-nyc,ASICS,GEL-NYC,70,84.98,9,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-07-06,asics,gel-quantum,ASICS,GEL-Quantum,89.97,89.97,2,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -251,10 +251,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-06,new-balance,9060,New Balance,9060,120,50.71,7,https://sneakerpicks.nl/merken/new-balance/9060
 2026-07-06,nike,air-force-1,Nike,Air Force 1,79,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-07-06,nike,air-jordan-1,Nike,Air Jordan 1,96,92.06,6,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-07-06,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
+2026-07-06,nike,air-max,Nike,Air Max,79.99,79.99,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-06,nike,air-max-1,Nike,Air Max 1,99,89.5,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-06,nike,air-max-270,Nike,Air Max 270,77,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-07-06,nike,air-max-90,Nike,Air Max 90,129,129,6,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-07-06,nike,air-max-90,Nike,Air Max 90,75,79.95,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-06,nike,air-max-95,Nike,Air Max 95,75,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-06,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-06,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
@@ -284,7 +284,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-07,adidas-originals,handball-spezial,adidas,Handball Spezial,54.98,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-07-07,adidas-originals,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
 2026-07-07,adidas-originals,superstar,adidas,Superstar,59.98,59.98,7,https://sneakerpicks.nl/merken/adidas/superstar
-2026-07-07,asics,gel-1130,ASICS,GEL-1130,70,79.99,5,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-07-07,asics,gel-1130,ASICS,GEL-1130,99.95,99.95,5,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-07-07,asics,gel-kayano,ASICS,GEL-Kayano,160,160,2,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-07-07,asics,gel-nyc,ASICS,GEL-NYC,70,84.98,9,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-07-07,asics,gel-quantum,ASICS,GEL-Quantum,89.97,89.97,2,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -296,10 +296,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-07,new-balance,9060,New Balance,9060,120,50.71,7,https://sneakerpicks.nl/merken/new-balance/9060
 2026-07-07,nike,air-force-1,Nike,Air Force 1,79,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-07-07,nike,air-jordan-1,Nike,Air Jordan 1,92.06,92.06,6,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-07-07,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
+2026-07-07,nike,air-max,Nike,Air Max,79.99,79.99,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-07,nike,air-max-1,Nike,Air Max 1,99,89.5,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-07,nike,air-max-270,Nike,Air Max 270,97,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-07-07,nike,air-max-90,Nike,Air Max 90,129,129,6,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-07-07,nike,air-max-90,Nike,Air Max 90,74.99,79.95,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-07,nike,air-max-95,Nike,Air Max 95,75,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-07,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-07,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
@@ -329,7 +329,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-08,adidas-originals,handball-spezial,adidas,Handball Spezial,48.99,54.98,9,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-07-08,adidas-originals,samba-og,adidas,Samba OG,70,70,9,https://sneakerpicks.nl/merken/adidas/samba-og
 2026-07-08,adidas-originals,superstar,adidas,Superstar,59.98,59.98,7,https://sneakerpicks.nl/merken/adidas/superstar
-2026-07-08,asics,gel-1130,ASICS,GEL-1130,70,79.99,5,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-07-08,asics,gel-1130,ASICS,GEL-1130,99.95,99.95,5,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-07-08,asics,gel-kayano,ASICS,GEL-Kayano,160,160,2,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-07-08,asics,gel-nyc,ASICS,GEL-NYC,70,84.98,9,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-07-08,asics,gel-quantum,ASICS,GEL-Quantum,89.97,89.97,2,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -341,10 +341,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-07-08,new-balance,9060,New Balance,9060,120,50.72,7,https://sneakerpicks.nl/merken/new-balance/9060
 2026-07-08,nike,air-force-1,Nike,Air Force 1,79,74.99,9,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-07-08,nike,air-jordan-1,Nike,Air Jordan 1,92.06,92.06,6,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-07-08,nike,air-max,Nike,Air Max,78.99,79,5,https://sneakerpicks.nl/merken/nike/air-max
+2026-07-08,nike,air-max,Nike,Air Max,79.99,79.99,5,https://sneakerpicks.nl/merken/nike/air-max
 2026-07-08,nike,air-max-1,Nike,Air Max 1,99,89.99,7,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-07-08,nike,air-max-270,Nike,Air Max 270,97,97,4,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-07-08,nike,air-max-90,Nike,Air Max 90,129,129,6,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-07-08,nike,air-max-90,Nike,Air Max 90,74.99,79.95,6,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-07-08,nike,air-max-95,Nike,Air Max 95,75,79.99,6,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-07-08,nike,air-max-plus,Nike,Air Max Plus,99.99,99.99,2,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-07-08,nike,cortez,Nike,Cortez,40,40,3,https://sneakerpicks.nl/merken/nike/cortez
@@ -374,7 +374,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-16,adidas-originals,handball-spezial,adidas,Handball Spezial,48.75,,16,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-10-16,adidas-originals,samba-og,adidas,Samba OG,68,,16,https://sneakerpicks.nl/merken/adidas/samba-og
 2026-10-16,adidas-originals,superstar,adidas,Superstar,55,,11,https://sneakerpicks.nl/merken/adidas/superstar
-2026-10-16,asics,gel-1130,ASICS,GEL-1130,60,,12,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-16,asics,gel-1130,ASICS,GEL-1130,94.95,,11,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-10-16,asics,gel-kayano,ASICS,GEL-Kayano,169,,3,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-10-16,asics,gel-nyc,ASICS,GEL-NYC,84.98,,16,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-10-16,asics,gel-quantum,ASICS,GEL-Quantum,71.98,,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -386,10 +386,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-16,new-balance,9060,New Balance,9060,41.41,,15,https://sneakerpicks.nl/merken/new-balance/9060
 2026-10-16,nike,air-force-1,Nike,Air Force 1,75,,15,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-16,nike,air-jordan-1,Nike,Air Jordan 1,93.95,,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-10-16,nike,air-max,Nike,Air Max,79,,12,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-16,nike,air-max,Nike,Air Max,79.99,,12,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-16,nike,air-max-1,Nike,Air Max 1,79.95,,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-16,nike,air-max-270,Nike,Air Max 270,79.95,,6,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-16,nike,air-max-90,Nike,Air Max 90,129,,15,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-16,nike,air-max-90,Nike,Air Max 90,78.51,,15,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-16,nike,air-max-95,Nike,Air Max 95,69.99,,10,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-16,nike,air-max-plus,Nike,Air Max Plus,65,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-16,nike,cortez,Nike,Cortez,55,,7,https://sneakerpicks.nl/merken/nike/cortez
@@ -419,7 +419,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-17,adidas-originals,handball-spezial,adidas,Handball Spezial,40.6,,16,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-10-17,adidas-originals,samba-og,adidas,Samba OG,68,,16,https://sneakerpicks.nl/merken/adidas/samba-og
 2026-10-17,adidas-originals,superstar,adidas,Superstar,55,,11,https://sneakerpicks.nl/merken/adidas/superstar
-2026-10-17,asics,gel-1130,ASICS,GEL-1130,60,,12,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-17,asics,gel-1130,ASICS,GEL-1130,94.95,,11,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-10-17,asics,gel-kayano,ASICS,GEL-Kayano,169,,3,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-10-17,asics,gel-nyc,ASICS,GEL-NYC,84.98,,16,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-10-17,asics,gel-quantum,ASICS,GEL-Quantum,71.98,,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -431,10 +431,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-17,new-balance,9060,New Balance,9060,41.41,,15,https://sneakerpicks.nl/merken/new-balance/9060
 2026-10-17,nike,air-force-1,Nike,Air Force 1,74.01,,15,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-17,nike,air-jordan-1,Nike,Air Jordan 1,99.99,,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-10-17,nike,air-max,Nike,Air Max,79,,12,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-17,nike,air-max,Nike,Air Max,79.99,,12,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-17,nike,air-max-1,Nike,Air Max 1,79.95,,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-17,nike,air-max-270,Nike,Air Max 270,79.95,,6,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-17,nike,air-max-90,Nike,Air Max 90,129,,15,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-17,nike,air-max-90,Nike,Air Max 90,80,,15,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-17,nike,air-max-95,Nike,Air Max 95,69.99,,10,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-17,nike,air-max-plus,Nike,Air Max Plus,65,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-17,nike,cortez,Nike,Cortez,58,,7,https://sneakerpicks.nl/merken/nike/cortez
@@ -464,7 +464,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-18,adidas-originals,handball-spezial,adidas,Handball Spezial,40.6,,16,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-10-18,adidas-originals,samba-og,adidas,Samba OG,68,,16,https://sneakerpicks.nl/merken/adidas/samba-og
 2026-10-18,adidas-originals,superstar,adidas,Superstar,55,,12,https://sneakerpicks.nl/merken/adidas/superstar
-2026-10-18,asics,gel-1130,ASICS,GEL-1130,60,,13,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-18,asics,gel-1130,ASICS,GEL-1130,94.95,,12,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-10-18,asics,gel-kayano,ASICS,GEL-Kayano,169,,3,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-10-18,asics,gel-nyc,ASICS,GEL-NYC,84.98,,17,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-10-18,asics,gel-quantum,ASICS,GEL-Quantum,71.98,,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -477,10 +477,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-18,new-balance,9060,New Balance,9060,99.99,,15,https://sneakerpicks.nl/merken/new-balance/9060
 2026-10-18,nike,air-force-1,Nike,Air Force 1,75,,15,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-18,nike,air-jordan-1,Nike,Air Jordan 1,93.79,,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-10-18,nike,air-max,Nike,Air Max,79,,12,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-18,nike,air-max,Nike,Air Max,79.99,,12,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-18,nike,air-max-1,Nike,Air Max 1,79.95,,11,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-18,nike,air-max-270,Nike,Air Max 270,77,,6,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-18,nike,air-max-90,Nike,Air Max 90,129,,15,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-18,nike,air-max-90,Nike,Air Max 90,79.99,,15,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-18,nike,air-max-95,Nike,Air Max 95,88,,10,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-18,nike,air-max-plus,Nike,Air Max Plus,65,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-18,nike,cortez,Nike,Cortez,55,,7,https://sneakerpicks.nl/merken/nike/cortez
@@ -507,7 +507,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-19,adidas,ultraboost,adidas,Ultraboost,83,,5,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-10-19,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,,16,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-10-19,adidas-originals,superstar,adidas,Superstar,55,,12,https://sneakerpicks.nl/merken/adidas/superstar
-2026-10-19,asics,gel-1130,ASICS,GEL-1130,60,,13,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-19,asics,gel-1130,ASICS,GEL-1130,94.95,,10,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-10-19,asics,gel-kayano,ASICS,GEL-Kayano,169,,3,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-10-19,asics,gel-nyc,ASICS,GEL-NYC,84.98,,17,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-10-19,asics,gel-quantum,ASICS,GEL-Quantum,71.98,,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -520,10 +520,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-19,new-balance,9060,New Balance,9060,99.99,,15,https://sneakerpicks.nl/merken/new-balance/9060
 2026-10-19,nike,air-force-1,Nike,Air Force 1,75,,15,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-19,nike,air-jordan-1,Nike,Air Jordan 1,92,,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-10-19,nike,air-max,Nike,Air Max,79,,12,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-19,nike,air-max,Nike,Air Max,79.99,,12,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-19,nike,air-max-1,Nike,Air Max 1,79.95,,11,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-19,nike,air-max-270,Nike,Air Max 270,79.95,,7,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-19,nike,air-max-90,Nike,Air Max 90,129,,15,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-19,nike,air-max-90,Nike,Air Max 90,79,,15,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-19,nike,air-max-95,Nike,Air Max 95,89.99,,10,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-19,nike,air-max-plus,Nike,Air Max Plus,59.99,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-19,nike,cortez,Nike,Cortez,58,,7,https://sneakerpicks.nl/merken/nike/cortez
@@ -550,7 +550,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-20,adidas,ultraboost,adidas,Ultraboost,91.12,,5,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-10-20,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,,16,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-10-20,adidas-originals,superstar,adidas,Superstar,55,,12,https://sneakerpicks.nl/merken/adidas/superstar
-2026-10-20,asics,gel-1130,ASICS,GEL-1130,60,,13,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-20,asics,gel-1130,ASICS,GEL-1130,94.95,,12,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-10-20,asics,gel-kayano,ASICS,GEL-Kayano,169,,3,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-10-20,asics,gel-nyc,ASICS,GEL-NYC,84.98,,17,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-10-20,asics,gel-quantum,ASICS,GEL-Quantum,71.98,,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -566,7 +566,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-20,nike,air-max,Nike,Air Max,79.99,,12,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-20,nike,air-max-1,Nike,Air Max 1,79.95,,11,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-20,nike,air-max-270,Nike,Air Max 270,79.95,,7,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-20,nike,air-max-90,Nike,Air Max 90,129,,15,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-20,nike,air-max-90,Nike,Air Max 90,80,,15,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-20,nike,air-max-95,Nike,Air Max 95,69.99,,10,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-20,nike,air-max-plus,Nike,Air Max Plus,65,,9,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-20,nike,cortez,Nike,Cortez,58,,8,https://sneakerpicks.nl/merken/nike/cortez
@@ -593,7 +593,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-21,adidas,ultraboost,adidas,Ultraboost,83,,6,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-10-21,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,,19,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-10-21,adidas-originals,superstar,adidas,Superstar,55,,15,https://sneakerpicks.nl/merken/adidas/superstar
-2026-10-21,asics,gel-1130,ASICS,GEL-1130,60,,15,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-21,asics,gel-1130,ASICS,GEL-1130,94.95,,13,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-10-21,asics,gel-kayano,ASICS,GEL-Kayano,169,,4,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-10-21,asics,gel-nyc,ASICS,GEL-NYC,75.99,,20,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-10-21,asics,gel-quantum,ASICS,GEL-Quantum,71.98,,4,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -606,10 +606,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-21,new-balance,9060,New Balance,9060,99.99,,18,https://sneakerpicks.nl/merken/new-balance/9060
 2026-10-21,nike,air-force-1,Nike,Air Force 1,72.99,,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-21,nike,air-jordan-1,Nike,Air Jordan 1,92,,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-10-21,nike,air-max,Nike,Air Max,78.99,,16,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-21,nike,air-max,Nike,Air Max,79.99,,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-21,nike,air-max-1,Nike,Air Max 1,79.95,,13,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-21,nike,air-max-270,Nike,Air Max 270,79.95,,8,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-21,nike,air-max-90,Nike,Air Max 90,129.5,,18,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-21,nike,air-max-90,Nike,Air Max 90,77.99,,18,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-21,nike,air-max-95,Nike,Air Max 95,61.99,,14,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-21,nike,air-max-plus,Nike,Air Max Plus,65,,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-21,nike,cortez,Nike,Cortez,35.99,,12,https://sneakerpicks.nl/merken/nike/cortez
@@ -636,7 +636,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-22,adidas,ultraboost,adidas,Ultraboost,83,83,7,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-10-22,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,19,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-10-22,adidas-originals,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
-2026-10-22,asics,gel-1130,ASICS,GEL-1130,60,60,16,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-22,asics,gel-1130,ASICS,GEL-1130,94.95,94.95,13,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-10-22,asics,gel-kayano,ASICS,GEL-Kayano,169,169,4,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-10-22,asics,gel-nyc,ASICS,GEL-NYC,75.99,84.98,20,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-10-22,asics,gel-quantum,ASICS,GEL-Quantum,71.98,71.98,4,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -649,10 +649,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-22,new-balance,9060,New Balance,9060,99.99,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
 2026-10-22,nike,air-force-1,Nike,Air Force 1,72.99,75,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-22,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-10-22,nike,air-max,Nike,Air Max,78.99,79,16,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-22,nike,air-max,Nike,Air Max,79.99,79.99,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-22,nike,air-max-1,Nike,Air Max 1,79.95,79.95,13,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-22,nike,air-max-270,Nike,Air Max 270,79.95,79.95,7,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-22,nike,air-max-90,Nike,Air Max 90,129.5,129,18,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-22,nike,air-max-90,Nike,Air Max 90,77.99,79,18,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-22,nike,air-max-95,Nike,Air Max 95,61.99,69.99,14,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-22,nike,air-max-plus,Nike,Air Max Plus,65,65,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-22,nike,cortez,Nike,Cortez,35.99,55,12,https://sneakerpicks.nl/merken/nike/cortez
@@ -679,7 +679,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-23,adidas,ultraboost,adidas,Ultraboost,83,83,7,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-10-23,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,19,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-10-23,adidas-originals,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
-2026-10-23,asics,gel-1130,ASICS,GEL-1130,60,60,16,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-23,asics,gel-1130,ASICS,GEL-1130,94.95,94.95,13,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-10-23,asics,gel-kayano,ASICS,GEL-Kayano,169,169,4,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-10-23,asics,gel-nyc,ASICS,GEL-NYC,75.99,84.98,20,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-10-23,asics,gel-quantum,ASICS,GEL-Quantum,71.98,71.98,4,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -692,10 +692,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-23,new-balance,9060,New Balance,9060,90,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
 2026-10-23,nike,air-force-1,Nike,Air Force 1,72.99,74.51,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-23,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-10-23,nike,air-max,Nike,Air Max,78.99,79,16,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-23,nike,air-max,Nike,Air Max,79.99,79.99,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-23,nike,air-max-1,Nike,Air Max 1,74.99,79.95,14,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-23,nike,air-max-270,Nike,Air Max 270,79.95,79.95,7,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-23,nike,air-max-90,Nike,Air Max 90,129.5,129,18,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-23,nike,air-max-90,Nike,Air Max 90,77.99,78.76,18,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-23,nike,air-max-95,Nike,Air Max 95,61.99,69.99,14,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-23,nike,air-max-plus,Nike,Air Max Plus,65,65,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-23,nike,cortez,Nike,Cortez,35.99,55,13,https://sneakerpicks.nl/merken/nike/cortez
@@ -722,7 +722,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-24,adidas,ultraboost,adidas,Ultraboost,83,83,7,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-10-24,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,19,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-10-24,adidas-originals,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
-2026-10-24,asics,gel-1130,ASICS,GEL-1130,60,60,16,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-24,asics,gel-1130,ASICS,GEL-1130,94.95,94.95,11,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-10-24,asics,gel-kayano,ASICS,GEL-Kayano,169,169,5,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-10-24,asics,gel-nyc,ASICS,GEL-NYC,75.99,84.98,19,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-10-24,asics,gel-quantum,ASICS,GEL-Quantum,152.99,71.98,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -735,10 +735,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-24,new-balance,9060,New Balance,9060,99.99,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
 2026-10-24,nike,air-force-1,Nike,Air Force 1,72.99,74.01,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-24,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-10-24,nike,air-max,Nike,Air Max,78.99,79,16,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-24,nike,air-max,Nike,Air Max,79.98,79.99,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-24,nike,air-max-1,Nike,Air Max 1,79.95,79.95,14,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-24,nike,air-max-270,Nike,Air Max 270,79.95,79.95,7,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-24,nike,air-max-90,Nike,Air Max 90,129.5,129,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-24,nike,air-max-90,Nike,Air Max 90,77.99,78.51,18,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-24,nike,air-max-95,Nike,Air Max 95,61.99,69.99,14,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-24,nike,air-max-plus,Nike,Air Max Plus,90,65,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-24,nike,cortez,Nike,Cortez,35.99,55,12,https://sneakerpicks.nl/merken/nike/cortez
@@ -765,7 +765,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-25,adidas,ultraboost,adidas,Ultraboost,83,83,7,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-10-25,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,19,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-10-25,adidas-originals,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
-2026-10-25,asics,gel-1130,ASICS,GEL-1130,60,60,16,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-25,asics,gel-1130,ASICS,GEL-1130,94.95,94.95,12,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-10-25,asics,gel-kayano,ASICS,GEL-Kayano,169,169,4,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-10-25,asics,gel-nyc,ASICS,GEL-NYC,75.99,80.49,19,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-10-25,asics,gel-quantum,ASICS,GEL-Quantum,152.99,71.98,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -778,10 +778,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-25,new-balance,9060,New Balance,9060,99.99,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
 2026-10-25,nike,air-force-1,Nike,Air Force 1,72.99,73.5,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-25,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-10-25,nike,air-max,Nike,Air Max,78.99,79,16,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-25,nike,air-max,Nike,Air Max,79.98,79.99,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-25,nike,air-max-1,Nike,Air Max 1,79.95,79.95,14,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-25,nike,air-max-270,Nike,Air Max 270,79.95,79.95,7,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-25,nike,air-max-90,Nike,Air Max 90,129.5,129.25,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-25,nike,air-max-90,Nike,Air Max 90,77.99,78.25,18,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-25,nike,air-max-95,Nike,Air Max 95,61.99,65.99,14,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-25,nike,air-max-plus,Nike,Air Max Plus,90,65,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-25,nike,cortez,Nike,Cortez,35.99,45.5,13,https://sneakerpicks.nl/merken/nike/cortez
@@ -808,7 +808,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-26,adidas,ultraboost,adidas,Ultraboost,83,83,7,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-10-26,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,19,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-10-26,adidas-originals,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
-2026-10-26,asics,gel-1130,ASICS,GEL-1130,69.95,60,16,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-26,asics,gel-1130,ASICS,GEL-1130,94.95,94.95,12,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-10-26,asics,gel-kayano,ASICS,GEL-Kayano,169,169,4,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-10-26,asics,gel-nyc,ASICS,GEL-NYC,75.99,75.99,19,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-10-26,asics,gel-quantum,ASICS,GEL-Quantum,152.99,71.98,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -821,10 +821,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-26,new-balance,9060,New Balance,9060,99.99,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
 2026-10-26,nike,air-force-1,Nike,Air Force 1,72.99,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-26,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-10-26,nike,air-max,Nike,Air Max,78.99,78.99,16,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-26,nike,air-max,Nike,Air Max,79.99,79.99,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-26,nike,air-max-1,Nike,Air Max 1,79.95,79.95,14,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-26,nike,air-max-270,Nike,Air Max 270,79.95,79.95,7,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-26,nike,air-max-90,Nike,Air Max 90,129.5,129.5,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-26,nike,air-max-90,Nike,Air Max 90,77.99,77.99,18,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-26,nike,air-max-95,Nike,Air Max 95,61.99,61.99,14,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-26,nike,air-max-plus,Nike,Air Max Plus,90,65,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-26,nike,cortez,Nike,Cortez,35.99,35.99,12,https://sneakerpicks.nl/merken/nike/cortez
@@ -851,7 +851,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-27,adidas,ultraboost,adidas,Ultraboost,83,83,7,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-10-27,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,19,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-10-27,adidas-originals,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
-2026-10-27,asics,gel-1130,ASICS,GEL-1130,60,60,16,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-27,asics,gel-1130,ASICS,GEL-1130,94.95,94.95,12,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-10-27,asics,gel-kayano,ASICS,GEL-Kayano,169,169,4,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-10-27,asics,gel-nyc,ASICS,GEL-NYC,74,75.99,18,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-10-27,asics,gel-quantum,ASICS,GEL-Quantum,152.99,71.98,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -864,10 +864,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-27,new-balance,9060,New Balance,9060,99.99,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
 2026-10-27,nike,air-force-1,Nike,Air Force 1,72.99,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-27,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-10-27,nike,air-max,Nike,Air Max,78.99,78.99,16,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-27,nike,air-max,Nike,Air Max,79.99,79.99,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-27,nike,air-max-1,Nike,Air Max 1,79.95,79.95,14,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-27,nike,air-max-270,Nike,Air Max 270,79.95,79.95,7,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-27,nike,air-max-90,Nike,Air Max 90,129.5,129.5,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-27,nike,air-max-90,Nike,Air Max 90,77.99,77.99,18,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-27,nike,air-max-95,Nike,Air Max 95,61.99,61.99,14,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-27,nike,air-max-plus,Nike,Air Max Plus,89.99,65,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-27,nike,cortez,Nike,Cortez,35.99,35.99,13,https://sneakerpicks.nl/merken/nike/cortez
@@ -894,7 +894,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-28,adidas,ultraboost,adidas,Ultraboost,83,83,7,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-10-28,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,19,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-10-28,adidas-originals,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
-2026-10-28,asics,gel-1130,ASICS,GEL-1130,60,60,16,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-28,asics,gel-1130,ASICS,GEL-1130,94.95,94.95,12,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-10-28,asics,gel-kayano,ASICS,GEL-Kayano,169,169,4,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-10-28,asics,gel-nyc,ASICS,GEL-NYC,74,75.99,18,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-10-28,asics,gel-quantum,ASICS,GEL-Quantum,152.99,71.98,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -907,10 +907,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-28,new-balance,9060,New Balance,9060,99.99,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
 2026-10-28,nike,air-force-1,Nike,Air Force 1,72.99,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-28,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-10-28,nike,air-max,Nike,Air Max,78.99,78.99,16,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-28,nike,air-max,Nike,Air Max,79.99,79.99,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-28,nike,air-max-1,Nike,Air Max 1,79.95,79.95,13,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-28,nike,air-max-270,Nike,Air Max 270,79.95,79.95,7,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-28,nike,air-max-90,Nike,Air Max 90,129.5,129.5,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-28,nike,air-max-90,Nike,Air Max 90,77.99,77.99,18,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-28,nike,air-max-95,Nike,Air Max 95,61.99,61.99,14,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-28,nike,air-max-plus,Nike,Air Max Plus,90,65,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-28,nike,cortez,Nike,Cortez,35.99,35.99,13,https://sneakerpicks.nl/merken/nike/cortez
@@ -937,7 +937,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-29,adidas,ultraboost,adidas,Ultraboost,82,83,6,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-10-29,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,19,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-10-29,adidas-originals,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
-2026-10-29,asics,gel-1130,ASICS,GEL-1130,60,60,16,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-29,asics,gel-1130,ASICS,GEL-1130,94.95,94.95,12,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-10-29,asics,gel-kayano,ASICS,GEL-Kayano,169,169,4,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-10-29,asics,gel-nyc,ASICS,GEL-NYC,75.99,75.99,18,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-10-29,asics,gel-quantum,ASICS,GEL-Quantum,152.99,71.98,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -950,10 +950,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-29,new-balance,9060,New Balance,9060,90,99.99,17,https://sneakerpicks.nl/merken/new-balance/9060
 2026-10-29,nike,air-force-1,Nike,Air Force 1,72.99,72.99,18,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-29,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,8,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-10-29,nike,air-max,Nike,Air Max,78.99,78.99,16,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-29,nike,air-max,Nike,Air Max,79.98,79.99,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-29,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-29,nike,air-max-270,Nike,Air Max 270,77,79.95,6,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-29,nike,air-max-90,Nike,Air Max 90,129.5,129.5,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-29,nike,air-max-90,Nike,Air Max 90,77.99,77.99,18,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-29,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-29,nike,air-max-plus,Nike,Air Max Plus,90,65,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-29,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -979,7 +979,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-30,adidas,ultraboost,adidas,Ultraboost,83,83,6,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-10-30,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,19,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-10-30,adidas-originals,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
-2026-10-30,asics,gel-1130,ASICS,GEL-1130,39.99,60,16,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-30,asics,gel-1130,ASICS,GEL-1130,94.95,94.95,11,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-10-30,asics,gel-kayano,ASICS,GEL-Kayano,172,169,4,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-10-30,asics,gel-nyc,ASICS,GEL-NYC,75.99,75.99,18,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-10-30,asics,gel-quantum,ASICS,GEL-Quantum,152.99,71.98,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -992,10 +992,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-30,new-balance,9060,New Balance,9060,70,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
 2026-10-30,nike,air-force-1,Nike,Air Force 1,72.99,72.99,18,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-30,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,8,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-10-30,nike,air-max,Nike,Air Max,78.99,78.99,16,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-30,nike,air-max,Nike,Air Max,79.99,79.99,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-30,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-30,nike,air-max-270,Nike,Air Max 270,79.95,79.95,6,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-30,nike,air-max-90,Nike,Air Max 90,129.5,129.5,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-30,nike,air-max-90,Nike,Air Max 90,77.99,77.99,18,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-30,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-30,nike,air-max-plus,Nike,Air Max Plus,65,65,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-30,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1021,7 +1021,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-31,adidas,ultraboost,adidas,Ultraboost,83,83,6,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-10-31,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,19,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-10-31,adidas-originals,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
-2026-10-31,asics,gel-1130,ASICS,GEL-1130,60,60,15,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-10-31,asics,gel-1130,ASICS,GEL-1130,94.95,94.95,11,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-10-31,asics,gel-kayano,ASICS,GEL-Kayano,172,169,4,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-10-31,asics,gel-nyc,ASICS,GEL-NYC,75.99,75.99,17,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-10-31,asics,gel-quantum,ASICS,GEL-Quantum,152.99,112.49,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -1034,10 +1034,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-10-31,new-balance,9060,New Balance,9060,70,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
 2026-10-31,nike,air-force-1,Nike,Air Force 1,72.99,72.99,18,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-10-31,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,8,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-10-31,nike,air-max,Nike,Air Max,78.99,78.99,16,https://sneakerpicks.nl/merken/nike/air-max
+2026-10-31,nike,air-max,Nike,Air Max,79.99,79.99,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-10-31,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-10-31,nike,air-max-270,Nike,Air Max 270,79.95,79.95,5,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-10-31,nike,air-max-90,Nike,Air Max 90,129.5,129.5,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-10-31,nike,air-max-90,Nike,Air Max 90,77.99,77.99,18,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-10-31,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-10-31,nike,air-max-plus,Nike,Air Max Plus,90,65,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-10-31,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1063,7 +1063,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-01,adidas,ultraboost,adidas,Ultraboost,83,83,6,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-11-01,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,19,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-11-01,adidas-originals,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
-2026-11-01,asics,gel-1130,ASICS,GEL-1130,60,60,15,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-11-01,asics,gel-1130,ASICS,GEL-1130,94.95,94.95,12,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-11-01,asics,gel-kayano,ASICS,GEL-Kayano,172,169,4,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-11-01,asics,gel-nyc,ASICS,GEL-NYC,75.99,75.99,18,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-11-01,asics,gel-quantum,ASICS,GEL-Quantum,152.99,152.99,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -1076,10 +1076,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-01,new-balance,9060,New Balance,9060,70,99.99,17,https://sneakerpicks.nl/merken/new-balance/9060
 2026-11-01,nike,air-force-1,Nike,Air Force 1,72.99,72.99,18,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-01,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-11-01,nike,air-max,Nike,Air Max,78.99,78.99,16,https://sneakerpicks.nl/merken/nike/air-max
+2026-11-01,nike,air-max,Nike,Air Max,79.99,79.99,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-01,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-11-01,nike,air-max-270,Nike,Air Max 270,79.95,79.95,6,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-11-01,nike,air-max-90,Nike,Air Max 90,129.5,129.5,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-01,nike,air-max-90,Nike,Air Max 90,77.99,77.99,18,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-01,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-01,nike,air-max-plus,Nike,Air Max Plus,90,65,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-01,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1105,7 +1105,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-02,adidas,ultraboost,adidas,Ultraboost,83,83,6,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-11-02,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,19,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-11-02,adidas-originals,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
-2026-11-02,asics,gel-1130,ASICS,GEL-1130,60,60,16,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-11-02,asics,gel-1130,ASICS,GEL-1130,94.95,94.95,13,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-11-02,asics,gel-kayano,ASICS,GEL-Kayano,172,169,6,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-11-02,asics,gel-nyc,ASICS,GEL-NYC,75.99,75.99,17,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-11-02,asics,gel-quantum,ASICS,GEL-Quantum,152.99,152.99,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -1118,10 +1118,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-02,new-balance,9060,New Balance,9060,99.99,99.99,17,https://sneakerpicks.nl/merken/new-balance/9060
 2026-11-02,nike,air-force-1,Nike,Air Force 1,72.99,72.99,18,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-02,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-11-02,nike,air-max,Nike,Air Max,78.99,78.99,16,https://sneakerpicks.nl/merken/nike/air-max
+2026-11-02,nike,air-max,Nike,Air Max,79.99,79.99,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-02,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-11-02,nike,air-max-270,Nike,Air Max 270,79.95,79.95,5,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-11-02,nike,air-max-90,Nike,Air Max 90,129.5,129.5,17,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-02,nike,air-max-90,Nike,Air Max 90,77.99,77.99,18,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-02,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-02,nike,air-max-plus,Nike,Air Max Plus,90,77.5,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-02,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1147,7 +1147,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-03,adidas,ultraboost,adidas,Ultraboost,82,83,6,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-11-03,adidas-originals,handball-spezial,adidas,Handball Spezial,40,49.95,21,https://sneakerpicks.nl/merken/adidas/handball-spezial
 2026-11-03,adidas-originals,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
-2026-11-03,asics,gel-1130,ASICS,GEL-1130,63.03,60,16,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-11-03,asics,gel-1130,ASICS,GEL-1130,94.95,94.95,14,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-11-03,asics,gel-kayano,ASICS,GEL-Kayano,198,169,6,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-11-03,asics,gel-nyc,ASICS,GEL-NYC,95,75.99,18,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-11-03,asics,gel-quantum,ASICS,GEL-Quantum,152.99,152.99,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -1160,10 +1160,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-03,new-balance,9060,New Balance,9060,99.99,99.99,20,https://sneakerpicks.nl/merken/new-balance/9060
 2026-11-03,nike,air-force-1,Nike,Air Force 1,72.99,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-03,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-11-03,nike,air-max,Nike,Air Max,78.99,78.99,16,https://sneakerpicks.nl/merken/nike/air-max
+2026-11-03,nike,air-max,Nike,Air Max,79.99,79.99,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-03,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-11-03,nike,air-max-270,Nike,Air Max 270,79.95,79.95,6,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-11-03,nike,air-max-90,Nike,Air Max 90,129.5,129.5,19,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-03,nike,air-max-90,Nike,Air Max 90,77.99,77.99,19,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-03,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-03,nike,air-max-plus,Nike,Air Max Plus,84.99,84.99,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-03,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1187,7 +1187,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-04,adidas,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
 2026-11-04,adidas,ultraboost,adidas,Ultraboost,82,83,7,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-11-04,adidas-originals,handball-spezial,adidas,Handball Spezial,40,49.95,22,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-11-04,asics,gel-1130,ASICS,GEL-1130,63.03,60,17,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-11-04,asics,gel-1130,ASICS,GEL-1130,94.95,94.95,14,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-11-04,asics,gel-kayano,ASICS,GEL-Kayano,198,169,6,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-11-04,asics,gel-nyc,ASICS,GEL-NYC,75,75.99,19,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-11-04,asics,gel-quantum,ASICS,GEL-Quantum,152.99,152.99,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -1200,10 +1200,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-04,new-balance,9060,New Balance,9060,99.99,99.99,21,https://sneakerpicks.nl/merken/new-balance/9060
 2026-11-04,nike,air-force-1,Nike,Air Force 1,72.01,72.99,20,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-04,nike,air-jordan-1,Nike,Air Jordan 1,92,93.79,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-11-04,nike,air-max,Nike,Air Max,78.99,78.99,17,https://sneakerpicks.nl/merken/nike/air-max
+2026-11-04,nike,air-max,Nike,Air Max,79.99,79.99,17,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-04,nike,air-max-1,Nike,Air Max 1,79.95,79.95,13,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-11-04,nike,air-max-270,Nike,Air Max 270,79.95,79.95,6,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-11-04,nike,air-max-90,Nike,Air Max 90,129.5,129.5,20,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-04,nike,air-max-90,Nike,Air Max 90,77.99,77.99,20,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-04,nike,air-max-95,Nike,Air Max 95,61.99,61.99,13,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-04,nike,air-max-plus,Nike,Air Max Plus,90.95,87.49,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-04,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1227,7 +1227,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-05,adidas,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
 2026-11-05,adidas,ultraboost,adidas,Ultraboost,82,83,7,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-11-05,adidas-originals,handball-spezial,adidas,Handball Spezial,40,49.95,22,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-11-05,asics,gel-1130,ASICS,GEL-1130,65.43,60,18,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-11-05,asics,gel-1130,ASICS,GEL-1130,93.46,94.95,14,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-11-05,asics,gel-kayano,ASICS,GEL-Kayano,127,169,6,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-11-05,asics,gel-nyc,ASICS,GEL-NYC,75,75.99,18,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-11-05,asics,gel-quantum,ASICS,GEL-Quantum,152.99,152.99,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -1240,10 +1240,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-05,new-balance,9060,New Balance,9060,90,99.99,20,https://sneakerpicks.nl/merken/new-balance/9060
 2026-11-05,nike,air-force-1,Nike,Air Force 1,72.01,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-05,nike,air-jordan-1,Nike,Air Jordan 1,92,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-11-05,nike,air-max,Nike,Air Max,78.99,78.99,17,https://sneakerpicks.nl/merken/nike/air-max
+2026-11-05,nike,air-max,Nike,Air Max,79.99,79.99,17,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-05,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-11-05,nike,air-max-270,Nike,Air Max 270,79.95,79.95,8,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-11-05,nike,air-max-90,Nike,Air Max 90,129.5,129.5,19,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-05,nike,air-max-90,Nike,Air Max 90,77.95,77.99,19,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-05,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-05,nike,air-max-plus,Nike,Air Max Plus,98,89.99,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-05,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1267,7 +1267,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-06,adidas,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
 2026-11-06,adidas,ultraboost,adidas,Ultraboost,82,83,7,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-11-06,adidas-originals,handball-spezial,adidas,Handball Spezial,40,49.95,22,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-11-06,asics,gel-1130,ASICS,GEL-1130,63.03,60,17,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-11-06,asics,gel-1130,ASICS,GEL-1130,93.46,94.95,14,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-11-06,asics,gel-kayano,ASICS,GEL-Kayano,127,169,6,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-11-06,asics,gel-nyc,ASICS,GEL-NYC,75,75.99,18,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-11-06,asics,gel-quantum,ASICS,GEL-Quantum,152.99,152.99,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -1280,10 +1280,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-06,new-balance,9060,New Balance,9060,60,99.99,19,https://sneakerpicks.nl/merken/new-balance/9060
 2026-11-06,nike,air-force-1,Nike,Air Force 1,72.99,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-06,nike,air-jordan-1,Nike,Air Jordan 1,92,93.79,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-11-06,nike,air-max,Nike,Air Max,78.99,78.99,16,https://sneakerpicks.nl/merken/nike/air-max
+2026-11-06,nike,air-max,Nike,Air Max,79.99,79.99,16,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-06,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-11-06,nike,air-max-270,Nike,Air Max 270,79.95,79.95,8,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-11-06,nike,air-max-90,Nike,Air Max 90,129.5,129.5,19,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-06,nike,air-max-90,Nike,Air Max 90,77.95,77.99,19,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-06,nike,air-max-95,Nike,Air Max 95,61.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-06,nike,air-max-plus,Nike,Air Max Plus,90,90,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-06,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1307,7 +1307,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-07,adidas,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
 2026-11-07,adidas,ultraboost,adidas,Ultraboost,82,83,7,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-11-07,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,22,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-11-07,asics,gel-1130,ASICS,GEL-1130,63.03,60,16,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-11-07,asics,gel-1130,ASICS,GEL-1130,93.46,94.95,14,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-11-07,asics,gel-kayano,ASICS,GEL-Kayano,127,169,6,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-11-07,asics,gel-nyc,ASICS,GEL-NYC,75,75.99,18,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-11-07,asics,gel-quantum,ASICS,GEL-Quantum,152.99,152.99,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -1320,10 +1320,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-07,new-balance,9060,New Balance,9060,60,99.99,20,https://sneakerpicks.nl/merken/new-balance/9060
 2026-11-07,nike,air-force-1,Nike,Air Force 1,72,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-07,nike,air-jordan-1,Nike,Air Jordan 1,92,93.79,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-11-07,nike,air-max,Nike,Air Max,78.99,78.99,17,https://sneakerpicks.nl/merken/nike/air-max
+2026-11-07,nike,air-max,Nike,Air Max,80,79.99,17,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-07,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-11-07,nike,air-max-270,Nike,Air Max 270,79.95,79.95,8,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-11-07,nike,air-max-90,Nike,Air Max 90,129.5,129.5,19,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-07,nike,air-max-90,Nike,Air Max 90,77.95,77.99,19,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-07,nike,air-max-95,Nike,Air Max 95,69.95,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-07,nike,air-max-plus,Nike,Air Max Plus,84.95,89.99,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-07,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1347,7 +1347,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-08,adidas,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
 2026-11-08,adidas,ultraboost,adidas,Ultraboost,82,83,7,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-11-08,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,22,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-11-08,asics,gel-1130,ASICS,GEL-1130,63.03,60,16,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-11-08,asics,gel-1130,ASICS,GEL-1130,93.46,94.95,14,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-11-08,asics,gel-kayano,ASICS,GEL-Kayano,211.49,169,5,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-11-08,asics,gel-nyc,ASICS,GEL-NYC,75,75.99,19,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-11-08,asics,gel-quantum,ASICS,GEL-Quantum,152.99,152.99,2,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -1360,10 +1360,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-08,new-balance,9060,New Balance,9060,60,99.99,20,https://sneakerpicks.nl/merken/new-balance/9060
 2026-11-08,nike,air-force-1,Nike,Air Force 1,72,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-08,nike,air-jordan-1,Nike,Air Jordan 1,92,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-11-08,nike,air-max,Nike,Air Max,78.99,78.99,17,https://sneakerpicks.nl/merken/nike/air-max
+2026-11-08,nike,air-max,Nike,Air Max,79.99,79.99,17,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-08,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-11-08,nike,air-max-270,Nike,Air Max 270,79.95,79.95,8,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-11-08,nike,air-max-90,Nike,Air Max 90,129.5,129.5,18,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-08,nike,air-max-90,Nike,Air Max 90,77.95,77.99,19,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-08,nike,air-max-95,Nike,Air Max 95,69.95,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-08,nike,air-max-plus,Nike,Air Max Plus,84.95,87.49,13,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-08,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1387,7 +1387,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-09,adidas,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
 2026-11-09,adidas,ultraboost,adidas,Ultraboost,52.99,83,8,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-11-09,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,22,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-11-09,asics,gel-1130,ASICS,GEL-1130,63.03,60,17,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-11-09,asics,gel-1130,ASICS,GEL-1130,93.46,94.95,14,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-11-09,asics,gel-kayano,ASICS,GEL-Kayano,127,169,6,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-11-09,asics,gel-nyc,ASICS,GEL-NYC,75,75.99,19,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-11-09,asics,gel-quantum,ASICS,GEL-Quantum,152.99,152.99,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -1400,10 +1400,10 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-09,new-balance,9060,New Balance,9060,60,99.99,20,https://sneakerpicks.nl/merken/new-balance/9060
 2026-11-09,nike,air-force-1,Nike,Air Force 1,72,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-09,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-11-09,nike,air-max,Nike,Air Max,78.99,78.99,17,https://sneakerpicks.nl/merken/nike/air-max
+2026-11-09,nike,air-max,Nike,Air Max,80,79.99,17,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-09,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
 2026-11-09,nike,air-max-270,Nike,Air Max 270,79.95,79.95,9,https://sneakerpicks.nl/merken/nike/air-max-270
-2026-11-09,nike,air-max-90,Nike,Air Max 90,129.5,129.5,18,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-09,nike,air-max-90,Nike,Air Max 90,77.95,77.99,19,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-09,nike,air-max-95,Nike,Air Max 95,89.95,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-09,nike,air-max-plus,Nike,Air Max Plus,84.95,84.99,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-09,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1427,7 +1427,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-10,adidas,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
 2026-11-10,adidas,ultraboost,adidas,Ultraboost,52.99,83,8,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-11-10,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,22,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-11-10,asics,gel-1130,ASICS,GEL-1130,63.03,60,19,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-11-10,asics,gel-1130,ASICS,GEL-1130,93.46,94.95,14,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-11-10,asics,gel-kayano,ASICS,GEL-Kayano,127,169,6,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-11-10,asics,gel-nyc,ASICS,GEL-NYC,98,75.99,19,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-11-10,asics,gel-quantum,ASICS,GEL-Quantum,152.99,152.99,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -1440,9 +1440,9 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-10,new-balance,9060,New Balance,9060,99.99,99.99,20,https://sneakerpicks.nl/merken/new-balance/9060
 2026-11-10,nike,air-force-1,Nike,Air Force 1,72,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-10,nike,air-jordan-1,Nike,Air Jordan 1,92,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-11-10,nike,air-max,Nike,Air Max,78.99,78.99,17,https://sneakerpicks.nl/merken/nike/air-max
+2026-11-10,nike,air-max,Nike,Air Max,80,79.99,17,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-10,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
-2026-11-10,nike,air-max-90,Nike,Air Max 90,129.5,129.5,18,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-10,nike,air-max-90,Nike,Air Max 90,77.95,77.99,19,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-10,nike,air-max-95,Nike,Air Max 95,69.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-10,nike,air-max-plus,Nike,Air Max Plus,84.95,84.97,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-10,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1466,7 +1466,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-11,adidas,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
 2026-11-11,adidas,ultraboost,adidas,Ultraboost,83.3,83,7,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-11-11,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,22,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-11-11,asics,gel-1130,ASICS,GEL-1130,63.03,60,18,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-11-11,asics,gel-1130,ASICS,GEL-1130,98.45,94.95,13,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-11-11,asics,gel-kayano,ASICS,GEL-Kayano,127,169,6,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-11-11,asics,gel-nyc,ASICS,GEL-NYC,75.99,75.99,18,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-11-11,asics,gel-quantum,ASICS,GEL-Quantum,152.99,152.99,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -1479,9 +1479,9 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-11,new-balance,9060,New Balance,9060,80,99.99,20,https://sneakerpicks.nl/merken/new-balance/9060
 2026-11-11,nike,air-force-1,Nike,Air Force 1,72,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-11,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-11-11,nike,air-max,Nike,Air Max,78.99,78.99,18,https://sneakerpicks.nl/merken/nike/air-max
+2026-11-11,nike,air-max,Nike,Air Max,80,79.99,18,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-11,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
-2026-11-11,nike,air-max-90,Nike,Air Max 90,129.5,129.5,18,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-11,nike,air-max-90,Nike,Air Max 90,77.95,77.99,19,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-11,nike,air-max-95,Nike,Air Max 95,89.95,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-11,nike,air-max-plus,Nike,Air Max Plus,84.95,84.95,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-11,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1505,7 +1505,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-12,adidas,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
 2026-11-12,adidas,ultraboost,adidas,Ultraboost,82,83,7,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-11-12,adidas-originals,handball-spezial,adidas,Handball Spezial,49.95,49.95,22,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-11-12,asics,gel-1130,ASICS,GEL-1130,63.03,60,18,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-11-12,asics,gel-1130,ASICS,GEL-1130,98.45,94.95,14,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-11-12,asics,gel-kayano,ASICS,GEL-Kayano,127,169,6,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-11-12,asics,gel-nyc,ASICS,GEL-NYC,75,75.99,18,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-11-12,asics,gel-quantum,ASICS,GEL-Quantum,152.99,152.99,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -1517,9 +1517,9 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-12,new-balance,9060,New Balance,9060,80,95,19,https://sneakerpicks.nl/merken/new-balance/9060
 2026-11-12,nike,air-force-1,Nike,Air Force 1,72.99,72.99,19,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-12,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-11-12,nike,air-max,Nike,Air Max,78.99,78.99,17,https://sneakerpicks.nl/merken/nike/air-max
+2026-11-12,nike,air-max,Nike,Air Max,79.99,79.99,17,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-12,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
-2026-11-12,nike,air-max-90,Nike,Air Max 90,129.5,129.5,19,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-12,nike,air-max-90,Nike,Air Max 90,77.95,77.99,19,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-12,nike,air-max-95,Nike,Air Max 95,93.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-12,nike,air-max-plus,Nike,Air Max Plus,89.99,84.97,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-12,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1543,7 +1543,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-13,adidas,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
 2026-11-13,adidas,ultraboost,adidas,Ultraboost,72,83,7,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-11-13,adidas-originals,handball-spezial,adidas,Handball Spezial,48.75,49.95,22,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-11-13,asics,gel-1130,ASICS,GEL-1130,63.03,60,19,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-11-13,asics,gel-1130,ASICS,GEL-1130,98.45,94.95,12,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-11-13,asics,gel-kayano,ASICS,GEL-Kayano,127,169,6,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-11-13,asics,gel-nyc,ASICS,GEL-NYC,75,75.99,20,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-11-13,asics,gel-quantum,ASICS,GEL-Quantum,152.99,152.99,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -1555,9 +1555,9 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-13,new-balance,9060,New Balance,9060,80,90,19,https://sneakerpicks.nl/merken/new-balance/9060
 2026-11-13,nike,air-force-1,Nike,Air Force 1,72.99,72.99,20,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-13,nike,air-jordan-1,Nike,Air Jordan 1,92,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-11-13,nike,air-max,Nike,Air Max,78.99,78.99,19,https://sneakerpicks.nl/merken/nike/air-max
+2026-11-13,nike,air-max,Nike,Air Max,79.99,79.99,19,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-13,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
-2026-11-13,nike,air-max-90,Nike,Air Max 90,129.5,129.5,19,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-13,nike,air-max-90,Nike,Air Max 90,77.95,77.99,19,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-13,nike,air-max-95,Nike,Air Max 95,88,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-13,nike,air-max-plus,Nike,Air Max Plus,89.99,84.99,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-13,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1581,7 +1581,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-14,adidas,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
 2026-11-14,adidas,ultraboost,adidas,Ultraboost,52.99,83,8,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-11-14,adidas-originals,handball-spezial,adidas,Handball Spezial,40,49.95,22,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-11-14,asics,gel-1130,ASICS,GEL-1130,59.99,60,22,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-11-14,asics,gel-1130,ASICS,GEL-1130,94.95,94.95,14,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-11-14,asics,gel-kayano,ASICS,GEL-Kayano,127,169,6,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-11-14,asics,gel-nyc,ASICS,GEL-NYC,75,75.99,20,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-11-14,asics,gel-quantum,ASICS,GEL-Quantum,152.99,152.99,3,https://sneakerpicks.nl/merken/asics/gel-quantum
@@ -1594,9 +1594,9 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-14,new-balance,9060,New Balance,9060,99.99,95,18,https://sneakerpicks.nl/merken/new-balance/9060
 2026-11-14,nike,air-force-1,Nike,Air Force 1,72.99,72.99,20,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-14,nike,air-jordan-1,Nike,Air Jordan 1,92,93.79,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-11-14,nike,air-max,Nike,Air Max,78.99,78.99,19,https://sneakerpicks.nl/merken/nike/air-max
+2026-11-14,nike,air-max,Nike,Air Max,79.99,79.99,19,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-14,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
-2026-11-14,nike,air-max-90,Nike,Air Max 90,129.5,129.5,19,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-14,nike,air-max-90,Nike,Air Max 90,77.99,77.99,19,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-14,nike,air-max-95,Nike,Air Max 95,93.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-14,nike,air-max-plus,Nike,Air Max Plus,90,87.49,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-14,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1620,7 +1620,7 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-15,adidas,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
 2026-11-15,adidas,ultraboost,adidas,Ultraboost,52.99,83,8,https://sneakerpicks.nl/merken/adidas/ultraboost
 2026-11-15,adidas-originals,handball-spezial,adidas,Handball Spezial,40,49.95,22,https://sneakerpicks.nl/merken/adidas/handball-spezial
-2026-11-15,asics,gel-1130,ASICS,GEL-1130,57,60,21,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-11-15,asics,gel-1130,ASICS,GEL-1130,94.95,94.95,14,https://sneakerpicks.nl/merken/asics/gel-1130
 2026-11-15,asics,gel-kayano,ASICS,GEL-Kayano,108,169,6,https://sneakerpicks.nl/merken/asics/gel-kayano
 2026-11-15,asics,gel-nyc,ASICS,GEL-NYC,75,75.99,19,https://sneakerpicks.nl/merken/asics/gel-nyc
 2026-11-15,converse,chuck-70,Converse,Chuck 70,44.99,44.99,9,https://sneakerpicks.nl/merken/converse/chuck-70
@@ -1632,9 +1632,9 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-15,new-balance,9060,New Balance,9060,99.99,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
 2026-11-15,nike,air-force-1,Nike,Air Force 1,72.99,72.99,20,https://sneakerpicks.nl/merken/nike/air-force-1
 2026-11-15,nike,air-jordan-1,Nike,Air Jordan 1,93.79,93.79,10,https://sneakerpicks.nl/merken/nike/air-jordan-1
-2026-11-15,nike,air-max,Nike,Air Max,78.99,78.99,19,https://sneakerpicks.nl/merken/nike/air-max
+2026-11-15,nike,air-max,Nike,Air Max,79.99,79.99,19,https://sneakerpicks.nl/merken/nike/air-max
 2026-11-15,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
-2026-11-15,nike,air-max-90,Nike,Air Max 90,129.5,129.5,19,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-15,nike,air-max-90,Nike,Air Max 90,77.99,77.99,19,https://sneakerpicks.nl/merken/nike/air-max-90
 2026-11-15,nike,air-max-95,Nike,Air Max 95,93.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
 2026-11-15,nike,air-max-plus,Nike,Air Max Plus,90,89.99,14,https://sneakerpicks.nl/merken/nike/air-max-plus
 2026-11-15,nike,dunk-high,Nike,Dunk High,49.95,49.95,9,https://sneakerpicks.nl/merken/nike/dunk-high
@@ -1648,3 +1648,41 @@ date,brand_slug,model_slug,brand,model,lowest_price_eur,normal_price_30d_eur,sho
 2026-11-15,vans,knu-skool,Vans,Knu Skool,46.99,40,10,https://sneakerpicks.nl/merken/vans/knu-skool
 2026-11-15,vans,old-skool,Vans,Old Skool,40,40,20,https://sneakerpicks.nl/merken/vans/old-skool
 2026-11-15,vans,sk8-hi,Vans,Sk8-Hi,43.99,49.49,8,https://sneakerpicks.nl/merken/vans/sk8-hi
+2026-11-16,adidas,campus,adidas,Campus,44.99,44.99,11,https://sneakerpicks.nl/merken/adidas/campus
+2026-11-16,adidas,campus-00s,adidas,Campus 00s,39.95,39.95,17,https://sneakerpicks.nl/merken/adidas/campus-00s
+2026-11-16,adidas,gazelle,adidas,Gazelle,43.95,43.95,19,https://sneakerpicks.nl/merken/adidas/gazelle
+2026-11-16,adidas,handball-spezial,adidas,Handball Spezial,40,49.95,22,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-11-16,adidas,samba,adidas,Samba,42,55,20,https://sneakerpicks.nl/merken/adidas/samba
+2026-11-16,adidas,samba-og,adidas,Samba OG,68,68,20,https://sneakerpicks.nl/merken/adidas/samba-og
+2026-11-16,adidas,sl-72,adidas,SL 72,39.95,44.95,14,https://sneakerpicks.nl/merken/adidas/sl-72
+2026-11-16,adidas,superstar,adidas,Superstar,55,55,15,https://sneakerpicks.nl/merken/adidas/superstar
+2026-11-16,adidas,ultraboost,adidas,Ultraboost,52.99,83,8,https://sneakerpicks.nl/merken/adidas/ultraboost
+2026-11-16,adidas-originals,handball-spezial,adidas,Handball Spezial,40,49.95,22,https://sneakerpicks.nl/merken/adidas/handball-spezial
+2026-11-16,asics,gel-1130,ASICS,GEL-1130,94.95,94.95,14,https://sneakerpicks.nl/merken/asics/gel-1130
+2026-11-16,asics,gel-kayano,ASICS,GEL-Kayano,108,169,6,https://sneakerpicks.nl/merken/asics/gel-kayano
+2026-11-16,asics,gel-nyc,ASICS,GEL-NYC,75,75.99,20,https://sneakerpicks.nl/merken/asics/gel-nyc
+2026-11-16,converse,chuck-70,Converse,Chuck 70,44.99,44.99,9,https://sneakerpicks.nl/merken/converse/chuck-70
+2026-11-16,gabor,rollingsoft,Gabor,Rollingsoft,90.99,90.32,3,https://sneakerpicks.nl/merken/gabor/rollingsoft
+2026-11-16,la-conte-paris,ge-sneakers,La Conte Paris,ge Sneakers,72.93,,1,https://sneakerpicks.nl/merken/la-conte-paris/ge-sneakers
+2026-11-16,new-balance,530,New Balance,530,59.99,59.75,13,https://sneakerpicks.nl/merken/new-balance/530
+2026-11-16,new-balance,574,New Balance,574,42.67,59.5,14,https://sneakerpicks.nl/merken/new-balance/574
+2026-11-16,new-balance,740,New Balance,740,59.99,59.99,15,https://sneakerpicks.nl/merken/new-balance/740
+2026-11-16,new-balance,9060,New Balance,9060,100,99.99,18,https://sneakerpicks.nl/merken/new-balance/9060
+2026-11-16,nike,air-force-1,Nike,Air Force 1,72.99,72.99,20,https://sneakerpicks.nl/merken/nike/air-force-1
+2026-11-16,nike,air-jordan-1,Nike,Air Jordan 1,92,93.79,9,https://sneakerpicks.nl/merken/nike/air-jordan-1
+2026-11-16,nike,air-max,Nike,Air Max,79.99,79.99,19,https://sneakerpicks.nl/merken/nike/air-max
+2026-11-16,nike,air-max-1,Nike,Air Max 1,79.95,79.95,12,https://sneakerpicks.nl/merken/nike/air-max-1
+2026-11-16,nike,air-max-90,Nike,Air Max 90,77.99,77.99,19,https://sneakerpicks.nl/merken/nike/air-max-90
+2026-11-16,nike,air-max-95,Nike,Air Max 95,93.99,61.99,12,https://sneakerpicks.nl/merken/nike/air-max-95
+2026-11-16,nike,air-max-plus,Nike,Air Max Plus,90,89.99,14,https://sneakerpicks.nl/merken/nike/air-max-plus
+2026-11-16,nike,dunk-high,Nike,Dunk High,49.95,49.95,10,https://sneakerpicks.nl/merken/nike/dunk-high
+2026-11-16,nike,dunk-low,Nike,Dunk Low,83.99,83.99,16,https://sneakerpicks.nl/merken/nike/dunk-low
+2026-11-16,nike,p-6000,Nike,P-6000,61.99,43.99,20,https://sneakerpicks.nl/merken/nike/p-6000
+2026-11-16,nike,pegasus,Nike,Pegasus,99.95,97,15,https://sneakerpicks.nl/merken/nike/pegasus
+2026-11-16,nike,vomero-5,Nike,Vomero 5,63.99,63.99,10,https://sneakerpicks.nl/merken/nike/vomero-5
+2026-11-16,puma,palermo,PUMA,Palermo,31.95,32.95,12,https://sneakerpicks.nl/merken/puma/palermo
+2026-11-16,puma,speedcat,PUMA,Speedcat,36.95,38.48,11,https://sneakerpicks.nl/merken/puma/speedcat
+2026-11-16,puma,suede,PUMA,Suede,32.95,31.95,15,https://sneakerpicks.nl/merken/puma/suede
+2026-11-16,vans,knu-skool,Vans,Knu Skool,46.99,40,10,https://sneakerpicks.nl/merken/vans/knu-skool
+2026-11-16,vans,old-skool,Vans,Old Skool,40,40,20,https://sneakerpicks.nl/merken/vans/old-skool
+2026-11-16,vans,sk8-hi,Vans,Sk8-Hi,43.99,49.49,8,https://sneakerpicks.nl/merken/vans/sk8-hi
